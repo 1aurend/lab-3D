@@ -1,4 +1,4 @@
-import React, {useEffect, useRef, Component} from 'react';
+import React, {useEffect, useRef} from 'react';
 import styled from 'styled-components';
 
 const ViewerBox = styled.div`
@@ -19,6 +19,13 @@ const ViewerFrame = styled.iframe`
 const version = '1.7.1'
 
 const Viewer = (props) => {
+    // useEffect(
+    //   ()=>{
+    //     return()=>{
+    //       client.api.load(function() {console.log('Viewer loaded');});
+    //     }
+    //   },[props.url],
+    // )
     const targetRef = useRef(null);
     const urlid = props.url;
     useEffect(() => {
@@ -37,8 +44,8 @@ const Viewer = (props) => {
           error: function onError() {
               console.log('Viewer failed to initialize');
           },
-          autospin: 0.1,
-          autostart: 1,
+          autospin: 0.05,
+          autostart: 0,
           camera: 0,
           dof: 0,
           ui_stop: 0,
@@ -49,10 +56,10 @@ const Viewer = (props) => {
           ui_inspector: 0,
           ui_settings: 0,
           ui_vr: 0,
-          ui_infos: 1,
+          ui_infos: 0,
           ui_hint: 0
       });
-    }, [])
+    }, [props.url])
 
     return (
         <ViewerBox className="ViewerBox">

@@ -1,0 +1,50 @@
+{
+  "s13alligatorfemur":{
+    "type":"sketchfab",
+    "resource":"0ced4af2abd549b093e2e71a7af66079",
+    "metadata":{
+      "taxon":"Alligator mississipiensis",
+      "attribution":{
+        "institution":"Museum of Comparative Zoology",
+        "people":"Philip Fahn-Lai"
+      }
+    }
+  },
+  "s47epiphyses":{
+    "type":"sketchfab",
+    "resource":"1918b259d03442bb99418294dd6d8dd5",
+    "metadata":{
+      "taxon":"Salvator merianae",
+      "attribution":{
+        "institution":"S. Pierce Lab, Harvard University",
+        "people":"Philip Fahn-Lai"
+      }
+    }
+  },
+  "v165tenrec":{
+    "type":"video",
+    "resource":"http://digimorph.org/specimens/Hemicentetes_semispinosus/body/YawSpinBodySkel.mp4",
+    "metadata":{
+      "taxon":"Hemicentetes semispinosus",
+      "attribution":{
+        "institution":"American Museum of Natural History",
+        "people":"Dr. Matthew Colbert, Dr. Jennifer Olori"
+      }
+    }
+  },
+  "i166desmostylian":{
+    "type":"image",
+    "resource":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Paleoparadoxia_Natural_History_Museum_of_Los_Angeles_County_20110330.jpg",
+    "metadata":{
+      "taxon":"Neoparadoxia cecilialina",
+      "attribution":{
+        "institution":"Natural History Museum of Los Angeles County",
+        "people":"Wikipedia User Darwin's Bulldog"
+      }
+    }
+  }
+
+
+
+
+}

@@ -1,27 +1,40 @@
-import React from 'react';
-import tree5 from './data/trees/tree5.svg'
+import React, {useState} from 'react';
+import {Route, withRouter} from 'react-router-dom';
 import {Box, Flex, System} from 'rebass'
 import {Label, Select} from '@rebass/forms'
 import styled from 'styled-components'
-import { ModalProvider } from 'styled-react-modal'
-import Viewer from './components/Viewer'
+import SpecimenPane from './components/SpecimenPane'
 import Info from './components/Info'
+import Tree from './components/Tree'
+import db from './data/lookup.json'
+import {IDContext} from './data/DataContexts'
 import './App.css';
 
+
+
+const iconSize = '56px'
+
+
 const Universe = styled(Box)`
-  padding: 3%
 `
 
 const Galaxy = styled(Flex)`
-  height: 100%;
+  height:100%;
+
 `
-
 const TreeBox = styled(Box)`
-
+  z-index: 10;
+  position: fixed;
+  bottom: 50vh;
+  right: calc((100vw - ${iconSize})/1.53);
 `
 const InfoBox = styled(Box)`
   display: block;
+  padding: 2% 5%
 `
+
+
+
 
 const infoContent = '../data/nodes/5-1-reptiliomorpha.mdx'
 
@@ -35,38 +48,41 @@ const labsList = {
 }
 
 function App() {
-  return (
-      <Universe>
-        <Galaxy sx={{flexFlow:['column nowrap', 'row nowrap']}}>
-          <InfoBox sx={{width:['100%', '50%']}}>
-            <ModalProvider>
-              <Info contentPath={infoContent}/>
-            </ModalProvider>
-          </InfoBox>
-          <Flex sx={{width:['100%','50%'], flexFlow:'column nowrap'}}>
-            <Box as='form'>
-              <Label htmlFor='labChoice'>Lab</Label>
-              <Select
-                id='labChoice'
-                name='labChoice'
-                defaultValue='6'
-                choices={labsList}>
-                {Object.entries(labsList).map(([ lab, content ]) => (
-                  <option
-                    key={lab}>
-                    {content}
-                  </option>
-                ))}
-              </Select>
-            </Box>
-            <Viewer url='10e8b5690b6e47c98f22e16103780b0c'/>
-            <TreeBox width={[1,1/2]}>
+  const [specimen, setSpecimen] = useState('s47epiphyses');
+  const value = {specimen, setSpecimen}
 
-            </TreeBox>
-          </Flex>
+  return (
+    <IDContext.Provider value={value}>
+      <Universe>
+        <TreeBox>
+          <Tree iconSize={iconSize}/>
+        </TreeBox>
+        <Galaxy sx={{flexFlow:['column nowrap', 'row nowrap']}}>
+          <InfoBox sx={{width:['100%', '35%']}}>
+              <Info contentPath={infoContent}/>
+          </InfoBox>
+
+              {/*<Box as='form'>
+                <Label htmlFor='labChoice'>Lab</Label>
+                <Select
+                  id='labChoice'
+                  name='labChoice'
+                  defaultValue='6'
+                  choices={labsList}>
+                  {Object.entries(labsList).map(([ lab, content ]) => (
+                    <option
+                      key={lab}>
+                      {content}
+                    </option>
+                  ))}
+                </Select>
+              </Box>*/}
+              <SpecimenPane />
+
         </Galaxy>
       </Universe>
+    </IDContext.Provider>
   );
 }
 
-export default App;
+export default withRouter(App);

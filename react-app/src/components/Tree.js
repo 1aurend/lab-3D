@@ -1,5 +1,6 @@
 import React, {useEffect, useState, useRef} from 'react';
 import Modal from 'styled-react-modal'
+import { ModalProvider } from 'styled-react-modal'
 import {ReactComponent as Icon} from '../assets/tree-icon.svg'
 import tree5svg from '../data/trees/tree5.svg'
 import tree5nwk from '../data/trees/tree5.json'
@@ -8,8 +9,8 @@ import PhyloCanvas from './PhyloCanvas';
 
 
 const TreeModal = Modal.styled`
-  width: 75vw;
-  height: 75vh;
+  width: 75vmin;
+  height: 75vmin;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -25,21 +26,22 @@ const Tree = (props) => {
   function toggleShow(){
     setShow(!show)
   };
-  console.log(tree5nwk.newick);
+  // console.log(tree5nwk.newick);
   return (
-    <>
-      <Icon width="48px" onClick={toggleShow} style={{cursor:'pointer'}} />
-      <TreeModal
-          isOpen={show}
-          onBackgroundClick={toggleShow}
-          onEscapeKeydown={toggleShow}>
-          <PhyloCanvas  className="tree-canvas"
-                        data={tree5nwk.newick}
-                        treeType="rectangular"
-                        style={{width:"100%", height:"100%"}}
-                        />
-        </TreeModal>
-    </>
+      <ModalProvider>
+        <Icon width={props.iconSize} onClick={toggleShow} style={{cursor:'pointer'}} />
+        <TreeModal
+            isOpen={show}
+            onBackgroundClick={toggleShow}
+            onEscapeKeydown={toggleShow}>
+            <PhyloCanvas  className="tree-canvas"
+                          data={tree5nwk.newick}
+                          treeType="rectangular"
+                          style={{width:"100%", height:"100%"}}
+                          />
+            {/*<Icon width={props.iconSize} onClick={toggleShow} style={{cursor:'pointer', left:'12.5%'}} />*/}
+          </TreeModal>
+    </ModalProvider>
   )
 
 }
