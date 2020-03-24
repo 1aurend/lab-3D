@@ -16,16 +16,10 @@ const ViewerFrame = styled.iframe`
   border: 0;
 `
 
+
 const version = '1.7.1'
 
 const Viewer = (props) => {
-    // useEffect(
-    //   ()=>{
-    //     return()=>{
-    //       client.api.load(function() {console.log('Viewer loaded');});
-    //     }
-    //   },[props.url],
-    // )
     const targetRef = useRef(null);
     const urlid = props.url;
     useEffect(() => {
@@ -63,6 +57,7 @@ const Viewer = (props) => {
 
     return (
         <ViewerBox className="ViewerBox">
+
             <ViewerFrame ref={targetRef}
             src="about:blank"
             allowFullScreen="allowfullscreen"

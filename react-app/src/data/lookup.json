@@ -56,7 +56,8 @@
       "taxon":"Hemicentetes semispinosus",
       "attribution":{
         "institution":"American Museum of Natural History",
-        "people":"Dr. Matthew Colbert, Dr. Jennifer Olori"
+        "people":"Dr. Matthew Colbert, Dr. Jennifer Olori",
+        "origin":"http://digimorph.org/specimens/Hemicentetes_semispinosus/body/"
       }
     }
   },
@@ -67,7 +68,8 @@
       "taxon":"Neoparadoxia cecilialina",
       "attribution":{
         "institution":"Natural History Museum of Los Angeles County",
-        "people":"Wikipedia User Darwin's Bulldog"
+        "people":"Wikipedia User: Darwin's Bulldog",
+        "origin":null
       }
     }
   }
