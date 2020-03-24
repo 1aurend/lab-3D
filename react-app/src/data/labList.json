@@ -1,29 +1,75 @@
 {
-  "5: Amniota and Sauria":{
-    "5.1 Reptiliomorpha":{
-      "file":"5-1reptiliomorpha.mdx"
-      },
-    "5.2 Amniota":{
-      "file":"5-2amniota.mdx"
-      },
-    "5.3 Sauropsida":null,
-    "5.4 Diapsida":null,
-    "5.5 Sauria":null,
-    "5.6 Lepidosauromorpha":null,
-    "5.7 Lepidosauria":null,
-    "5.8 Squamata":null,
-    "5.9 Archosauromorpha":null,
-    "5.10 Archosauriformes":null,
-    "5.11 Archosauria":null,
-    "5.12 Pseudosuchia":null,
-    "5.13 Crocodylomorpha":null,
-    "5.14 Mesoeucrocodylia":null,
-    "5.15 Eusuchia":null,
-    "5.16 Crocodylia":null
+  "lab 5":{
+    "title":"5: Amniota and Sauria",
+    "nodes":{
+      "5-1-Reptiliomorpha":{
+        "title":"5.1 Reptiliomorpha"
+        },
+      "5-2-Amniota":{
+        "title":"5.2 Amniota"
+        },
+      "5-3-Sauropsida":{
+        "title":"5.3 Sauropsida"
+        },
+      "5-4-Diapsida":{
+        "title":"5.4 Diapsida"
+        },
+      "5-5-Sauria":{
+        "title":"5.5 Sauria"
+        },
+      "5-6-Lepidosauromorpha":{
+        "title":"5.6 Lepidosauromorpha"
+        },
+      "5-7-Lepidosauria":{
+        "title":"5.7 Lepidosauria"
+        },
+      "5-8-Squamata":{
+        "title":"5.8 Squamata"
+        },
+      "5-9-Archosauromorpha":{
+        "title":"5.9 Archosauromorpha"
+        },
+      "5-10-Archosauriformes":{
+        "title":"5.10 Archosauriformes"
+        },
+      "5-11-Archosauria":{
+        "title":"5.11 Archosauria"
+        },
+      "5-12-Pseudosuchia":{
+        "title":"5.12 Pseudosuchia"
+        },
+      "5-13-Crocodylomorpha":{
+        "title":"5.13 Crocodylomorpha"
+        },
+      "5-14-Mesoeucrocodylia":{
+        "title":"5.14 Mesoeucrocodylia"
+        },
+      "5-15-Eusuchia":{
+        "title":"5.15 Eusuchia"
+        },
+      "5-16-Crocodylia":{
+        "title":"5.16 Crocodylia"
+        }
+      }
   },
-  "6: Dinosauria":{},
-  "7: Reptile Soup":{},
-  "8: Basal Synapsids":{},
-  "9: Mammaliaformes, Monotremata, and Metatheria":{},
-  "10: Eutheria":{}
+  "lab 6":{
+    "title":"6: Dinosauria",
+    "nodes":{}
+  },
+  "lab 7":{
+    "title":"7: Reptile Soup",
+    "nodes":{}
+  },
+  "lab 8":{
+    "title":"8: Basal Synapsids",
+    "nodes":{}
+  },
+  "lab 9":{
+    "title":"9: Mammaliaformes, Monotremata, and Metatheria",
+    "nodes":{}
+  },
+  "lab 10":{
+    "title":"10: Eutheria",
+    "nodes":{}
+  }
 }

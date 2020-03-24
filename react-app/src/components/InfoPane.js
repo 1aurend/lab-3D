@@ -9,19 +9,19 @@ import labList from '../data/labList'
 const Pane = styled(Box)`
   height: 100%;
   background-color: white;
-  padding: 2% 5%
+  padding: 2% 5%;
+  display: flex;
+  flex-flow: column nowrap;
 `
 
 const DropDown = styled(Box)`
-  margin: 2% 0%
-  > label {
-    color:'red'
+  & label{
+    margin:10px 0px 4px 0px;
+    font-weight:bold;
   }
 `
 
 const InfoBox = styled(Box)`
-  display: flex;
-  flex-flow:column;
 `
 
 const InfoPane = () => {
@@ -38,9 +38,9 @@ const InfoPane = () => {
           id='labChoice'
           value={lab}
           onChange={()=>{setLab()}}>
-          {Object.entries(labList).map(([ lab, content ]) => (
-            <option>
-              {lab}
+          {Object.entries(labList).map(([ key, value ]) => (
+            <option value={key}>
+              {value.title}
             </option>
           ))}
         </Select>
@@ -51,9 +51,9 @@ const InfoPane = () => {
           id='nodeChoice'
           value={node}
           onChange={e=>{setNode(e.target.value)}}>
-          {Object.entries(labList["5: Amniota and Sauria"]).map(([ node, file ]) => (
-            <option>
-              {node}
+          {Object.entries(labList[lab].nodes).map(([ key, value ]) => (
+            <option value={key}>
+              {value.title}
             </option>
           ))}
         </Select>

@@ -29,8 +29,8 @@ const TreeBox = styled(Box)`
 
 function App() {
   const [specimen, setSpecimen] = useState("47epiphyses");
-  const [node, setNode] = useState("5-1reptiliomorpha");
-  const [lab, setLab] = useState("5: Amniota and Sauria");
+  const [lab, setLab] = useState("lab 5");
+  const [node, setNode] = useState("5-1-Reptiliomorpha");
   const idValue = {specimen, setSpecimen}
   const nodeValue = {node, setNode}
   const labValue = {lab, setLab}

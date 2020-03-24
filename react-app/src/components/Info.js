@@ -1,6 +1,6 @@
 import React, {lazy, Suspense, useContext, useState} from 'react';
 import styled from 'styled-components';
-import { Box, Flex } from 'rebass/styled-components'
+import { Link, Box, Flex } from 'rebass/styled-components'
 import {MDXProvider} from '@mdx-js/react'
 import {idContext, nodeContext} from '../data/DataContexts';
 
@@ -9,9 +9,11 @@ const Info = (props) => {
   const {specimen, setSpecimen} = useContext(idContext)
   const {node, setNode} = useContext(nodeContext)
 
+// <strong onClick={()=>toggleContext()}
+
   const LinkCatcher=(props)=>{
     return(
-      <strong onClick={()=>toggleContext()} style={{fontWeight:'bold', cursor:'pointer'}}>{props.children}</strong>
+      <Link sx={{color:'blue'}} onClick={()=>setSpecimen(props.href)} style={{fontWeight:'bold', cursor:'pointer'}} >{props.children}</Link>
     )
   }
 

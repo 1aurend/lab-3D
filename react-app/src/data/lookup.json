@@ -15,8 +15,27 @@
     "metadata":{
       "taxon":"Salvator merianae",
       "attribution":{
-        "institution":"S. Pierce Lab, Harvard University",
-        "people":"Philip Fahn-Lai"
+        "institution":"S. Pierce Lab, Harvard University"
+      }
+    }
+  },
+  "99pythondorsal":{
+    "type":"sketchfab",
+    "resource":"92221e83916045b79eb4d8c1dd1b0552",
+    "metadata":{
+      "taxon":"Python sp.",
+      "attribution":{
+        "institution":"Museum of Comparative Zoology"
+      }
+    }
+  },
+  "99pythonventral":{
+    "type":"sketchfab",
+    "resource":"6fc299556cc64b01b2b2ffee76b7a6b6",
+    "metadata":{
+      "taxon":"Python sp.",
+      "attribution":{
+        "institution":"Museum of Comparative Zoology"
       }
     }
   },
@@ -42,8 +61,5 @@
       }
     }
   }
-
-
-
 
 }

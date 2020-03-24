@@ -7,15 +7,15 @@ const MetaData = (props) => {
   if (!attribution.people){
     return(
       <>
-      <Heading color='white'>Taxon: </Heading><Text color='white'>{taxon}</Text>
-      <Heading color='white'>Institution: </Heading><Text color='white'>{attribution.institution}</Text>
+      <Heading color='white'><em>{taxon}</em></Heading>
+      <Text color='white'>{attribution.institution}</Text>
       </>
     )} else {
       return(
         <>
-        <Heading color='white' >Taxon: </Heading><Text color='white'>{taxon}</Text>
-        <Heading color='white'>Institution: </Heading><Text color='white'>{attribution.institution}</Text>
-        <Heading color='white'>Scanned by: </Heading><Text color='white'>{attribution.people}</Text>
+        <Heading color='white' ><em>{taxon}</em></Heading>
+        <Text color='white'>{attribution.institution}</Text>
+        <Text color='white'>{attribution.people}</Text>
         </>
       )
     }
