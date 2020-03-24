@@ -12,7 +12,6 @@ const Pane = styled(Box)`
 
 const ViewerBox = styled(Box)`
   display: block;
-  padding: 5%
 `
 const MetaBox = styled(Box)`
   display: block;
@@ -25,7 +24,7 @@ const SpecimenPane = () => {
   const data = db[specimen]
   return(
     <Pane sx={{width:['100%','65%']}}>
-      <Flex sx={{flexFlow:'column nowrap', position:'fixed', width:'inherit',top:'2%', justifyContent:'flex-start', alignItems:'stretch'}}>
+      <Flex sx={{flexFlow:'column nowrap', position:'fixed', width:'inherit',top:'0%', justifyContent:'flex-start', alignItems:'stretch'}}>
         <ViewerBox>
           <Viewer url={data.resource} />
         </ViewerBox>

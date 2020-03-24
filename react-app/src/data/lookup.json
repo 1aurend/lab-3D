@@ -1,4 +1,14 @@
 {
+  "12alligatorhip":{
+    "type":"sketchfab",
+    "resource":"07aa9138350040239dde7bf398ab2a20",
+    "metadata":{
+      "taxon":"Alligator mississipiensis",
+      "attribution":{
+        "institution":"Museum of Comparative Zoology"
+      }
+    }
+  },
   "13alligatorfemur":{
     "type":"sketchfab",
     "resource":"0ced4af2abd549b093e2e71a7af66079",
