@@ -1,8 +1,16 @@
 import {createContext} from 'react';
 
-export const IDContext = createContext({
-  specimen: 's47epiphyses',
+export const idContext = createContext({
+  specimen: null,
   setSpecimen: () => {}
 })
 
-export default IDContext
+export const nodeContext = createContext({
+  node: null,
+  setNode: () => {}
+})
+
+export const labContext = createContext({
+  lab: null,
+  setLab: () => {}
+})

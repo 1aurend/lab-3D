@@ -1,0 +1,29 @@
+{
+  "5: Amniota and Sauria":{
+    "5.1 Reptiliomorpha":{
+      "file":"5-1reptiliomorpha.mdx"
+      },
+    "5.2 Amniota":{
+      "file":"5-2amniota.mdx"
+      },
+    "5.3 Sauropsida":null,
+    "5.4 Diapsida":null,
+    "5.5 Sauria":null,
+    "5.6 Lepidosauromorpha":null,
+    "5.7 Lepidosauria":null,
+    "5.8 Squamata":null,
+    "5.9 Archosauromorpha":null,
+    "5.10 Archosauriformes":null,
+    "5.11 Archosauria":null,
+    "5.12 Pseudosuchia":null,
+    "5.13 Crocodylomorpha":null,
+    "5.14 Mesoeucrocodylia":null,
+    "5.15 Eusuchia":null,
+    "5.16 Crocodylia":null
+  },
+  "6: Dinosauria":{},
+  "7: Reptile Soup":{},
+  "8: Basal Synapsids":{},
+  "9: Mammaliaformes, Monotremata, and Metatheria":{},
+  "10: Eutheria":{}
+}

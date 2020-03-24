@@ -19,7 +19,6 @@ const CanvasBox = styled.div`
   }
 `
 
-
 export default class PhylocanvasComponent extends React.Component {
   static propTypes = {
     className: PropTypes.string,
@@ -30,12 +29,13 @@ export default class PhylocanvasComponent extends React.Component {
 
   componentDidMount() {
     this.tree = PhyloCanvas.createTree(this.refs.phyloCanvasDiv);
+    PhyloCanvas.setNodeSize = 20;
+    PhyloCanvas.setTextSize = 30;
     this.componentDidUpdate({});
   }
 
   componentDidUpdate(prevProps) {
     const props = this.props;
-    // this.tree.load(props.data)
     if (prevProps.data !== props.data) {
       this.tree.load(props.data);
     }

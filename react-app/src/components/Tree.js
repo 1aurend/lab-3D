@@ -1,4 +1,4 @@
-import React, {useEffect, useState, useRef} from 'react';
+import React, {useEffect, useState} from 'react';
 import Modal from 'styled-react-modal'
 import { ModalProvider } from 'styled-react-modal'
 import {ReactComponent as Icon} from '../assets/tree-icon.svg'
@@ -21,7 +21,6 @@ const TreeModal = Modal.styled`
 // background-color: ${props => props.theme.colors.white};
 
 const Tree = (props) => {
-  const targetRef = useRef(null);
   const [show, setShow] = useState(false);
   function toggleShow(){
     setShow(!show)
@@ -38,6 +37,8 @@ const Tree = (props) => {
                           data={tree5nwk.newick}
                           treeType="rectangular"
                           style={{width:"100%", height:"100%"}}
+                          showHistory={true}
+                          showLabels={false}
                           />
             {/*<Icon width={props.iconSize} onClick={toggleShow} style={{cursor:'pointer', left:'12.5%'}} />*/}
           </TreeModal>

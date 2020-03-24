@@ -1,25 +1,22 @@
 import React, {lazy, Suspense, useContext, useState} from 'react';
-// import {importMDX} from 'mdx.macro'
 import styled from 'styled-components';
+import { Box, Flex } from 'rebass/styled-components'
 import {MDXProvider} from '@mdx-js/react'
-import {Link} from 'rebass'
-import {IDContext} from '../data/DataContexts';
-
-
-
-
+import {idContext, nodeContext} from '../data/DataContexts';
 
 
 const Info = (props) => {
-  const {specimen, setSpecimen} = useContext(IDContext)
+  const {specimen, setSpecimen} = useContext(idContext)
+  const {node, setNode} = useContext(nodeContext)
 
   const LinkCatcher=(props)=>{
     return(
-      <Link onClick={()=>ToggleContext()} style={{fontWeight:'bold', cursor:'pointer'}}>{props.children}</Link>
+      <strong onClick={()=>toggleContext()} style={{fontWeight:'bold', cursor:'pointer'}}>{props.children}</strong>
     )
   }
-  const ToggleContext = ()=>{
-      const options = ['s47epiphyses','s13alligatorfemur']
+
+  const toggleContext = ()=>{
+      const options = ['47epiphyses','13alligatorfemur']
       if (specimen===options[0]){
         setSpecimen(options[1])
         console.log('set to ' + specimen);
@@ -33,14 +30,14 @@ const Info = (props) => {
     a:LinkCatcher
   }
 
-  const Content = lazy(() => import('!babel-loader!mdx-loader!../data/nodes/5-1-reptiliomorpha.mdx'))
+  const Content = lazy(() => import('!babel-loader!mdx-loader!'+'../data/nodes/'+node+'.mdx'))
   // const Content = lazy(() => importMDX('../data/nodes/5-1-reptiliomorpha.mdx'))
   return(
-    <MDXProvider components={components}>
-      <Suspense fallback={<div>Loading...</div>}>
-        <Content />
-      </Suspense>
-    </MDXProvider>
+      <MDXProvider components={components}>
+        <Suspense fallback={<div>Loading...</div>}>
+          <Content />
+        </Suspense>
+      </MDXProvider>
     )
 }
 

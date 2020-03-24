@@ -1,16 +1,24 @@
 import React from 'react';
+import { Heading, Text} from 'rebass/styled-components'
 import styled from 'styled-components';
 
 const MetaData = (props) => {
   const {taxon, attribution} = props.data
-  return(
-    <div style={{color:"white", padding:'10%'}}>
-      <span><strong>Taxon: </strong><em>{taxon}</em></span><br/>
-      <span><strong>Institution: </strong>{attribution.institution}</span><br/>
-      <span><strong>Model prepared by: </strong>{attribution.people}</span>
-    </div>
-
-  )
+  if (!attribution.people){
+    return(
+      <>
+      <Heading color='white'>Taxon: </Heading><Text color='white'>{taxon}</Text>
+      <Heading color='white'>Institution: </Heading><Text color='white'>{attribution.institution}</Text>
+      </>
+    )} else {
+      return(
+        <>
+        <Heading color='white' >Taxon: </Heading><Text color='white'>{taxon}</Text>
+        <Heading color='white'>Institution: </Heading><Text color='white'>{attribution.institution}</Text>
+        <Heading color='white'>Scanned by: </Heading><Text color='white'>{attribution.people}</Text>
+        </>
+      )
+    }
 }
 
 export default MetaData
