@@ -1,4 +1,15 @@
 {
+  "lab 000":{
+    "title":"BETA",
+    "nodes":{
+      "0-0-Introduction":{
+        "title":"0.0 Introduction Part I"
+      },
+      "0-1-Introduction-B":{
+        "title":"0.1 Introduction Part II"
+        }
+      }
+  },
   "lab 5":{
     "title":"5: Amniota and Sauria",
     "nodes":{

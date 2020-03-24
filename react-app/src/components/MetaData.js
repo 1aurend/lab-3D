@@ -7,8 +7,8 @@ const SourceLink = props =>
     {...props}
     sx={{
       color: 'blue',
-      textDecoration:'none'
-
+      textDecoration:'none',
+      fontSize: ['10px', '12px']
       // textDecoration:'underline wavy'
     }}
   />
@@ -53,12 +53,13 @@ const MetaData = (props) => {
       return(
         <>
           <TaxonHeading>
-            <SourceLink href={attribution.origin} target="_blank">
               <em>{taxon}</em>
-            </SourceLink>
           </TaxonHeading>
         <AttributionInstitution>{attribution.institution}</AttributionInstitution>
         <AttributionPeople>{attribution.people}</AttributionPeople>
+        <SourceLink href={attribution.origin} target="_blank">
+          [link]
+        </SourceLink>
         </>
       )}
   else {

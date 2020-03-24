@@ -25,11 +25,9 @@ const InfoBox = styled(Box)`
 `
 
 const InfoPane = () => {
-  const {node, setNode} = useContext(nodeContext)
   const {lab, setLab} = useContext(labContext)
-  const MDXLookup = (key, object) => {
+  const {node, setNode} = useContext(nodeContext)
 
-  }
   return(
     <Pane sx={{width:['100%','35%']}}>
       <DropDown as='form'>

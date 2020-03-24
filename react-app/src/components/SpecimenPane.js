@@ -1,6 +1,6 @@
 import React, {useContext, useEffect, useRef} from 'react';
 import styled from 'styled-components';
-import {Box, Flex, System} from 'rebass/styled-components';
+import {Box, Flex, Image} from 'rebass/styled-components';
 import ReactPlayer from 'react-player'
 import {idContext} from '../data/DataContexts';
 import Viewer from './Viewer';
@@ -10,6 +10,11 @@ import db from '../data/lookup.json'
 
 const Pane = styled(Box)`
   height: 100%;
+`
+
+const Lightbox = styled(Image)`
+  height: 100%;
+  width: 100%;
 `
 
 const PaneWrapper = ({children}) => {
@@ -76,7 +81,7 @@ const SpecimenPane = () => {
     return(
       <PaneWrapper>
           <Box sx={{display:'flex',justifyContent:'center'}}>
-            <img src={data.resource} alt={data.metadata.taxon}/>
+            <Lightbox src={data.resource} alt={data.metadata.taxon}/>
           </Box>
           <Box sx={{alignSelf:'center', marginTop: '3%'}}>
             <MetaData data={data.metadata}/>

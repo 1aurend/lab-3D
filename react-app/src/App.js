@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import {Route, withRouter} from 'react-router-dom';
 import {Box, Flex, System} from 'rebass/styled-components'
 import styled, {ThemeProvider} from 'styled-components'
@@ -6,6 +6,7 @@ import SpecimenPane from './components/SpecimenPane'
 import InfoPane from './components/InfoPane'
 import Tree from './components/Tree'
 import db from './data/lookup.json'
+import labList from './data/labList'
 import {idContext, nodeContext, labContext} from './data/DataContexts'
 import './App.css';
 import theme from './theme'
@@ -18,7 +19,7 @@ const Universe = styled(Box)`
 `
 
 const Galaxy = styled(Flex)`
-  height: 100%;
+  height: 100vh;
 `
 const TreeBox = styled(Box)`
   z-index: 10;
@@ -28,12 +29,15 @@ const TreeBox = styled(Box)`
 `
 
 function App() {
-  const [specimen, setSpecimen] = useState("47epiphyses");
-  const [lab, setLab] = useState("lab 5");
-  const [node, setNode] = useState("5-1-Reptiliomorpha");
+  const [specimen, setSpecimen] = useState("00demo1");
+  const [lab, setLab] = useState(Object.keys(labList)[0]);
+  const [node, setNode] = useState(null);
   const idValue = {specimen, setSpecimen}
   const nodeValue = {node, setNode}
   const labValue = {lab, setLab}
+  useEffect (() => {
+    setNode(Object.keys(labList[lab]["nodes"])[0])
+  },[lab])
 
   return (
     <ThemeProvider theme={theme}>

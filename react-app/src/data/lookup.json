@@ -1,4 +1,30 @@
 {
+  "00demo1":{
+    "type":"sketchfab",
+    "resource":"9c8e096720c04b868c8f7f6c2cd42ea5",
+    "metadata":{
+      "taxon":"Thermes de Saint-Saloine - Saintes",
+      "attribution":{
+        "institution":"INSTITUTION: N/A",
+        "people":"ATTRIBUTION: Sketchfab User: Miailhe Vincent",
+        "origin":"https://sketchfab.com/3d-models/thermes-de-saint-saloine-saintes-9c8e096720c04b868c8f7f6c2cd42ea5"
+      }
+    }
+  },
+  "00demo2":{
+    "type":"sketchfab",
+    "resource":"10655f9e3cbd48628ff308ccf5bb5ceb",
+    "metadata":{
+      "taxon":"Horse head from the chariot of Selene",
+      "attribution":{
+        "institution":"British Museum, London",
+        "people":"Sketchfab User: FZP",
+        "origin":"https://sketchfab.com/3d-models/horse-head-from-the-chariot-of-selene-10655f9e3cbd48628ff308ccf5bb5ceb"
+      }
+    }
+  },
+
+
   "12alligatorhip":{
     "type":"sketchfab",
     "resource":"07aa9138350040239dde7bf398ab2a20",
@@ -46,6 +72,16 @@
       "taxon":"Python sp.",
       "attribution":{
         "institution":"Museum of Comparative Zoology"
+      }
+    }
+  },
+  "102pythonwhole":{
+    "type":"sketchfab",
+    "resource":"f5167ed86b874dfe832ca9dd7afa2982",
+    "metadata":{
+      "taxon":"Python regus",
+      "attribution":{
+        "institution":"University of Edinburgh"
       }
     }
   },
