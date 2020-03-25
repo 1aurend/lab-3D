@@ -27,6 +27,9 @@ const InfoBox = styled(Box)`
 const InfoPane = () => {
   const {lab, setLab} = useContext(labContext)
   const {node, setNode} = useContext(nodeContext)
+  // useEffect (() => {
+  //   setNode('6-0-Archosauria')
+  // },[lab])
 
   return(
     <Pane sx={{width:['100%','35%']}}>

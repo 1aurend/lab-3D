@@ -1,4 +1,45 @@
 {
+  "6_dinosauria_egg":{
+    "type":"sketchfab",
+    "resource":"62fc68830bc54132b1aad94ebf8addb1",
+    "metadata":{
+      "taxon":"Dinosauria",
+      "attribution":{
+        "institution":"Museum of Comparative Zoology (MCZ)"
+      }
+    }
+  },
+  "3_alligator mississipiensis_skull":{
+    "type":"sketchfab",
+    "resource":"dc8ef92c76ee407b89761eed76871afd",
+    "metadata":{
+      "taxon":"Alligator mississipiensis",
+      "attribution":{
+        "institution":"Museum of Comparative Zoology (MCZ)"
+      }
+    }
+  },
+  "35_coelophysis_foot":{
+    "type":"sketchfab",
+    "resource":"49769ab27afb4cd6b915ca106f35d83e",
+    "metadata":{
+      "taxon":"Coelophysis",
+      "attribution":{
+        "institution":"Museum of Comparative Zoology (MCZ)"
+      }
+    }
+  },
+  "43_staurikosaurus_femur":{
+    "type":"video",
+    "resource":"4f66c967830c444a95721ead624d1bcf",
+    "metadata":{
+      "taxon":"Staurikosaurus priceii",
+      "attribution":{
+        "institution":"Museum of Comparative Zoology (MCZ)"
+      }
+    }
+  },
+
   "00demo1":{
     "type":"sketchfab",
     "resource":"9c8e096720c04b868c8f7f6c2cd42ea5",
@@ -81,7 +122,8 @@
     "metadata":{
       "taxon":"Python regus",
       "attribution":{
-        "institution":"University of Edinburgh"
+        "institution":"University of Edinburgh",
+        "origin":"https://sketchfab.com/3d-models/royal-pyhon-pyhon-regus-f5167ed86b874dfe832ca9dd7afa2982"
       }
     }
   },

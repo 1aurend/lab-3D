@@ -5,7 +5,6 @@ import styled, {ThemeProvider} from 'styled-components'
 import SpecimenPane from './components/SpecimenPane'
 import InfoPane from './components/InfoPane'
 import Tree from './components/Tree'
-import db from './data/lookup.json'
 import labList from './data/labList'
 import {idContext, nodeContext, labContext} from './data/DataContexts'
 import './App.css';
@@ -29,15 +28,12 @@ const TreeBox = styled(Box)`
 `
 
 function App() {
-  const [specimen, setSpecimen] = useState("00demo1");
-  const [lab, setLab] = useState(Object.keys(labList)[0]);
-  const [node, setNode] = useState(null);
+  const [lab, setLab] = useState("lab 6");
+  const [node, setNode] = useState('6-0-Archosauria');
+  const [specimen, setSpecimen] = useState("6_dinosauria_egg");
   const idValue = {specimen, setSpecimen}
   const nodeValue = {node, setNode}
   const labValue = {lab, setLab}
-  useEffect (() => {
-    setNode(Object.keys(labList[lab]["nodes"])[0])
-  },[lab])
 
   return (
     <ThemeProvider theme={theme}>

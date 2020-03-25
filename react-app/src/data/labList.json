@@ -65,7 +65,17 @@
   },
   "lab 6":{
     "title":"6: Dinosauria",
-    "nodes":{}
+    "nodes":{
+      "6-0-Archosauria":{
+        "title":"6.0 Archosauria"
+      },
+      "6-1-Avemetatarsalia":{
+        "title":"6.1 Avemetatarsalia"
+      },
+      "6-2-Dinosauria":{
+        "title":"6.3 Dinosauria"
+      }
+    }
   },
   "lab 7":{
     "title":"7: Reptile Soup",

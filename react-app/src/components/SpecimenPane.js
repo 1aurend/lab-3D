@@ -33,7 +33,7 @@ const WatermarkDiv = styled.div`
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: luminosity;
-  opacity: 0.04;
+  opacity: 0.06;
   z-index: 5;
   position: absolute;
   width: 100%;
@@ -45,7 +45,7 @@ const WatermarkDiv = styled.div`
 
 const Watermark = (props) => {
   console.log(props.props);
-  if (props.props==="Museum of Comparative Zoology"){
+  if (props.props==="Museum of Comparative Zoology (MCZ)"){
     return(
       <WatermarkDiv />
     )} else {

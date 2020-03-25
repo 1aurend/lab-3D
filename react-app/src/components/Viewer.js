@@ -38,7 +38,7 @@ const Viewer = (props) => {
           error: function onError() {
               console.log('Viewer failed to initialize');
           },
-          autospin: 0.05,
+          autospin: 0,
           autostart: 0,
           camera: 0,
           dof: 0,
@@ -46,7 +46,7 @@ const Viewer = (props) => {
           transparent: 1,
           annotations_visible: 0,
           ui_annotations: 0,
-          ui_animations: 0,
+          ui_animations: 1,
           ui_inspector: 0,
           ui_settings: 0,
           ui_vr: 0,
