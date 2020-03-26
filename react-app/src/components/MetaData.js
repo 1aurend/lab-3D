@@ -49,7 +49,7 @@ const AttributionPeople = props =>
 
 const MetaData = (props) => {
   const {taxon, attribution} = props.data
-  if (attribution.origin){
+  if (attribution.institution == "Museum of Comparative Zoology (MCZ)"){
       return(
         <>
           <TaxonHeading>
@@ -57,9 +57,6 @@ const MetaData = (props) => {
           </TaxonHeading>
         <AttributionInstitution>{attribution.institution}</AttributionInstitution>
         <AttributionPeople>{attribution.people}</AttributionPeople>
-        <SourceLink href={attribution.origin} target="_blank">
-          [link]
-        </SourceLink>
         </>
       )}
   else {
@@ -70,6 +67,9 @@ const MetaData = (props) => {
           </TaxonHeading>
         <AttributionInstitution>{attribution.institution}</AttributionInstitution>
         <AttributionPeople>{attribution.people}</AttributionPeople>
+        <SourceLink href={attribution.origin} target="_blank">
+          [link]
+        </SourceLink>
         </>
       )
     }

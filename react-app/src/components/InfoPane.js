@@ -22,6 +22,8 @@ const DropDown = styled(Box)`
 `
 
 const InfoBox = styled(Box)`
+  height: 100%;
+  overflow: auto;
 `
 
 const InfoPane = () => {

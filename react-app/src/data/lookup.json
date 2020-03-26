@@ -89,7 +89,7 @@
       "type": "sketchfab",
       "resource": "100c935290074e2b8f0d87a07268be73",
       "metadata": {
-        "taxon": "comparative limbs",
+        "taxon": "Comparative Limbs",
         "description": "limbs",
         "attribution": {
           "institution": "Museum of Comparative Zoology (MCZ)",
@@ -3049,14 +3049,14 @@
     {
       "id": "#243_styracosaurusskull",
       "type": "image",
-      "resource": "https://en.wikipedia.org/wiki/Styracosaurus#/media/File:Hunting_dinosaurs_in_the_bad_lands_of_the_Red_Deer_River,_Alberta,_Canada;_a_sequel_to_The_life_of_a_fossil_hunter_(1917)_(20758118955).jpg",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hunting_dinosaurs_in_the_bad_lands_of_the_Red_Deer_River%2C_Alberta%2C_Canada%3B_a_sequel_to_The_life_of_a_fossil_hunter_%281917%29_%2820758118955%29.jpg",
       "metadata": {
         "taxon": "Styracosaurus",
         "description": "skull",
         "attribution": {
           "institution": "Canadian Museum of Nature",
           "people": "Charles Sternberg",
-          "origin": "https://en.wikipedia.org/wiki/Styracosaurus#/media/File:Hunting_dinosaurs_in_the_bad_lands_of_the_Red_Deer_River,_Alberta,_Canada;_a_sequel_to_The_life_of_a_fossil_hunter_(1917)_(20758118955).jpg"
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hunting_dinosaurs_in_the_bad_lands_of_the_Red_Deer_River%2C_Alberta%2C_Canada%3B_a_sequel_to_The_life_of_a_fossil_hunter_%281917%29_%2820758118955%29.jpg"
         }
       }
     },
@@ -3422,14 +3422,14 @@
     {
       "id": "#270_eoraptorlunensiswhole",
       "type": "image",
-      "resource": "https://en.wikipedia.org/wiki/File:Eoraptor_Deep_Time.jpg",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/4/41/Eoraptor_Deep_Time.jpg",
       "metadata": {
         "taxon": "Eoraptor lunensis",
         "description": "whole",
         "attribution": {
           "institution": "Smithsonian National Museum of Natural History (NMNH)",
           "people": "Fanboyphilosopher",
-          "origin": "https://en.wikipedia.org/wiki/File:Eoraptor_Deep_Time.jpg"
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/4/41/Eoraptor_Deep_Time.jpg"
         }
       }
     },
@@ -3492,14 +3492,14 @@
     {
       "id": "#275_megalosauruspelviclimb",
       "type": "image",
-      "resource": "https://commons.wikimedia.org/wiki/Category:Megalosaurus_fossils#/media/File:Megalosaurus_(28191949159).jpg",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Megalosaurus_%2828191949159%29.jpg",
       "metadata": {
         "taxon": "Megalosaurus",
         "description": "pelvic limb",
         "attribution": {
           "institution": "Oxford University Museum of Natural History",
           "people": "the paleobear",
-          "origin": "https://commons.wikimedia.org/wiki/Category:Megalosaurus_fossils#/media/File:Megalosaurus_(28191949159).jpg"
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Megalosaurus_%2828191949159%29.jpg"
         }
       }
     },
