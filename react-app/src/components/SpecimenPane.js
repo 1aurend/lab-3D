@@ -54,6 +54,36 @@ const Watermark = (props) => {
     }
 }
 
+let lte = {"specimens": [
+  {
+    "id": "#2_protosuchuswhole",
+    "type": "sketchfab",
+    "resource": "a0e89662ad8a4902999ac0d5df640a0e",
+    "metadata": {
+      "taxon": "Protosuchus",
+      "description": "whole",
+      "attribution": {
+        "institution": "Museum of Comparative Zoology (MCZ)",
+        "people": "PF-L",
+        "origin": "https://sketchfab.com/3d-models/2-protosuchus-a0e89662ad8a4902999ac0d5df640a0e"
+      }
+    }
+  },
+  {
+    "id": "#3_alligatormississipiensisskull",
+    "type": "sketchfab",
+    "resource": "dc8ef92c76ee407b89761eed76871afd",
+    "metadata": {
+      "taxon": "Alligator mississipiensis",
+      "description": "skull",
+      "attribution": {
+        "institution": "Museum of Comparative Zoology (MCZ)",
+        "people": "PF-L",
+        "origin": "https://sketchfab.com/3d-models/3-alligator-skull-dc8ef92c76ee407b89761eed76871afd"
+      }
+    }
+  }
+]}
 
 const SpecimenPane = () => {
   const {specimen, setSpecimen} = useContext(idContext)

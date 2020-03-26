@@ -1,7 +1,7 @@
 {
   "specimens": [
     {
-      "id": "2_protosuchuswhole",
+      "id": "#2_protosuchuswhole",
       "type": "sketchfab",
       "resource": "a0e89662ad8a4902999ac0d5df640a0e",
       "metadata": {
@@ -15,7 +15,7 @@
       }
     },
     {
-      "id": "3_alligatormississipiensisskull",
+      "id": "#3_alligatormississipiensisskull",
       "type": "sketchfab",
       "resource": "dc8ef92c76ee407b89761eed76871afd",
       "metadata": {
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": "4_amniotaegg",
+      "id": "#4_amniotaegg",
       "type": "sketchfab",
       "resource": "b494efedf1224ca4aa6e99a89941c8bd",
       "metadata": {
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": "5_romeriaskull",
+      "id": "#5_romeriaskull",
       "type": "sketchfab",
       "resource": "3325deba0dd04e35a210fbb32a24f52e",
       "metadata": {
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": "6_dinosauriaegg",
+      "id": "#6_dinosauriaegg",
       "type": "sketchfab",
       "resource": "62fc68830bc54132b1aad94ebf8addb1",
       "metadata": {
@@ -71,7 +71,7 @@
       }
     },
     {
-      "id": "7_diadectesskull",
+      "id": "#7_diadectesskull",
       "type": "sketchfab",
       "resource": "3c66000b26844285a16b5ff8ba860dbd",
       "metadata": {
@@ -85,7 +85,7 @@
       }
     },
     {
-      "id": "8_comparativelimbslimbs",
+      "id": "#8_comparativelimbslimbs",
       "type": "sketchfab",
       "resource": "100c935290074e2b8f0d87a07268be73",
       "metadata": {
@@ -99,7 +99,7 @@
       }
     },
     {
-      "id": "9_gracilisuchusskull",
+      "id": "#9_gracilisuchusskull",
       "type": "sketchfab",
       "resource": "fb3063f25415472aac2f889a01f1bc89",
       "metadata": {
@@ -113,7 +113,7 @@
       }
     },
     {
-      "id": "10_alligatormississipiensisprocoelous",
+      "id": "#10_alligatormississipiensisprocoelous",
       "type": "sketchfab",
       "resource": "49bce532be9e47418631ec66589a562a",
       "metadata": {
@@ -127,7 +127,7 @@
       }
     },
     {
-      "id": "11_erythrosuchusankle",
+      "id": "#11_erythrosuchusankle",
       "type": "sketchfab",
       "resource": "e05fa556c8a3457bb4e75faae94d4b0f",
       "metadata": {
@@ -141,7 +141,7 @@
       }
     },
     {
-      "id": "12_alligatormississipiensiship",
+      "id": "#12_alligatormississipiensiship",
       "type": "sketchfab",
       "resource": "07aa9138350040239dde7bf398ab2a20",
       "metadata": {
@@ -155,7 +155,7 @@
       }
     },
     {
-      "id": "13_alligatormississipiensisfemur",
+      "id": "#13_alligatormississipiensisfemur",
       "type": "sketchfab",
       "resource": "0ced4af2abd549b093e2e71a7af66079",
       "metadata": {
@@ -169,7 +169,7 @@
       }
     },
     {
-      "id": "15_polyglyphanodonwhole",
+      "id": "#15_polyglyphanodonwhole",
       "type": "sketchfab",
       "resource": "9537b203f8bf4484ac09bdae22f2ff4a",
       "metadata": {
@@ -183,7 +183,7 @@
       }
     },
     {
-      "id": "16_pterodactyluslongirostriswhole",
+      "id": "#16_pterodactyluslongirostriswhole",
       "type": "sketchfab",
       "resource": "3c99042871eb4309b6becccd5bdd8db9",
       "metadata": {
@@ -197,7 +197,7 @@
       }
     },
     {
-      "id": "17_compsognathuswhole",
+      "id": "#17_compsognathuswhole",
       "type": "sketchfab",
       "resource": "b7a22e7c19204852870e0b222fada8a1",
       "metadata": {
@@ -211,7 +211,7 @@
       }
     },
     {
-      "id": "18_proterochampsabarrionuevoiskull",
+      "id": "#18_proterochampsabarrionuevoiskull",
       "type": "sketchfab",
       "resource": "7f4e8016864f489b83c251395d8352d8",
       "metadata": {
@@ -225,7 +225,7 @@
       }
     },
     {
-      "id": "19_crocodilaemusrobustuswhole",
+      "id": "#19_crocodilaemusrobustuswhole",
       "type": "sketchfab",
       "resource": "ac97c8663e294791a8605569ebd8ae55",
       "metadata": {
@@ -239,7 +239,7 @@
       }
     },
     {
-      "id": "20_diomedeagirdles",
+      "id": "#20_diomedeagirdles",
       "type": "sketchfab",
       "resource": "df372bc9444046e5ad4124d77cfd28ae",
       "metadata": {
@@ -253,7 +253,7 @@
       }
     },
     {
-      "id": "21_archeriaverts",
+      "id": "#21_archeriaverts",
       "type": "sketchfab",
       "resource": "d188199b61aa46e8b14d0b621c6f24c5",
       "metadata": {
@@ -267,7 +267,7 @@
       }
     },
     {
-      "id": "22_homoeosaurusmaximilianiwhole",
+      "id": "#22_homoeosaurusmaximilianiwhole",
       "type": "sketchfab",
       "resource": "f8ac324b6f48424fb6a3fc4c0e6b9b58",
       "metadata": {
@@ -281,7 +281,7 @@
       }
     },
     {
-      "id": "24_varanusskull",
+      "id": "#24_varanusskull",
       "type": "sketchfab",
       "resource": "1d0bbafd0caa4d59b7c2b4e6c4268d24",
       "metadata": {
@@ -295,7 +295,7 @@
       }
     },
     {
-      "id": "25_cyclurateeth",
+      "id": "#25_cyclurateeth",
       "type": "sketchfab",
       "resource": "35b4ee5f996847408e1f1f7ed58ed11c",
       "metadata": {
@@ -309,7 +309,7 @@
       }
     },
     {
-      "id": "26_araeosceliswhole",
+      "id": "#26_araeosceliswhole",
       "type": "sketchfab",
       "resource": "d46c41ce94bf455eabb9f6ca73cd0fb0",
       "metadata": {
@@ -323,7 +323,7 @@
       }
     },
     {
-      "id": "27_protorothyrisverts",
+      "id": "#27_protorothyrisverts",
       "type": "sketchfab",
       "resource": "4dbc9311886743dbb21a1a41a7ed8124",
       "metadata": {
@@ -337,7 +337,7 @@
       }
     },
     {
-      "id": "28_phytosauriateeth",
+      "id": "#28_phytosauriateeth",
       "type": "sketchfab",
       "resource": "1f5e089dc02b4b28ad0636d4e15edfb4",
       "metadata": {
@@ -351,7 +351,7 @@
       }
     },
     {
-      "id": "29_protosuchusskull",
+      "id": "#29_protosuchusskull",
       "type": "sketchfab",
       "resource": "64078ccb5c5d48419dd8d69145cef5ff",
       "metadata": {
@@ -365,7 +365,7 @@
       }
     },
     {
-      "id": "30_gallimimusskull",
+      "id": "#30_gallimimusskull",
       "type": "sketchfab",
       "resource": "0a4b49e22e84455f8fa511f9c56e0fcf",
       "metadata": {
@@ -379,7 +379,7 @@
       }
     },
     {
-      "id": "31_captorhinusskull",
+      "id": "#31_captorhinusskull",
       "type": "sketchfab",
       "resource": "864355c4fd3941ca8ae4e968392e3313",
       "metadata": {
@@ -393,7 +393,7 @@
       }
     },
     {
-      "id": "32_sarahsaurusskull",
+      "id": "#32_sarahsaurusskull",
       "type": "sketchfab",
       "resource": "89716e640c8f484da1497913eaf8a564",
       "metadata": {
@@ -407,7 +407,7 @@
       }
     },
     {
-      "id": "33_heterodontosaurusskull",
+      "id": "#33_heterodontosaurusskull",
       "type": "sketchfab",
       "resource": "0171e2a08c794f05aef7d95263638ce1",
       "metadata": {
@@ -421,7 +421,7 @@
       }
     },
     {
-      "id": "34_coelophysisskull",
+      "id": "#34_coelophysisskull",
       "type": "sketchfab",
       "resource": "bf7b6b868dd24f0883301fca823c7b33",
       "metadata": {
@@ -435,7 +435,7 @@
       }
     },
     {
-      "id": "35_coelophysisfoot",
+      "id": "#35_coelophysisfoot",
       "type": "sketchfab",
       "resource": "49769ab27afb4cd6b915ca106f35d83e",
       "metadata": {
@@ -449,7 +449,7 @@
       }
     },
     {
-      "id": "36_tyrannosauridaetooth",
+      "id": "#36_tyrannosauridaetooth",
       "type": "sketchfab",
       "resource": "3bbdbc952ac74eca8b8a660a3b88a574",
       "metadata": {
@@ -463,7 +463,7 @@
       }
     },
     {
-      "id": "37_hadrosauridaedentalbattery",
+      "id": "#37_hadrosauridaedentalbattery",
       "type": "sketchfab",
       "resource": "af8a3734e28f4fffa36d861b428dc20d",
       "metadata": {
@@ -477,7 +477,7 @@
       }
     },
     {
-      "id": "38_allosauruspubicboot",
+      "id": "#38_allosauruspubicboot",
       "type": "sketchfab",
       "resource": "a43fcde94ccb4809bb11225ea7be1caa",
       "metadata": {
@@ -491,7 +491,7 @@
       }
     },
     {
-      "id": "39_archaeopteryxwhole",
+      "id": "#39_archaeopteryxwhole",
       "type": "sketchfab",
       "resource": "61953051513547c091a0cf66f7a7e61a",
       "metadata": {
@@ -505,7 +505,7 @@
       }
     },
     {
-      "id": "40_deinonychusfoottail",
+      "id": "#40_deinonychusfoottail",
       "type": "sketchfab",
       "resource": "a71aa00508c44ff5b94cd61ca1cc5ad7",
       "metadata": {
@@ -519,7 +519,7 @@
       }
     },
     {
-      "id": "41_allosaurusskull",
+      "id": "#41_allosaurusskull",
       "type": "sketchfab",
       "resource": "db3b0c1417314e0981968e90e17012bd",
       "metadata": {
@@ -533,7 +533,7 @@
       }
     },
     {
-      "id": "43_staurikosaurusfemur",
+      "id": "#43_staurikosaurusfemur",
       "type": "sketchfab",
       "resource": "4f66c967830c444a95721ead624d1bcf",
       "metadata": {
@@ -547,7 +547,7 @@
       }
     },
     {
-      "id": "44_edmontoniaskull",
+      "id": "#44_edmontoniaskull",
       "type": "sketchfab",
       "resource": "6df2c5cad161443c9c3fb4ad89149bb0",
       "metadata": {
@@ -561,7 +561,7 @@
       }
     },
     {
-      "id": "45_tenontosaurustendons",
+      "id": "#45_tenontosaurustendons",
       "type": "sketchfab",
       "resource": "3af9b66e916d4b71bddbce5e3652cf21",
       "metadata": {
@@ -575,7 +575,7 @@
       }
     },
     {
-      "id": "46_ichthyosauruscommuniswhole",
+      "id": "#46_ichthyosauruscommuniswhole",
       "type": "sketchfab",
       "resource": "4ffee7ba4a5f4d7ea4ef32cd6afcb3b0",
       "metadata": {
@@ -589,7 +589,7 @@
       }
     },
     {
-      "id": "47_salvatormerianaeossifiedepiphyses",
+      "id": "#47_salvatormerianaeossifiedepiphyses",
       "type": "sketchfab",
       "resource": "1918b259d03442bb99418294dd6d8dd5",
       "metadata": {
@@ -603,7 +603,7 @@
       }
     },
     {
-      "id": "48_plateosauruscervical",
+      "id": "#48_plateosauruscervical",
       "type": "sketchfab",
       "resource": "aeb8f27a041640d4a141f1814fa5e31a",
       "metadata": {
@@ -617,7 +617,7 @@
       }
     },
     {
-      "id": "49_deinonychushumerus",
+      "id": "#49_deinonychushumerus",
       "type": "sketchfab",
       "resource": "d284c20264a04750a8d9e08cba791c21",
       "metadata": {
@@ -631,7 +631,7 @@
       }
     },
     {
-      "id": "50_allosaurusneck",
+      "id": "#50_allosaurusneck",
       "type": "sketchfab",
       "resource": "a18a71fe890746eba1c233a5617d763d",
       "metadata": {
@@ -645,7 +645,7 @@
       }
     },
     {
-      "id": "51_ichthyornishumerus",
+      "id": "#51_ichthyornishumerus",
       "type": "sketchfab",
       "resource": "34f87df9ea8549cb8dea1aa68e7252b8",
       "metadata": {
@@ -659,7 +659,7 @@
       }
     },
     {
-      "id": "52_corythosaurusmandible",
+      "id": "#52_corythosaurusmandible",
       "type": "sketchfab",
       "resource": "5b0b385c65ad4ec19204d12d2e4e4dcd",
       "metadata": {
@@ -673,7 +673,7 @@
       }
     },
     {
-      "id": "53_gallinuloideswhole",
+      "id": "#53_gallinuloideswhole",
       "type": "sketchfab",
       "resource": "11033713445344faa212dc98d428b939",
       "metadata": {
@@ -687,7 +687,7 @@
       }
     },
     {
-      "id": "54_avesfeather",
+      "id": "#54_avesfeather",
       "type": "sketchfab",
       "resource": "9e2b5f9bc2ae457fbac609b715dc27d5",
       "metadata": {
@@ -701,7 +701,7 @@
       }
     },
     {
-      "id": "55_othnielosauruswhole",
+      "id": "#55_othnielosauruswhole",
       "type": "sketchfab",
       "resource": "ea26d182ea7e4301a4d89ca92008efdc",
       "metadata": {
@@ -715,7 +715,7 @@
       }
     },
     {
-      "id": "56_pachypleurosauruswhole",
+      "id": "#56_pachypleurosauruswhole",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -728,7 +728,7 @@
       }
     },
     {
-      "id": "57_dolichorhynchopspaddle",
+      "id": "#57_dolichorhynchopspaddle",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -741,7 +741,7 @@
       }
     },
     {
-      "id": "58_dolichorhynchopsskull",
+      "id": "#58_dolichorhynchopsskull",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -754,7 +754,7 @@
       }
     },
     {
-      "id": "59_chelydraserpentinacarapace",
+      "id": "#59_chelydraserpentinacarapace",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -767,7 +767,7 @@
       }
     },
     {
-      "id": "60_elginiaskull",
+      "id": "#60_elginiaskull",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -780,7 +780,7 @@
       }
     },
     {
-      "id": "61_bolosaurusteeth",
+      "id": "#61_bolosaurusteeth",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -793,7 +793,7 @@
       }
     },
     {
-      "id": "62_mesosauruswhole",
+      "id": "#62_mesosauruswhole",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -806,7 +806,7 @@
       }
     },
     {
-      "id": "63_riojasuchusankle",
+      "id": "#63_riojasuchusankle",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -819,7 +819,7 @@
       }
     },
     {
-      "id": "64_stylemysnebraskensisshell",
+      "id": "#64_stylemysnebraskensisshell",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -832,7 +832,7 @@
       }
     },
     {
-      "id": "65_gopherusperagansskull",
+      "id": "#65_gopherusperagansskull",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -845,7 +845,7 @@
       }
     },
     {
-      "id": "66_clidastesvarious",
+      "id": "#66_clidastesvarious",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -858,7 +858,7 @@
       }
     },
     {
-      "id": "67_ornithorhynchusskull",
+      "id": "#67_ornithorhynchusskull",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -871,7 +871,7 @@
       }
     },
     {
-      "id": "68_didelphisskull",
+      "id": "#68_didelphisskull",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -884,7 +884,7 @@
       }
     },
     {
-      "id": "69_dinodontosaurusverts",
+      "id": "#69_dinodontosaurusverts",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -897,7 +897,7 @@
       }
     },
     {
-      "id": "70_dinodontosaurusskull",
+      "id": "#70_dinodontosaurusskull",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -910,7 +910,7 @@
       }
     },
     {
-      "id": "71_ophiacodonverts",
+      "id": "#71_ophiacodonverts",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -923,7 +923,7 @@
       }
     },
     {
-      "id": "73_edaphosaurusspine",
+      "id": "#73_edaphosaurusspine",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -936,7 +936,7 @@
       }
     },
     {
-      "id": "75_kayentatheriumwellesiskull",
+      "id": "#75_kayentatheriumwellesiskull",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -949,7 +949,7 @@
       }
     },
     {
-      "id": "76_massetognathusteruggiipostdentarybones",
+      "id": "#76_massetognathusteruggiipostdentarybones",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -962,7 +962,7 @@
       }
     },
     {
-      "id": "77_diprotodonincisor",
+      "id": "#77_diprotodonincisor",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -975,7 +975,7 @@
       }
     },
     {
-      "id": "78_glyptodonreticulatusmandible",
+      "id": "#78_glyptodonreticulatusmandible",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -988,7 +988,7 @@
       }
     },
     {
-      "id": "79_thylacoleocarnifextooth",
+      "id": "#79_thylacoleocarnifextooth",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1001,7 +1001,7 @@
       }
     },
     {
-      "id": "80_steropodongalmaniteeth",
+      "id": "#80_steropodongalmaniteeth",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1014,7 +1014,7 @@
       }
     },
     {
-      "id": "81_oxyaenaultimaandhyenadonhorridusjaws",
+      "id": "#81_oxyaenaultimaandhyenadonhorridusjaws",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1027,7 +1027,7 @@
       }
     },
     {
-      "id": "82_barburofelissptooth",
+      "id": "#82_barburofelissptooth",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1040,7 +1040,7 @@
       }
     },
     {
-      "id": "83_monosaulaxwhole",
+      "id": "#83_monosaulaxwhole",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1053,7 +1053,7 @@
       }
     },
     {
-      "id": "84_mammuthuscolumbitooth",
+      "id": "#84_mammuthuscolumbitooth",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1066,7 +1066,7 @@
       }
     },
     {
-      "id": "85_bisoncrassicornusandmoropuselatusfemora",
+      "id": "#85_bisoncrassicornusandmoropuselatusfemora",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1079,7 +1079,7 @@
       }
     },
     {
-      "id": "86_bisoncrassicornusandmoropuselatusastragali",
+      "id": "#86_bisoncrassicornusandmoropuselatusastragali",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1092,7 +1092,7 @@
       }
     },
     {
-      "id": "87_basilosauruscetoidesverts",
+      "id": "#87_basilosauruscetoidesverts",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1105,7 +1105,7 @@
       }
     },
     {
-      "id": "88_bisonbisonmetacarpal",
+      "id": "#88_bisonbisonmetacarpal",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1118,7 +1118,7 @@
       }
     },
     {
-      "id": "89_pseudohippariongratumfoot",
+      "id": "#89_pseudohippariongratumfoot",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1131,7 +1131,7 @@
       }
     },
     {
-      "id": "90_typothoraxcoccinarumankle",
+      "id": "#90_typothoraxcoccinarumankle",
       "type": "sketchfab",
       "resource": "eec455f84b034159b290332541da43ed",
       "metadata": {
@@ -1145,7 +1145,7 @@
       }
     },
     {
-      "id": "91_crocodylusrhombiferosteoderm",
+      "id": "#91_crocodylusrhombiferosteoderm",
       "type": "sketchfab",
       "resource": "a5fcd0455392418981d298860742b12f",
       "metadata": {
@@ -1159,7 +1159,7 @@
       }
     },
     {
-      "id": "92_commonsealbulla",
+      "id": "#92_commonsealbulla",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1172,7 +1172,7 @@
       }
     },
     {
-      "id": "93_variousmammalsskulls",
+      "id": "#93_variousmammalsskulls",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1185,7 +1185,7 @@
       }
     },
     {
-      "id": "94_didelphodustribosphenic",
+      "id": "#94_didelphodustribosphenic",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1198,7 +1198,7 @@
       }
     },
     {
-      "id": "96_ptilodusmontanustooth",
+      "id": "#96_ptilodusmontanustooth",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1211,7 +1211,7 @@
       }
     },
     {
-      "id": "97_docodontooth",
+      "id": "#97_docodontooth",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1224,7 +1224,7 @@
       }
     },
     {
-      "id": "98_dimetrodonlimbatusskull",
+      "id": "#98_dimetrodonlimbatusskull",
       "type": "sketchfab",
       "resource": "#N/A",
       "metadata": {
@@ -1237,7 +1237,7 @@
       }
     },
     {
-      "id": "99_pythonspskull",
+      "id": "#99_pythonspskull",
       "type": "sketchfab",
       "resource": "6fc299556cc64b01b2b2ffee76b7a6b6",
       "metadata": {
@@ -1251,7 +1251,7 @@
       }
     },
     {
-      "id": "100_teinolophosplatypusteeth",
+      "id": "#100_teinolophosplatypusteeth",
       "type": "video",
       "resource": "http://digimorph.org/specimens/Teinolophos_trusleri/216575/",
       "metadata": {
@@ -1265,7 +1265,7 @@
       }
     },
     {
-      "id": "101_obdurodonplatypusskull",
+      "id": "#101_obdurodonplatypusskull",
       "type": "video",
       "resource": "http://digimorph.org/specimens/Obdurodon_dicksoni/",
       "metadata": {
@@ -1279,7 +1279,7 @@
       }
     },
     {
-      "id": "101_tachyglossusaculeatuswhole",
+      "id": "#101_tachyglossusaculeatuswhole",
       "type": "sketchfab",
       "resource": "5d6bb0834d934fcdb7c61f84640e6b44?sscid=31k4_bfyzi&utm_source=shareasale&utm_medium=affiliate&utm_campaign=314743_1272560",
       "metadata": {
@@ -1292,7 +1292,7 @@
       }
     },
     {
-      "id": "102_pythonwhole",
+      "id": "#102_pythonwhole",
       "type": "sketchfab",
       "resource": "f5167ed86b874dfe832ca9dd7afa2982",
       "metadata": {
@@ -1305,7 +1305,7 @@
       }
     },
     {
-      "id": "103_tasmaniandevilwhole",
+      "id": "#103_tasmaniandevilwhole",
       "type": "sketchfab",
       "resource": "13f6825731014432b7fd381b273c8ed3",
       "metadata": {
@@ -1318,7 +1318,7 @@
       }
     },
     {
-      "id": "104_babirusa(skull)showingbunodont",
+      "id": "#104_babirusa(skull)showingbunodont",
       "type": "sketchfab",
       "resource": "8bb6d5153a574701940b4b0a2881fb7a",
       "metadata": {
@@ -1330,7 +1330,7 @@
       }
     },
     {
-      "id": "105_scottishwildcat(skull)",
+      "id": "#105_scottishwildcat(skull)",
       "type": "sketchfab",
       "resource": "d4ae015c5f7e4c29856e1dc1b2e0b997",
       "metadata": {
@@ -1342,7 +1342,7 @@
       }
     },
     {
-      "id": "106_rhinocerospes",
+      "id": "#106_rhinocerospes",
       "type": "sketchfab",
       "resource": "41ea8281005341bea9e385e8abed4987",
       "metadata": {
@@ -1354,7 +1354,7 @@
       }
     },
     {
-      "id": "107_oxpes",
+      "id": "#107_oxpes",
       "type": "sketchfab",
       "resource": "b6bf194e3e6a4107abfcb1f6ef07acb9",
       "metadata": {
@@ -1366,7 +1366,7 @@
       }
     },
     {
-      "id": "108_archaeopteryxanimation",
+      "id": "#108_archaeopteryxanimation",
       "type": "sketchfab",
       "resource": "2462e61a3a914e688d62d26804e0eb52",
       "metadata": {
@@ -1379,7 +1379,7 @@
       }
     },
     {
-      "id": "109_crocodileskull",
+      "id": "#109_crocodileskull",
       "type": "sketchfab",
       "resource": "7ab8c721e8724897a6d1b8b9c54d4016",
       "metadata": {
@@ -1391,7 +1391,7 @@
       }
     },
     {
-      "id": "110_rhinocerosskull",
+      "id": "#110_rhinocerosskull",
       "type": "sketchfab",
       "resource": "dbee4f8f32fd4a96b5a021137dd4e2c6",
       "metadata": {
@@ -1403,7 +1403,7 @@
       }
     },
     {
-      "id": "111_dugongskull",
+      "id": "#111_dugongskull",
       "type": "sketchfab",
       "resource": "68b37add0407416ab9ee3b314116486d",
       "metadata": {
@@ -1415,7 +1415,7 @@
       }
     },
     {
-      "id": "112_dolphinskull",
+      "id": "#112_dolphinskull",
       "type": "sketchfab",
       "resource": "8606c5abf5cc4022a4a4258da7f33c5f",
       "metadata": {
@@ -1427,7 +1427,7 @@
       }
     },
     {
-      "id": "113_lemurskull",
+      "id": "#113_lemurskull",
       "type": "sketchfab",
       "resource": "09791b8a688f455796768cd903f681e1",
       "metadata": {
@@ -1439,7 +1439,7 @@
       }
     },
     {
-      "id": "114_hipposkull",
+      "id": "#114_hipposkull",
       "type": "sketchfab",
       "resource": "27445833d318446abf254a96c24a9bcf",
       "metadata": {
@@ -1451,7 +1451,7 @@
       }
     },
     {
-      "id": "115_bearskull",
+      "id": "#115_bearskull",
       "type": "sketchfab",
       "resource": "e01dc94d20df4b888c7a6979bffb45a9",
       "metadata": {
@@ -1463,7 +1463,7 @@
       }
     },
     {
-      "id": "116_corvusskull",
+      "id": "#116_corvusskull",
       "type": "sketchfab",
       "resource": "dc0ed4da5bce44d9a6609a18821c289d",
       "metadata": {
@@ -1476,7 +1476,7 @@
       }
     },
     {
-      "id": "117_thylacineskull",
+      "id": "#117_thylacineskull",
       "type": "sketchfab",
       "resource": "4347e0bd4a3a406f8060ecdeb5e073d3?sscid=31k4_bfz07&utm_source=shareasale&utm_medium=affiliate&utm_campaign=314743_1272560",
       "metadata": {
@@ -1488,7 +1488,7 @@
       }
     },
     {
-      "id": "118_tyrannosauruswhole",
+      "id": "#118_tyrannosauruswhole",
       "type": "sketchfab",
       "resource": "03ae36f1085f431ba00b6747bc729b72",
       "metadata": {
@@ -1501,7 +1501,7 @@
       }
     },
     {
-      "id": "119_protoceratopsskull",
+      "id": "#119_protoceratopsskull",
       "type": "sketchfab",
       "resource": "32d5900dd3044c2abfd94ac7c5989664",
       "metadata": {
@@ -1515,7 +1515,7 @@
       }
     },
     {
-      "id": "120_elephantskull",
+      "id": "#120_elephantskull",
       "type": "sketchfab",
       "resource": "d982240ed37d429bbcf5953f0212cf70",
       "metadata": {
@@ -1527,7 +1527,7 @@
       }
     },
     {
-      "id": "121_walrusskull",
+      "id": "#121_walrusskull",
       "type": "sketchfab",
       "resource": "55285809a028400cadbb1f2a4eadd8f5",
       "metadata": {
@@ -1539,7 +1539,7 @@
       }
     },
     {
-      "id": "122_seaotterskull",
+      "id": "#122_seaotterskull",
       "type": "sketchfab",
       "resource": "afdac546c91c4ae5af5e9573178afa69",
       "metadata": {
@@ -1551,7 +1551,7 @@
       }
     },
     {
-      "id": "123_batskull",
+      "id": "#123_batskull",
       "type": "sketchfab",
       "resource": "68d484d4b3ec4bd0bd36aa560fe8f148",
       "metadata": {
@@ -1563,7 +1563,7 @@
       }
     },
     {
-      "id": "124_pacaskull",
+      "id": "#124_pacaskull",
       "type": "sketchfab",
       "resource": "26348a17ee4844a183cccde8cffa1699",
       "metadata": {
@@ -1575,21 +1575,21 @@
       }
     },
     {
-      "id": "125_coelophysiswhole",
+      "id": "#125_coelophysiswhole",
       "type": "sketchfab",
-      "resource": "348286c716944a73b9f74d07ce5b6ed8",
+      "resource": "c8fee7a21dbc465d8fae98a0df4d190e",
       "metadata": {
         "taxon": "Coelophysis ",
         "description": "whole",
         "attribution": {
           "institution": "Museum of Natural Sciences Brussels",
-          "people": "User: Geoffrey Marchal",
-          "origin": "https://sketchfab.com/3d-models/coelophysis-bauri-348286c716944a73b9f74d07ce5b6ed8"
+          "people": "Matthew Schroyer",
+          "origin": "https://sketchfab.com/3d-models/coelophysis-c8fee7a21dbc465d8fae98a0df4d190e"
         }
       }
     },
     {
-      "id": "126_triceratopswhole",
+      "id": "#126_triceratopswhole",
       "type": "sketchfab",
       "resource": "e9c507f179ed4455aac3b208c9e6c973",
       "metadata": {
@@ -1602,7 +1602,7 @@
       }
     },
     {
-      "id": "127_mammuthusprimigenius",
+      "id": "#127_mammuthusprimigenius",
       "type": "sketchfab",
       "resource": "229976b3db4646b39c44e57a7e3d8744",
       "metadata": {
@@ -1614,7 +1614,7 @@
       }
     },
     {
-      "id": "128_spur-thighedtortoiseshell",
+      "id": "#128_spur-thighedtortoiseshell",
       "type": "sketchfab",
       "resource": "0080ec0c01fd4ad3ad495328205a2e25",
       "metadata": {
@@ -1626,7 +1626,7 @@
       }
     },
     {
-      "id": "129_iguanodonteeth",
+      "id": "#129_iguanodonteeth",
       "type": "sketchfab",
       "resource": "f016ad38ebb647988dafd6bbdc1510d0",
       "metadata": {
@@ -1639,7 +1639,7 @@
       }
     },
     {
-      "id": "130_bluewhalewhole",
+      "id": "#130_bluewhalewhole",
       "type": "sketchfab",
       "resource": "8502dbef80ed4aa688c13c90cb14de73",
       "metadata": {
@@ -1651,7 +1651,7 @@
       }
     },
     {
-      "id": "131_diplodocusskull",
+      "id": "#131_diplodocusskull",
       "type": "sketchfab",
       "resource": "f0372c208d174e83ab4b56512c6b2fd6",
       "metadata": {
@@ -1664,7 +1664,7 @@
       }
     },
     {
-      "id": "132_psittacosaurusskull",
+      "id": "#132_psittacosaurusskull",
       "type": "sketchfab",
       "resource": "17f2d5b13f364db9bf72b77d8372c099",
       "metadata": {
@@ -1677,7 +1677,7 @@
       }
     },
     {
-      "id": "133_ceratosaurusskull",
+      "id": "#133_ceratosaurusskull",
       "type": "sketchfab",
       "resource": "8f0c5243593d46c78916d01d5066fff6",
       "metadata": {
@@ -1691,7 +1691,7 @@
       }
     },
     {
-      "id": "134_virginiaopossumskull",
+      "id": "#134_virginiaopossumskull",
       "type": "sketchfab",
       "resource": "8c2152da1bd542dbbb65a9d3e7a2f53e",
       "metadata": {
@@ -1703,7 +1703,7 @@
       }
     },
     {
-      "id": "135_porcupineskull",
+      "id": "#135_porcupineskull",
       "type": "sketchfab",
       "resource": "b81366fe82994499bc9cad1828050310",
       "metadata": {
@@ -1715,7 +1715,7 @@
       }
     },
     {
-      "id": "136_beaverskull",
+      "id": "#136_beaverskull",
       "type": "sketchfab",
       "resource": "075b94da30c546549c9ba5be7f5f8cc5",
       "metadata": {
@@ -1727,7 +1727,7 @@
       }
     },
     {
-      "id": "137_westerngraysquirrelskull",
+      "id": "#137_westerngraysquirrelskull",
       "type": "sketchfab",
       "resource": "027ac47bca6d4478bce058a96b9534b6",
       "metadata": {
@@ -1739,7 +1739,7 @@
       }
     },
     {
-      "id": "138_eremotheriumsloth",
+      "id": "#138_eremotheriumsloth",
       "type": "sketchfab",
       "resource": "216182910e0345d2a021d56787a63b96",
       "metadata": {
@@ -1751,7 +1751,7 @@
       }
     },
     {
-      "id": "139_arsinotheriumafrotherianskull",
+      "id": "#139_arsinotheriumafrotherianskull",
       "type": "sketchfab",
       "resource": "9a74034753474b72958b40ac1d2c784c",
       "metadata": {
@@ -1763,7 +1763,7 @@
       }
     },
     {
-      "id": "140_armadillowhole",
+      "id": "#140_armadillowhole",
       "type": "sketchfab",
       "resource": "5f5c526b2df34902afe93b721f00e360",
       "metadata": {
@@ -1775,7 +1775,7 @@
       }
     },
     {
-      "id": "141_fossilamphisbaenidskull",
+      "id": "#141_fossilamphisbaenidskull",
       "type": "sketchfab",
       "resource": "970cd9c6e43c4094a71657e4080fb9d1",
       "metadata": {
@@ -1787,7 +1787,7 @@
       }
     },
     {
-      "id": "142_fossiliguanidskull",
+      "id": "#142_fossiliguanidskull",
       "type": "sketchfab",
       "resource": "2c90f6828d7140dea8e521d1b15f323a",
       "metadata": {
@@ -1799,7 +1799,7 @@
       }
     },
     {
-      "id": "143_orcawhole",
+      "id": "#143_orcawhole",
       "type": "sketchfab",
       "resource": "7fe4ae6ad95a46bfa235fc15cdb07c41",
       "metadata": {
@@ -1811,7 +1811,7 @@
       }
     },
     {
-      "id": "144_equuslambeimandible",
+      "id": "#144_equuslambeimandible",
       "type": "sketchfab",
       "resource": "b91e20d55455462792437e5ee0967c60",
       "metadata": {
@@ -1823,7 +1823,7 @@
       }
     },
     {
-      "id": "145_eurohippus(?)",
+      "id": "#145_eurohippus(?)",
       "type": "sketchfab",
       "resource": "f219f3f001e746a0939f7d7bfb5c2918",
       "metadata": {
@@ -1835,19 +1835,19 @@
       }
     },
     {
-      "id": "146_moropuschalicothere",
+      "id": "#146_moropuschalicothere",
       "type": "image",
       "resource": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Moropus.jpg",
       "metadata": {
         "taxon": "moropus chalicothere",
         "attribution": {
-          "institution": "NMNH",
+          "institution": "Smithsonian National Museum of Natural History (NMNH)",
           "origin": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Moropus.jpg"
         }
       }
     },
     {
-      "id": "147_brontotherium",
+      "id": "#147_brontotherium",
       "type": "sketchfab",
       "resource": "daea60c0f15248cc97c36631f9b474b3",
       "metadata": {
@@ -1859,7 +1859,7 @@
       }
     },
     {
-      "id": "148_equusaninusmule",
+      "id": "#148_equusaninusmule",
       "type": "sketchfab",
       "resource": "4ac74b029fe24259ad698edbe7a5e122",
       "metadata": {
@@ -1871,7 +1871,7 @@
       }
     },
     {
-      "id": "149_struthiowhole",
+      "id": "#149_struthiowhole",
       "type": "sketchfab",
       "resource": "b293e04d480c4d63afc1bf1083a73e83",
       "metadata": {
@@ -1885,7 +1885,7 @@
       }
     },
     {
-      "id": "150_ornithorhynchus(whole)",
+      "id": "#150_ornithorhynchus(whole)",
       "type": "sketchfab",
       "resource": "https://www.morphosource.org//Detail/MediaDetail/Show/media_id/35370",
       "metadata": {
@@ -1897,7 +1897,7 @@
       }
     },
     {
-      "id": "151_hyrax",
+      "id": "#151_hyrax",
       "type": "sketchfab",
       "resource": "cb2cad96e0b14d07ae89a48cd1760a39",
       "metadata": {
@@ -1909,7 +1909,7 @@
       }
     },
     {
-      "id": "152_bisonlatifronswhole",
+      "id": "#152_bisonlatifronswhole",
       "type": "sketchfab",
       "resource": "fa765b795f8847c09d5a3c1d5b0810c4",
       "metadata": {
@@ -1921,7 +1921,7 @@
       }
     },
     {
-      "id": "153_armadillowhole",
+      "id": "#153_armadillowhole",
       "type": "sketchfab",
       "resource": "4f7c5d8a18764f20b1d24c724cdc5b27",
       "metadata": {
@@ -1933,7 +1933,7 @@
       }
     },
     {
-      "id": "154_anteaterwhole",
+      "id": "#154_anteaterwhole",
       "type": "sketchfab",
       "resource": "12362404733045b8b6770249928e8d04",
       "metadata": {
@@ -1945,7 +1945,7 @@
       }
     },
     {
-      "id": "155_jackrabbitskull",
+      "id": "#155_jackrabbitskull",
       "type": "sketchfab",
       "resource": "79cc18c713ed4978994b96e3d52b3092",
       "metadata": {
@@ -1957,7 +1957,7 @@
       }
     },
     {
-      "id": "156_bisonwhole",
+      "id": "#156_bisonwhole",
       "type": "sketchfab",
       "resource": "40e906271ced4c938abb84434f27e2fa",
       "metadata": {
@@ -1969,7 +1969,7 @@
       }
     },
     {
-      "id": "157_vampirebatwhole",
+      "id": "#157_vampirebatwhole",
       "type": "sketchfab",
       "resource": "3b04f0de8f1f4405ad9a2b8947887399",
       "metadata": {
@@ -1981,7 +1981,7 @@
       }
     },
     {
-      "id": "158_mole",
+      "id": "#158_mole",
       "type": "video",
       "resource": "http://www.digimorph.org/specimens/Talpa_europaea/",
       "metadata": {
@@ -1992,7 +1992,7 @@
       }
     },
     {
-      "id": "159_hedgehog",
+      "id": "#159_hedgehog",
       "type": "video",
       "resource": "http://digimorph.org/specimens/hedgehog_sp/whole/",
       "metadata": {
@@ -2003,7 +2003,7 @@
       }
     },
     {
-      "id": "160_dusky(true)shrew",
+      "id": "#160_dusky(true)shrew",
       "type": "video",
       "resource": "http://www.digimorph.org/specimens/Sorex_monticolus/head/",
       "metadata": {
@@ -2014,7 +2014,7 @@
       }
     },
     {
-      "id": "161_rattusskull",
+      "id": "#161_rattusskull",
       "type": "sketchfab",
       "resource": "ae6480a7bae94133a234eeb1579ca713",
       "metadata": {
@@ -2026,7 +2026,7 @@
       }
     },
     {
-      "id": "162_elephantshrew",
+      "id": "#162_elephantshrew",
       "type": "video",
       "resource": "http://digimorph.org/specimens/macroscelides_proboscideus/skull/",
       "metadata": {
@@ -2038,7 +2038,7 @@
       }
     },
     {
-      "id": "163_goldenmole",
+      "id": "#163_goldenmole",
       "type": "video",
       "resource": "http://digimorph.org/specimens/Chrysochloris_sp/whole/",
       "metadata": {
@@ -2050,7 +2050,7 @@
       }
     },
     {
-      "id": "164_aardvark",
+      "id": "#164_aardvark",
       "type": "video",
       "resource": "http://digimorph.org/specimens/Orycteropus_afer/",
       "metadata": {
@@ -2062,7 +2062,7 @@
       }
     },
     {
-      "id": "165_tenrec",
+      "id": "#165_tenrec",
       "type": "video",
       "resource": "http://digimorph.org/specimens/Hemicentetes_semispinosus/head/",
       "metadata": {
@@ -2074,19 +2074,19 @@
       }
     },
     {
-      "id": "166_desmostylian",
+      "id": "#166_desmostylian",
       "type": "image",
       "resource": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Paleoparadoxia_Natural_History_Museum_of_Los_Angeles_County_20110330.jpg",
       "metadata": {
         "taxon": "desmostylian",
         "attribution": {
-          "institution": "LANHM",
+          "institution": "Natural History Museum of Los Angeles County (LANHM)",
           "origin": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Paleoparadoxia_Natural_History_Museum_of_Los_Angeles_County_20110330.jpg"
         }
       }
     },
     {
-      "id": "167_treeshrew",
+      "id": "#167_treeshrew",
       "type": "sketchfab",
       "resource": "ba2fdfd02eef4b35973584119e2a7494",
       "metadata": {
@@ -2098,7 +2098,7 @@
       }
     },
     {
-      "id": "168_colugo",
+      "id": "#168_colugo",
       "type": "sketchfab",
       "resource": "479883b484ca47309919f94f0ae8283d",
       "metadata": {
@@ -2110,7 +2110,7 @@
       }
     },
     {
-      "id": "169_varanushemimandiblewithintramandibularjoint",
+      "id": "#169_varanushemimandiblewithintramandibularjoint",
       "type": "sketchfab",
       "resource": "54830cc930744ff5a0935b1d54ad6abb",
       "metadata": {
@@ -2122,7 +2122,7 @@
       }
     },
     {
-      "id": "170_carettacarettacranium",
+      "id": "#170_carettacarettacranium",
       "type": "sketchfab",
       "resource": "92a2eabae60b46c188f1086b397f73de",
       "metadata": {
@@ -2134,7 +2134,7 @@
       }
     },
     {
-      "id": "171_geckoskull",
+      "id": "#171_geckoskull",
       "type": "sketchfab",
       "resource": "dfa62f07b9d24e68bb877de04beb33b9",
       "metadata": {
@@ -2146,7 +2146,7 @@
       }
     },
     {
-      "id": "172_solenodon",
+      "id": "#172_solenodon",
       "type": "sketchfab",
       "resource": "f3568f1486a944e4a36ccf78132c9d5b",
       "metadata": {
@@ -2158,7 +2158,7 @@
       }
     },
     {
-      "id": "173_toxodon",
+      "id": "#173_toxodon",
       "type": "sketchfab",
       "resource": "0b6b3144b32d4467969ba6e56670d896",
       "metadata": {
@@ -2170,7 +2170,7 @@
       }
     },
     {
-      "id": "174_giantdeer",
+      "id": "#174_giantdeer",
       "type": "sketchfab",
       "resource": "3fe266b08d724ecd9cff1c53b7ce90c5",
       "metadata": {
@@ -2182,7 +2182,7 @@
       }
     },
     {
-      "id": "175_camelwhole",
+      "id": "#175_camelwhole",
       "type": "sketchfab",
       "resource": "22728b174363443cbace36c55cdcf2be",
       "metadata": {
@@ -2194,7 +2194,7 @@
       }
     },
     {
-      "id": "176_deerskullpalatalviewshowingselenodonty",
+      "id": "#176_deerskullpalatalviewshowingselenodonty",
       "type": "sketchfab",
       "resource": "55dce68567ac4f919990a46ef39a4b8c",
       "metadata": {
@@ -2206,7 +2206,7 @@
       }
     },
     {
-      "id": "177_pythonskull",
+      "id": "#177_pythonskull",
       "type": "sketchfab",
       "resource": "a97c2bdd8b2c4460813bbdfbc90801f1",
       "metadata": {
@@ -2218,7 +2218,7 @@
       }
     },
     {
-      "id": "178_oreodont",
+      "id": "#178_oreodont",
       "type": "sketchfab",
       "resource": "25e9212b523c4c029695c957f02b4a0c",
       "metadata": {
@@ -2230,7 +2230,7 @@
       }
     },
     {
-      "id": "179_entelodont",
+      "id": "#179_entelodont",
       "type": "image",
       "resource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dinohyus_hollandi_%28fossil_mammal%29Lower_Miocene_of_Nebraska.jpg/1024px-Dinohyus_hollandi_%28fossil_mammal%29Lower_Miocene_of_Nebraska.jpg",
       "metadata": {
@@ -2242,7 +2242,7 @@
       }
     },
     {
-      "id": "180_mesonychid",
+      "id": "#180_mesonychid",
       "type": "image",
       "resource": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Harpagolestes_immanis.jpg",
       "metadata": {
@@ -2253,7 +2253,7 @@
       }
     },
     {
-      "id": "181_pakicetus",
+      "id": "#181_pakicetus",
       "type": "image",
       "resource": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pakicetus_Canada.jpg",
       "metadata": {
@@ -2265,7 +2265,7 @@
       }
     },
     {
-      "id": "182_smilodonmachairodontid",
+      "id": "#182_smilodonmachairodontid",
       "type": "sketchfab",
       "resource": "cbcf89e1310048e9b79c7f67f7b8b525",
       "metadata": {
@@ -2277,7 +2277,7 @@
       }
     },
     {
-      "id": "183_dinictisnimravid",
+      "id": "#183_dinictisnimravid",
       "type": "sketchfab",
       "resource": "ed572e24bfe140c099b8f736543b68aa",
       "metadata": {
@@ -2289,7 +2289,7 @@
       }
     },
     {
-      "id": "184_skunk",
+      "id": "#184_skunk",
       "type": "sketchfab",
       "resource": "b9ada79779564a9ea0a8704e75b1522c",
       "metadata": {
@@ -2301,7 +2301,7 @@
       }
     },
     {
-      "id": "185_raccoon",
+      "id": "#185_raccoon",
       "type": "sketchfab",
       "resource": "2b9adfa5841f49a18b09c77963858094",
       "metadata": {
@@ -2313,7 +2313,7 @@
       }
     },
     {
-      "id": "186_weasel",
+      "id": "#186_weasel",
       "type": "sketchfab",
       "resource": "57fd735ecb444ba09ab4f3cf0b5027b9",
       "metadata": {
@@ -2325,7 +2325,7 @@
       }
     },
     {
-      "id": "187_sealion",
+      "id": "#187_sealion",
       "type": "sketchfab",
       "resource": "6394af7f20dd42869baf8fc6c77fe11a",
       "metadata": {
@@ -2337,7 +2337,7 @@
       }
     },
     {
-      "id": "188_direwolf",
+      "id": "#188_direwolf",
       "type": "sketchfab",
       "resource": "a6cc7c39da40487282d3ccbe8527dedc",
       "metadata": {
@@ -2349,7 +2349,7 @@
       }
     },
     {
-      "id": "189_arctodusshortfacedbear",
+      "id": "#189_arctodusshortfacedbear",
       "type": "sketchfab",
       "resource": "da0dcfdf2aa84b0ab3384d12f39fa19a",
       "metadata": {
@@ -2361,7 +2361,7 @@
       }
     },
     {
-      "id": "190_europeancavelion(pantheraspelaea)",
+      "id": "#190_europeancavelion(pantheraspelaea)",
       "type": "sketchfab",
       "resource": "277d9647fd024af58bb2841ccf319e21",
       "metadata": {
@@ -2373,7 +2373,7 @@
       }
     },
     {
-      "id": "191_grizzlybearwhole",
+      "id": "#191_grizzlybearwhole",
       "type": "sketchfab",
       "resource": "0c8f182cc48340c08570955b87cec887",
       "metadata": {
@@ -2385,7 +2385,7 @@
       }
     },
     {
-      "id": "192_unossifiedepiphyses(chicken)",
+      "id": "#192_unossifiedepiphyses(chicken)",
       "type": "sketchfab",
       "resource": "96eefcd89ac14a1d96867f91e3e772d1",
       "metadata": {
@@ -2397,7 +2397,7 @@
       }
     },
     {
-      "id": "193_matamataturtlewhole",
+      "id": "#193_matamataturtlewhole",
       "type": "sketchfab",
       "resource": "86507c0440374657a913071722f0d522",
       "metadata": {
@@ -2409,7 +2409,7 @@
       }
     },
     {
-      "id": "194_mountainlionwhole",
+      "id": "#194_mountainlionwhole",
       "type": "sketchfab",
       "resource": "7fa93e512aad4344ab2d90484e454d56",
       "metadata": {
@@ -2421,7 +2421,7 @@
       }
     },
     {
-      "id": "195_baboonwhole",
+      "id": "#195_baboonwhole",
       "type": "sketchfab",
       "resource": "3ae3f26dc6cb44368c891e733a6936bf",
       "metadata": {
@@ -2433,7 +2433,7 @@
       }
     },
     {
-      "id": "196_pelecanuswhole",
+      "id": "#196_pelecanuswhole",
       "type": "sketchfab",
       "resource": "1f4eb18df7e446749e402acd1544c787",
       "metadata": {
@@ -2447,7 +2447,7 @@
       }
     },
     {
-      "id": "197_antigonewhole",
+      "id": "#197_antigonewhole",
       "type": "sketchfab",
       "resource": "2ee47c3d8e76451fae4ed0504a27231d",
       "metadata": {
@@ -2461,7 +2461,7 @@
       }
     },
     {
-      "id": "198_alligatorsnappingturtleskull",
+      "id": "#198_alligatorsnappingturtleskull",
       "type": "sketchfab",
       "resource": "326aa108b8c84f2c9db42efa8a4354ac",
       "metadata": {
@@ -2473,7 +2473,7 @@
       }
     },
     {
-      "id": "199_bulldogskull",
+      "id": "#199_bulldogskull",
       "type": "sketchfab",
       "resource": "a986bb48fe7843668b13b47bcc6e65a3",
       "metadata": {
@@ -2485,7 +2485,7 @@
       }
     },
     {
-      "id": "200_chameleonskull",
+      "id": "#200_chameleonskull",
       "type": "sketchfab",
       "resource": "6140830f48184bf0afae00fa1cb02aa2",
       "metadata": {
@@ -2497,7 +2497,7 @@
       }
     },
     {
-      "id": "201_sphenodonwhole",
+      "id": "#201_sphenodonwhole",
       "type": "sketchfab",
       "resource": "d4c51970dac94f39bceb47916b73c717",
       "metadata": {
@@ -2509,7 +2509,7 @@
       }
     },
     {
-      "id": "202_sphenodonskull",
+      "id": "#202_sphenodonskull",
       "type": "sketchfab",
       "resource": "10e8b5690b6e47c98f22e16103780b0c",
       "metadata": {
@@ -2521,7 +2521,7 @@
       }
     },
     {
-      "id": "203_camarosaurusskull",
+      "id": "#203_camarosaurusskull",
       "type": "sketchfab",
       "resource": "6b1eefd476934027990fa12727c18f79",
       "metadata": {
@@ -2535,7 +2535,7 @@
       }
     },
     {
-      "id": "204_varanusskull",
+      "id": "#204_varanusskull",
       "type": "sketchfab",
       "resource": "df0c37d6d379481f978048600e7bacd6",
       "metadata": {
@@ -2547,7 +2547,7 @@
       }
     },
     {
-      "id": "205_lacertaskull",
+      "id": "#205_lacertaskull",
       "type": "sketchfab",
       "resource": "cdb2b3ec901e4f5bab239cdcc1e1e723",
       "metadata": {
@@ -2559,7 +2559,7 @@
       }
     },
     {
-      "id": "206_amphisbaenaskull",
+      "id": "#206_amphisbaenaskull",
       "type": "sketchfab",
       "resource": "426b359b879349c6bbd292c90fd1ea37",
       "metadata": {
@@ -2571,7 +2571,7 @@
       }
     },
     {
-      "id": "207_agamaskull",
+      "id": "#207_agamaskull",
       "type": "sketchfab",
       "resource": "4c1e851f76044b3a8d681461c1dc6ae2",
       "metadata": {
@@ -2583,7 +2583,7 @@
       }
     },
     {
-      "id": "208_geckowholeregeneratedtail",
+      "id": "#208_geckowholeregeneratedtail",
       "type": "sketchfab",
       "resource": "b5d1c3597c904b4aac43356118aa5a7a",
       "metadata": {
@@ -2595,7 +2595,7 @@
       }
     },
     {
-      "id": "209_gilamonsterosteoderms",
+      "id": "#209_gilamonsterosteoderms",
       "type": "sketchfab",
       "resource": "df84ec150b0a401890e968cd7642daf2",
       "metadata": {
@@ -2607,7 +2607,7 @@
       }
     },
     {
-      "id": "210_scolecophidianskullwithmaxillaryrake",
+      "id": "#210_scolecophidianskullwithmaxillaryrake",
       "type": "sketchfab",
       "resource": "1a86ce223915489f85cca55a8b80e694",
       "metadata": {
@@ -2619,7 +2619,7 @@
       }
     },
     {
-      "id": "211_ratttlesnakeskullshowingreplacementfangs",
+      "id": "#211_ratttlesnakeskullshowingreplacementfangs",
       "type": "sketchfab",
       "resource": "e358959343cb48ce927d91110ca8a511",
       "metadata": {
@@ -2631,7 +2631,7 @@
       }
     },
     {
-      "id": "212_hognosesnakeeatingfrog,showingmandibleseparation",
+      "id": "#212_hognosesnakeeatingfrog,showingmandibleseparation",
       "type": "sketchfab",
       "resource": "22234e4624994598a342649782ea3d32",
       "metadata": {
@@ -2643,7 +2643,7 @@
       }
     },
     {
-      "id": "213_gharialskull",
+      "id": "#213_gharialskull",
       "type": "sketchfab",
       "resource": "787308d75e774fd7a91867d885b7d236",
       "metadata": {
@@ -2655,7 +2655,7 @@
       }
     },
     {
-      "id": "214_hatchlingcrocshowingsimplifedwristandshoulder",
+      "id": "#214_hatchlingcrocshowingsimplifedwristandshoulder",
       "type": "sketchfab",
       "resource": "13321034846c475e9484f576cdde9e61",
       "metadata": {
@@ -2667,7 +2667,7 @@
       }
     },
     {
-      "id": "215_scolecophidianskullwithmandibularrake",
+      "id": "#215_scolecophidianskullwithmandibularrake",
       "type": "sketchfab",
       "resource": "99e3cb9e9e4741f1af88a860ae941dcb",
       "metadata": {
@@ -2679,7 +2679,1229 @@
       }
     },
     {
-      "id": "74_fromlautenschlageretal2016biol.reviews:thrinaxodon,probelesodon,probainognathus,diademodon,hadrocodium,morganucodon,monodelphis",
+      "id": "#216_tyrannosaurusrextrixwhole",
+      "type": "sketchfab",
+      "resource": "67e4573e2fe849f4958bb702797b938e",
+      "metadata": {
+        "taxon": "Tyrannosaurus rex",
+        "description": "trix whole",
+        "attribution": {
+          "institution": "Naturalis Biodiversity Center",
+          "people": "Henk Caspers",
+          "origin": "https://sketchfab.com/3d-models/tyrannosaurus-rex-trix-in-our-museum-67e4573e2fe849f4958bb702797b938e"
+        }
+      }
+    },
+    {
+      "id": "#217_hypacrosaurus",
+      "type": "sketchfab",
+      "resource": "5ca40c221c9147389c1563de40dfa2bd",
+      "metadata": {
+        "taxon": "Hypacrosaurus",
+        "attribution": {
+          "institution": "Private collection",
+          "people": "Olof Moleman",
+          "origin": "https://sketchfab.com/3d-models/juvenile-hypacrosaurus-humerus-5ca40c221c9147389c1563de40dfa2bd"
+        }
+      }
+    },
+    {
+      "id": "#218_ixalerpetonmodel",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ixalerpeton_models.jpg",
+      "metadata": {
+        "taxon": "Ixalerpeton",
+        "description": "model",
+        "attribution": {
+          "institution": "Universidade Luterana do Brasil",
+          "people": "Luiz Munhoz ",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ixalerpeton_models.jpg"
+        }
+      }
+    },
+    {
+      "id": "#219_marasuchusskeleton",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Marasuchus.JPG",
+      "metadata": {
+        "taxon": "Marasuchus",
+        "description": "skeleton",
+        "attribution": {
+          "people": "Mitternacht90",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Marasuchus.JPG"
+        }
+      }
+    },
+    {
+      "id": "#220_pachycephalosauruswyomingensis",
+      "type": "sketchfab",
+      "resource": "9fa9f45368e84b71bcc9ab3a1f46f7a7",
+      "metadata": {
+        "taxon": "Pachycephalosaurus wyomingensis",
+        "attribution": {
+          "institution": "Private collection",
+          "people": "dinosaurhunter",
+          "origin": "https://sketchfab.com/3d-models/pachycephalosaurus-wyomingensis-9fa9f45368e84b71bcc9ab3a1f46f7a7"
+        }
+      }
+    },
+    {
+      "id": "#221_pisanosaurusskeleton",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/d/dd/PisanosaurusROM1.JPG",
+      "metadata": {
+        "taxon": "Pisanosaurus",
+        "description": "skeleton",
+        "attribution": {
+          "institution": "Royal Ontario Museum (ROM)",
+          "people": "Eduard Solà",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/d/dd/PisanosaurusROM1.JPG"
+        }
+      }
+    },
+    {
+      "id": "#222_heterodontosaurustuckiskeleton",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Heterodontosaurus_tucki_cast_-_University_of_California_Museum_of_Paleontology_-_Berkeley%2C_CA_-_DSC04696.JPG",
+      "metadata": {
+        "taxon": "Heterodontosaurus tucki",
+        "description": "skeleton",
+        "attribution": {
+          "institution": "University of California Museum of Paleontology (UCMP)",
+          "people": "Daderot",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Heterodontosaurus_tucki_cast_-_University_of_California_Museum_of_Paleontology_-_Berkeley%2C_CA_-_DSC04696.JPG"
+        }
+      }
+    },
+    {
+      "id": "#223_ankylosaurosteoderm",
+      "type": "sketchfab",
+      "resource": "c08f026f89b0426d998d768977e9d4eb",
+      "metadata": {
+        "taxon": "Ankylosaur",
+        "description": "osteoderm",
+        "attribution": {
+          "people": "Opaleo",
+          "origin": "https://sketchfab.com/3d-models/ankylosaur-dermal-scute-c08f026f89b0426d998d768977e9d4eb"
+        }
+      }
+    },
+    {
+      "id": "#224_stegosaurusarmatusskull",
+      "type": "sketchfab",
+      "resource": "66ad0cdcda2d476983d12e656659511c",
+      "metadata": {
+        "taxon": "Stegosaurus armatus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Natural History Museum of Utah (UMNH)",
+          "people": "Idaho Virtualization Laboratory",
+          "origin": "https://sketchfab.com/3d-models/umnh-vpc-44-stegosaurus-armatus-66ad0cdcda2d476983d12e656659511c"
+        }
+      }
+    },
+    {
+      "id": "#225_euoplocephalusskull",
+      "type": "sketchfab",
+      "resource": "fac81993bea34435b3740d8964dcc7d7",
+      "metadata": {
+        "taxon": "Euoplocephalus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Ohio University",
+          "people": "valchanov",
+          "origin": "https://sketchfab.com/3d-models/euoplocephalus-skull-fac81993bea34435b3740d8964dcc7d7"
+        }
+      }
+    },
+    {
+      "id": "#226_psittacosauruswhole",
+      "type": "sketchfab",
+      "resource": "b2ace46ff58644ea9488d2b9db44451d",
+      "metadata": {
+        "taxon": "Psittacosaurus",
+        "description": "whole",
+        "attribution": {
+          "people": "Think3DPrint",
+          "origin": "https://sketchfab.com/3d-models/psittacosaurus-dinosaur-fossil-b2ace46ff58644ea9488d2b9db44451d"
+        }
+      }
+    },
+    {
+      "id": "#227_edmontosaurusannectens",
+      "type": "sketchfab",
+      "resource": "ff1245706b3441999e387b0545fbc017",
+      "metadata": {
+        "taxon": "Edmontosaurus annectens",
+        "attribution": {
+          "institution": "Fukui Prefectural Dinosaur Museum",
+          "people": "dinosaurhunter",
+          "origin": "https://sketchfab.com/3d-models/edmontosaurus-annectens-ff1245706b3441999e387b0545fbc017"
+        }
+      }
+    },
+    {
+      "id": "#228_tenontosauruswhole",
+      "type": "sketchfab",
+      "resource": "fe5a2169a6c744afb2eb002e23922bdd",
+      "metadata": {
+        "taxon": "Tenontosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Private collection",
+          "people": "dinosaurhunter",
+          "origin": "https://sketchfab.com/3d-models/tenontosaurus-z-mid-fe5a2169a6c744afb2eb002e23922bdd"
+        }
+      }
+    },
+    {
+      "id": "#229_tylosaurusprorigerskull",
+      "type": "sketchfab",
+      "resource": "5b8ef5d8a2ce4ee986b645bb672fcc20",
+      "metadata": {
+        "taxon": "Tylosaurus proriger",
+        "description": "skull",
+        "attribution": {
+          "institution": "Rocky Mountain Dinosaur Resource Center",
+          "people": "dinosaurhunter",
+          "origin": "https://sketchfab.com/3d-models/tylosaurus-skull-5b8ef5d8a2ce4ee986b645bb672fcc20"
+        }
+      }
+    },
+    {
+      "id": "#230_smilosuchusgregoriiskull",
+      "type": "sketchfab",
+      "resource": "7f823bfa24554abcb12003b168332413",
+      "metadata": {
+        "taxon": "Smilosuchus gregorii",
+        "description": "skull",
+        "attribution": {
+          "institution": "Petrified Forest National Monument in Arizona",
+          "people": "dinosaurhunter",
+          "origin": "https://sketchfab.com/3d-models/smilosuchus-skull-7f823bfa24554abcb12003b168332413"
+        }
+      }
+    },
+    {
+      "id": "#231_dryosaurusaltusskull",
+      "type": "sketchfab",
+      "resource": "ee50a3a687d44c17b250d42e268ac3dc",
+      "metadata": {
+        "taxon": "Dryosaurus altus",
+        "description": "skull",
+        "attribution": {
+          "people": "Think3DPrint",
+          "origin": "https://sketchfab.com/3d-models/dryosaurus-altus-skull-ee50a3a687d44c17b250d42e268ac3dc"
+        }
+      }
+    },
+    {
+      "id": "#232_scutellosaurusreconstruction",
+      "type": "image",
+      "resource": "https://cdn.britannica.com/53/128853-050-5D165B81/Scuttellosaurus-ornithischian-dinosaurs.jpg",
+      "metadata": {
+        "taxon": "Scutellosaurus",
+        "description": "reconstruction",
+        "attribution": {
+          "institution": "Encyclopaedia Brittanica",
+          "origin": "https://cdn.britannica.com/53/128853-050-5D165B81/Scuttellosaurus-ornithischian-dinosaurs.jpg"
+        }
+      }
+    },
+    {
+      "id": "#233_scelidosauruswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/7/75/Scelidosaurus_harrisonii_%281%29.jpg",
+      "metadata": {
+        "taxon": "Scelidosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "St. George Dinosaur Discovery Site",
+          "people": "FunkMunk",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/7/75/Scelidosaurus_harrisonii_%281%29.jpg"
+        }
+      }
+    },
+    {
+      "id": "#234_stegosauruswhole",
+      "type": "sketchfab",
+      "resource": "dc6e1c748484449587b81426d41da6cb",
+      "metadata": {
+        "taxon": "Stegosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Denver Museum of Nature and Science",
+          "people": "Artec3D",
+          "origin": "https://sketchfab.com/3d-models/stegosaurus-skeleton-dc6e1c748484449587b81426d41da6cb"
+        }
+      }
+    },
+    {
+      "id": "#235_kunbarrasaurusieversinasalpassages",
+      "type": "sketchfab",
+      "resource": "22c44ed333054f8b9206a0db3b913054",
+      "metadata": {
+        "taxon": "Kunbarrasaurus ieversi ",
+        "description": "nasalpassages",
+        "attribution": {
+          "institution": "Ohio University",
+          "people": "WitmerLab",
+          "origin": "https://sketchfab.com/3d-models/australian-ankylosaur-dinosaur-skull-endocast-22c44ed333054f8b9206a0db3b913054"
+        }
+      }
+    },
+    {
+      "id": "#236_edmontoniawhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/1/19/Edmontonia_mount.jpg",
+      "metadata": {
+        "taxon": "Edmontonia",
+        "description": "whole",
+        "attribution": {
+          "people": "FunkMunk",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/1/19/Edmontonia_mount.jpg"
+        }
+      }
+    },
+    {
+      "id": "#237_borealopeltascutes",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Borealopelta_Royal_Tyrrell_2.jpg",
+      "metadata": {
+        "taxon": "Borealopelta",
+        "description": "scutes",
+        "attribution": {
+          "institution": "Royal Tyrrell Museum",
+          "people": "Etemenanki3",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Borealopelta_Royal_Tyrrell_2.jpg"
+        }
+      }
+    },
+    {
+      "id": "#238_triceratopshorridusskull",
+      "type": "sketchfab",
+      "resource": "178e061463754af3b521933e59c498bb",
+      "metadata": {
+        "taxon": "Triceratops horridus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Galerie de paleontologie et anatomie comparée",
+          "people": "ARS 3D HERITAGE",
+          "origin": "https://sketchfab.com/3d-models/triceratops-horridus-178e061463754af3b521933e59c498bb"
+        }
+      }
+    },
+    {
+      "id": "#239_stegocerasvalidumskull",
+      "type": "sketchfab",
+      "resource": "ab74413ebcf441398af2668eba0e200f",
+      "metadata": {
+        "taxon": "Stegoceras validum",
+        "description": "skull",
+        "attribution": {
+          "institution": "University of Alberta",
+          "people": "WitmerLab, Ohio University",
+          "origin": "https://sketchfab.com/3d-models/stegoceras-exploding-skull-pachyceph-dinosaur-ab74413ebcf441398af2668eba0e200f"
+        }
+      }
+    },
+    {
+      "id": "#240_protoceratopsandrewsiwhole",
+      "type": "sketchfab",
+      "resource": "71aeab42bfc74ab68b0fbbdcd40334b9",
+      "metadata": {
+        "taxon": "Protoceratops andrewsi",
+        "description": "whole",
+        "attribution": {
+          "institution": "CosmoCaixa Barcelona",
+          "people": "luiscoya",
+          "origin": "https://sketchfab.com/3d-models/protoceratops-cosmocaixa-71aeab42bfc74ab68b0fbbdcd40334b9"
+        }
+      }
+    },
+    {
+      "id": "#241_psittacosaurusbristles",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Psittacosaurus_SMF_R_4970.jpg",
+      "metadata": {
+        "taxon": "Psittacosaurus",
+        "description": "bristles",
+        "attribution": {
+          "institution": "Forschungsinstitut und Natur-Museum Senckenberg",
+          "people": "Jakob Vinther",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Psittacosaurus_SMF_R_4970.jpg"
+        }
+      }
+    },
+    {
+      "id": "#242_psittacosaurusskull",
+      "type": "sketchfab",
+      "resource": "17f2d5b13f364db9bf72b77d8372c099",
+      "metadata": {
+        "taxon": "Psittacosaurus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Natural History Museum, London (NHM)",
+          "origin": "https://sketchfab.com/3d-models/psittacosaurus-skull-17f2d5b13f364db9bf72b77d8372c099"
+        }
+      }
+    },
+    {
+      "id": "#243_styracosaurusskull",
+      "type": "image",
+      "resource": "https://en.wikipedia.org/wiki/Styracosaurus#/media/File:Hunting_dinosaurs_in_the_bad_lands_of_the_Red_Deer_River,_Alberta,_Canada;_a_sequel_to_The_life_of_a_fossil_hunter_(1917)_(20758118955).jpg",
+      "metadata": {
+        "taxon": "Styracosaurus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Canadian Museum of Nature",
+          "people": "Charles Sternberg",
+          "origin": "https://en.wikipedia.org/wiki/Styracosaurus#/media/File:Hunting_dinosaurs_in_the_bad_lands_of_the_Red_Deer_River,_Alberta,_Canada;_a_sequel_to_The_life_of_a_fossil_hunter_(1917)_(20758118955).jpg"
+        }
+      }
+    },
+    {
+      "id": "#244_triceratopswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LA-Triceratops_mount-2.jpg",
+      "metadata": {
+        "taxon": "Triceratops",
+        "description": "whole",
+        "attribution": {
+          "institution": "Natural History Museum of Los Angeles County (LANHM)",
+          "people": "Allie Caulfield",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LA-Triceratops_mount-2.jpg"
+        }
+      }
+    },
+    {
+      "id": "#245_corythosaurusskull",
+      "type": "sketchfab",
+      "resource": "c07daae53ab5496c99f2907c4fd8b6f4",
+      "metadata": {
+        "taxon": "Corythosaurus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Private collection",
+          "people": "dinosaurhunter",
+          "origin": "https://sketchfab.com/3d-models/corythosaurus-skull-full-color-c07daae53ab5496c99f2907c4fd8b6f4"
+        }
+      }
+    },
+    {
+      "id": "#246_camptosauruswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/3/39/Camptosaurus_dispar_skeleton.jpg",
+      "metadata": {
+        "taxon": "Camptosaurus",
+        "description": "whole",
+        "attribution": {
+          "people": "kumiko",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/3/39/Camptosaurus_dispar_skeleton.jpg"
+        }
+      }
+    },
+    {
+      "id": "#247_hypsilophodonwhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/2/29/HypsilophodonBrussels.jpg",
+      "metadata": {
+        "taxon": "Hypsilophodon",
+        "description": "whole",
+        "attribution": {
+          "institution": "Museum of Natural Sciences Brussels",
+          "people": "MWAK",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/2/29/HypsilophodonBrussels.jpg"
+        }
+      }
+    },
+    {
+      "id": "#248_mantellisauruswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mantellisaurus_left_side.jpeg",
+      "metadata": {
+        "taxon": "Mantellisaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Natural History Museum, London (NHM)",
+          "people": "bryan",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mantellisaurus_left_side.jpeg"
+        }
+      }
+    },
+    {
+      "id": "#249_iguanodonreconstruction",
+      "type": "sketchfab",
+      "resource": "6bc7692c83cb407d87a868be7e1e82fc",
+      "metadata": {
+        "taxon": "Iguanodon",
+        "description": "reconstruction",
+        "attribution": {
+          "institution": "Crystal Palace Park, London",
+          "people": "Gideon Mantell",
+          "origin": "https://sketchfab.com/3d-models/crystal-palace-iguanodon-6bc7692c83cb407d87a868be7e1e82fc"
+        }
+      }
+    },
+    {
+      "id": "#250_kritosauruswhole",
+      "type": "sketchfab",
+      "resource": "0b50bfba83504fa8a0f4d982023d5e41",
+      "metadata": {
+        "taxon": "Kritosaurus",
+        "description": "whole",
+        "attribution": {
+          "people": "Bernardo Delgado",
+          "origin": "https://sketchfab.com/3d-models/sabinosaurus-0b50bfba83504fa8a0f4d982023d5e41"
+        }
+      }
+    },
+    {
+      "id": "#251_parasaurolophusskull",
+      "type": "sketchfab",
+      "resource": "cc247d1788474ced80ce2b4d1fa804e7",
+      "metadata": {
+        "taxon": "Parasaurolophus",
+        "description": "skull",
+        "attribution": {
+          "institution": "New Mexico Museum of Natural History",
+          "people": "donjheimer",
+          "origin": "https://sketchfab.com/3d-models/parasaurolophus-skull-fossil-cc247d1788474ced80ce2b4d1fa804e7"
+        }
+      }
+    },
+    {
+      "id": "#252_dromaeosauruswhole",
+      "type": "sketchfab",
+      "resource": "5e4cfbe6c7c046f8bd4a65083e1c6195",
+      "metadata": {
+        "taxon": "Dromaeosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Muséum national d’histoire naturelle",
+          "people": "DRONES IMAGING",
+          "origin": "https://sketchfab.com/3d-models/dinosaur-skeleton-paris-5e4cfbe6c7c046f8bd4a65083e1c6195"
+        }
+      }
+    },
+    {
+      "id": "#253_erlikosaurusskull",
+      "type": "sketchfab",
+      "resource": "dd9df0256dc642a1a2a56775805a36bf",
+      "metadata": {
+        "taxon": "Erlikosaurus",
+        "description": "skull",
+        "attribution": {
+          "people": "Stephen Lautenschlager, Ramon Gonzalez Cabrera",
+          "origin": "https://sketchfab.com/3d-models/erlikosaurus-skull-and-jaw-dd9df0256dc642a1a2a56775805a36bf"
+        }
+      }
+    },
+    {
+      "id": "#254_gorgosaurusskull",
+      "type": "sketchfab",
+      "resource": "bcc4f64edc93403ea006897cbba6da22",
+      "metadata": {
+        "taxon": "Gorgosaurus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Royal Ontario Museum (ROM)",
+          "people": "WitmerLab, Ohio University",
+          "origin": "https://sketchfab.com/3d-models/skull-of-the-tyrannosaurid-gorgosaurus-rom-1247-bcc4f64edc93403ea006897cbba6da22"
+        }
+      }
+    },
+    {
+      "id": "#255_allosaurusskull",
+      "type": "sketchfab",
+      "resource": "6f2331bc87a64832a66d056ba7dea30f",
+      "metadata": {
+        "taxon": "Allosaurus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Natural History Museum of Utah (UMNH)",
+          "people": "Idaho Virtualization Laboratory",
+          "origin": "https://sketchfab.com/3d-models/allosaurus-cranium-6f2331bc87a64832a66d056ba7dea30f"
+        }
+      }
+    },
+    {
+      "id": "#256_spinosaurusvert",
+      "type": "sketchfab",
+      "resource": "1ad5f360ba2142f4b868d018f006f1c9",
+      "metadata": {
+        "taxon": "Spinosaurus",
+        "description": "vert",
+        "attribution": {
+          "institution": "Private collection",
+          "people": "Olof Moleman",
+          "origin": "https://sketchfab.com/3d-models/spinosaur-vertebra-1ad5f360ba2142f4b868d018f006f1c9"
+        }
+      }
+    },
+    {
+      "id": "#257_sauropodvert",
+      "type": "sketchfab",
+      "resource": "aa8b3aa6d131487f8446d65da4b00a92",
+      "metadata": {
+        "taxon": "Sauropod",
+        "description": "vert",
+        "attribution": {
+          "people": "jrdi",
+          "origin": "https://sketchfab.com/3d-models/x-osaurus-vertebra-aa8b3aa6d131487f8446d65da4b00a92"
+        }
+      }
+    },
+    {
+      "id": "#258_staurikosauruswhole",
+      "type": "sketchfab",
+      "resource": "5405610d958d45bdb4dcc712fa27e479",
+      "metadata": {
+        "taxon": "Staurikosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Museum of Comparative Zoology (MCZ)",
+          "people": "Lab Processamento de Imagen Digital",
+          "origin": "https://sketchfab.com/3d-models/staurikosaurus-pricei-skeletal-reconstruction-5405610d958d45bdb4dcc712fa27e479"
+        }
+      }
+    },
+    {
+      "id": "#259_herrerasaurusskull",
+      "type": "sketchfab",
+      "resource": "d9a58ada20124936b59b0507235ae6cb",
+      "metadata": {
+        "taxon": "Herrerasaurus",
+        "description": "skull",
+        "attribution": {
+          "people": "Fábio Jorge",
+          "origin": "https://sketchfab.com/3d-models/herrerassaurus-d9a58ada20124936b59b0507235ae6cb"
+        }
+      }
+    },
+    {
+      "id": "#260_seismosaurusandsaurophaganaxwhole",
+      "type": "sketchfab",
+      "resource": "58597fc1146240cbac3bc49b89483cc7",
+      "metadata": {
+        "taxon": "Seismosaurus and Saurophaganax",
+        "description": "whole",
+        "attribution": {
+          "institution": "New Mexico Museum of Natural History",
+          "people": "donjheimer",
+          "origin": "https://sketchfab.com/3d-models/saurophaganax-and-seismosaurus-58597fc1146240cbac3bc49b89483cc7"
+        }
+      }
+    },
+    {
+      "id": "#261_diplodocusskull",
+      "type": "sketchfab",
+      "resource": "49dfa58ca38447b583d6a7afcab539ce",
+      "metadata": {
+        "taxon": "Diplodocus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Carnegie Museum of Natural History",
+          "people": "WitmerLab, Ohio University",
+          "origin": "https://sketchfab.com/3d-models/diplodocus-sub-adult-sauropod-dinosaur-skull-49dfa58ca38447b583d6a7afcab539ce"
+        }
+      }
+    },
+    {
+      "id": "#262_plateosauruswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/9/93/Plateosaurus_Skelett_2.jpg",
+      "metadata": {
+        "taxon": "Plateosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Eberhard-Karls-University Tübingen",
+          "people": "FunkMunk",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/9/93/Plateosaurus_Skelett_2.jpg"
+        }
+      }
+    },
+    {
+      "id": "#263_diplodocuswhole",
+      "type": "sketchfab",
+      "resource": "7352ee459ce54aeaa79f782e1fd23932",
+      "metadata": {
+        "taxon": "Diplodocus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Natural History Museum, London (NHM)",
+          "people": "Liam McKinstry",
+          "origin": "https://sketchfab.com/3d-models/dippy-on-tour-glasgow-7352ee459ce54aeaa79f782e1fd23932"
+        }
+      }
+    },
+    {
+      "id": "#264_apatosauruslouisaewhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Louisae.jpg",
+      "metadata": {
+        "taxon": "Apatosaurus louisae",
+        "description": "whole",
+        "attribution": {
+          "institution": "Carnegie Museum of Natural History",
+          "people": "Tadek Kurpaski",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Louisae.jpg"
+        }
+      }
+    },
+    {
+      "id": "#265_camarosauruswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/67/MUJA-Sauropod.JPG",
+      "metadata": {
+        "taxon": "Camarosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "MUJA",
+          "people": "Mario Modesto",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/67/MUJA-Sauropod.JPG"
+        }
+      }
+    },
+    {
+      "id": "#266_brachiosauruswhole",
+      "type": "sketchfab",
+      "resource": "171fefac3f8e461f90b1c96c3770ca55",
+      "metadata": {
+        "taxon": "Brachiosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Kreanym",
+          "origin": "https://sketchfab.com/3d-models/brachiosaurus-171fefac3f8e461f90b1c96c3770ca55"
+        }
+      }
+    },
+    {
+      "id": "#267_sarmientosaurusskull",
+      "type": "sketchfab",
+      "resource": "18ad547eca8241c9885728439e7887c1",
+      "metadata": {
+        "taxon": "Sarmientosaurus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Museo Desiderio Torres",
+          "people": "WitmerLab, Ohio University",
+          "origin": "https://sketchfab.com/3d-models/sarmientosaurus-skull-argentinean-titanosaur-18ad547eca8241c9885728439e7887c1"
+        }
+      }
+    },
+    {
+      "id": "#268_deinonychusproximalhumerus",
+      "type": "sketchfab",
+      "resource": "bcd0e3cb257b42b186452f557fe3d9d5",
+      "metadata": {
+        "taxon": "Deinonychus",
+        "description": "proximal humerus",
+        "attribution": {
+          "institution": "Private collection",
+          "people": "Olof Moleman",
+          "origin": "https://sketchfab.com/3d-models/raptor-humerus-bcd0e3cb257b42b186452f557fe3d9d5"
+        }
+      }
+    },
+    {
+      "id": "#269_diplodocusvert",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Diplodocus_carnegii_cervical_vertebrae.png",
+      "metadata": {
+        "taxon": "Diplodocus",
+        "description": "vert",
+        "attribution": {
+          "institution": "Carnegie Museum of Natural History",
+          "people": "J.B. Hatcher",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Diplodocus_carnegii_cervical_vertebrae.png"
+        }
+      }
+    },
+    {
+      "id": "#270_eoraptorlunensiswhole",
+      "type": "image",
+      "resource": "https://en.wikipedia.org/wiki/File:Eoraptor_Deep_Time.jpg",
+      "metadata": {
+        "taxon": "Eoraptor lunensis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Smithsonian National Museum of Natural History (NMNH)",
+          "people": "Fanboyphilosopher",
+          "origin": "https://en.wikipedia.org/wiki/File:Eoraptor_Deep_Time.jpg"
+        }
+      }
+    },
+    {
+      "id": "#271_dilophosauruswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/1/12/DilophosaurusROM1.JPG",
+      "metadata": {
+        "taxon": "Dilophosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Royal Ontario Museum (ROM)",
+          "people": "Eduard Solà",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/1/12/DilophosaurusROM1.JPG"
+        }
+      }
+    },
+    {
+      "id": "#272_carnotauruswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Carnotaurus%2C_Chlupáč_Museum%2C_Prague-2.jpg",
+      "metadata": {
+        "taxon": "Carnotaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Chlupáč Museum",
+          "people": "Packa",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Carnotaurus%2C_Chlupáč_Museum%2C_Prague-2.jpg"
+        }
+      }
+    },
+    {
+      "id": "#273_coelophysisbauriwhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coelophysis_skeletons.jpg",
+      "metadata": {
+        "taxon": "Coelophysis bauri",
+        "description": "whole",
+        "attribution": {
+          "institution": "Denver Museum of Nature and Science",
+          "people": "Bradley Gordon",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coelophysis_skeletons.jpg"
+        }
+      }
+    },
+    {
+      "id": "#274_crylophosauruswhole",
+      "type": "sketchfab",
+      "resource": "90779e495eab42b5aaca269c7392a296",
+      "metadata": {
+        "taxon": "Crylophosaurus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Polygonal miniatures",
+          "origin": "https://sketchfab.com/3d-models/allosaurus-skeleton-dinosaur-90779e495eab42b5aaca269c7392a296"
+        }
+      }
+    },
+    {
+      "id": "#275_megalosauruspelviclimb",
+      "type": "image",
+      "resource": "https://commons.wikimedia.org/wiki/Category:Megalosaurus_fossils#/media/File:Megalosaurus_(28191949159).jpg",
+      "metadata": {
+        "taxon": "Megalosaurus",
+        "description": "pelvic limb",
+        "attribution": {
+          "institution": "Oxford University Museum of Natural History",
+          "people": "the paleobear",
+          "origin": "https://commons.wikimedia.org/wiki/Category:Megalosaurus_fossils#/media/File:Megalosaurus_(28191949159).jpg"
+        }
+      }
+    },
+    {
+      "id": "#276_carcharodontosaurtooth",
+      "type": "sketchfab",
+      "resource": "2cf48f3290ef4a0e964907525b7caf8a",
+      "metadata": {
+        "taxon": "Carcharodontosaur",
+        "description": "tooth",
+        "attribution": {
+          "institution": "Private collection",
+          "people": "Olof Moleman",
+          "origin": "https://sketchfab.com/3d-models/carcharodontosaur-tooth-2cf48f3290ef4a0e964907525b7caf8a"
+        }
+      }
+    },
+    {
+      "id": "#277_spinosauruswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/7/74/Spinosaurus_in_Japan_Expo.jpg",
+      "metadata": {
+        "taxon": "Spinosaurus",
+        "description": "whole",
+        "attribution": {
+          "people": "kumiko",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/7/74/Spinosaurus_in_Japan_Expo.jpg"
+        }
+      }
+    },
+    {
+      "id": "#278_sinosauropteryxwhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sinosauropteryxfossil.jpg",
+      "metadata": {
+        "taxon": "Sinosauropteryx",
+        "description": "whole",
+        "attribution": {
+          "institution": "Inner Mongolia Museum",
+          "people": "Sam Olai Ose",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sinosauropteryxfossil.jpg"
+        }
+      }
+    },
+    {
+      "id": "#279_gallimimuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/5/51/Gallimimus_bullatus.001_-_Natural_History_Museum_of_London.JPG",
+      "metadata": {
+        "taxon": "Gallimimus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Natural History Museum, London (NHM)",
+          "people": "Drow male",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/5/51/Gallimimus_bullatus.001_-_Natural_History_Museum_of_London.JPG"
+        }
+      }
+    },
+    {
+      "id": "#280_gorgosauruslibratuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Gorgosaurus_death_pose.jpg",
+      "metadata": {
+        "taxon": "Gorgosaurus libratus ",
+        "description": "whole",
+        "attribution": {
+          "institution": "Royal Tyrrell Museum",
+          "people": "Traumador the Tyrannosaur",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Gorgosaurus_death_pose.jpg"
+        }
+      }
+    },
+    {
+      "id": "#281_therizinosaurusarms",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Therizinosaurus_arms.jpg",
+      "metadata": {
+        "taxon": "Therizinosaurus",
+        "description": "arms",
+        "attribution": {
+          "people": "Yuya Tamai",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Therizinosaurus_arms.jpg"
+        }
+      }
+    },
+    {
+      "id": "#282_citipatiosmolskaewhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Citpatibcn1.JPG",
+      "metadata": {
+        "taxon": "Citipati osmolskae",
+        "description": "whole",
+        "attribution": {
+          "institution": "CosmoCaixa",
+          "people": "Eduard Solà ",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Citpatibcn1.JPG"
+        }
+      }
+    },
+    {
+      "id": "#283_ajancingeniawhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ajancingenia_Museum_of_Ancient_Life_4.jpg",
+      "metadata": {
+        "taxon": "Ajancingenia",
+        "description": "whole",
+        "attribution": {
+          "institution": "Museum of Ancient Life",
+          "people": "Etemenanki3",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ajancingenia_Museum_of_Ancient_Life_4.jpg"
+        }
+      }
+    },
+    {
+      "id": "#284_citipatiosmolskaenest",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Citipati_IGM_100_979.jpg",
+      "metadata": {
+        "taxon": "Citipati osmolskae",
+        "description": "nest",
+        "attribution": {
+          "institution": "American Museum of Natural History (AMNH)",
+          "people": "Dinoguy2",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Citipati_IGM_100_979.jpg"
+        }
+      }
+    },
+    {
+      "id": "#285_patagonykuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/5/55/Patagonykus.jpg",
+      "metadata": {
+        "taxon": "Patagonykus",
+        "description": "whole",
+        "attribution": {
+          "people": "Kabacchi",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/5/55/Patagonykus.jpg"
+        }
+      }
+    },
+    {
+      "id": "#286_deinonychusskull",
+      "type": "sketchfab",
+      "resource": "69977bfadc214496835a9a34d8f2e92c",
+      "metadata": {
+        "taxon": "Deinonychus",
+        "description": "skull",
+        "attribution": {
+          "people": "Manuel García",
+          "origin": "https://sketchfab.com/3d-models/deinonychus-69977bfadc214496835a9a34d8f2e92c"
+        }
+      }
+    },
+    {
+      "id": "#287_velociraptorwhole",
+      "type": "sketchfab",
+      "resource": "aa80c819afb04934834069618180cecb",
+      "metadata": {
+        "taxon": "Velociraptor",
+        "description": "whole",
+        "attribution": {
+          "people": "MithosKuu",
+          "origin": "https://sketchfab.com/3d-models/velociraptor-mongoliensis-skeleton-aa80c819afb04934834069618180cecb"
+        }
+      }
+    },
+    {
+      "id": "#288_utahraptorwhole",
+      "type": "sketchfab",
+      "resource": "3d82f62a6e924ee5bb25fd8f368d02bc",
+      "metadata": {
+        "taxon": "Utahraptor",
+        "description": "whole",
+        "attribution": {
+          "people": "MithosKuu",
+          "origin": "https://sketchfab.com/3d-models/utahraptor-skeleton-3d82f62a6e924ee5bb25fd8f368d02bc"
+        }
+      }
+    },
+    {
+      "id": "#289_sinovenatorwhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sinovenator-Tianjin_Natural_History_Museum.jpg",
+      "metadata": {
+        "taxon": "Sinovenator",
+        "description": "whole",
+        "attribution": {
+          "institution": "Tianjin Natural History Museum",
+          "people": "Jonathan Chen",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sinovenator-Tianjin_Natural_History_Museum.jpg"
+        }
+      }
+    },
+    {
+      "id": "#290_megalosaurusreconstruction",
+      "type": "sketchfab",
+      "resource": "4b5f1a320bd3442f96262ec703e8d790",
+      "metadata": {
+        "taxon": "Megalosaurus",
+        "description": "reconstruction",
+        "attribution": {
+          "institution": "Crystal Palace Park, London",
+          "people": "William Buckland",
+          "origin": "https://sketchfab.com/3d-models/crystal-palace-megalosaurus-4b5f1a320bd3442f96262ec703e8d790"
+        }
+      }
+    },
+    {
+      "id": "#291_archaeopteryxwhole",
+      "type": "sketchfab",
+      "resource": "788436a458f34aeeb4724866e2ec45b5",
+      "metadata": {
+        "taxon": "Archaeopteryx",
+        "description": "whole",
+        "attribution": {
+          "institution": "Natural History Museum, London (NHM)",
+          "people": "Paul Wulff",
+          "origin": "https://sketchfab.com/3d-models/archaeopteryx-natural-history-museum-london-788436a458f34aeeb4724866e2ec45b5"
+        }
+      }
+    },
+    {
+      "id": "#292_ichthyornisdisparwhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ichthyornis_Clean.png",
+      "metadata": {
+        "taxon": "Ichthyornis dispar ",
+        "description": "whole",
+        "attribution": {
+          "institution": "Rocky Mountain Dinosaur Resource Center",
+          "people": "MCDinosaurhunter",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ichthyornis_Clean.png"
+        }
+      }
+    },
+    {
+      "id": "#293_hesperorniswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/85/Hesperornis_regalis_%281%29.jpg",
+      "metadata": {
+        "taxon": "Hesperornis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Canadian Fossil Discovery Centre",
+          "people": "Loozrboy",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/85/Hesperornis_regalis_%281%29.jpg"
+        }
+      }
+    },
+    {
+      "id": "#294_confuciusorniswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/87/Confuciusornis_male.jpg",
+      "metadata": {
+        "taxon": "Confuciusornis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Naturhistorisches Museum Wien",
+          "people": "Tommy from Arad",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/87/Confuciusornis_male.jpg"
+        }
+      }
+    },
+    {
+      "id": "#295_sapeorniswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sapeornis_chaoyangensis.JPG",
+      "metadata": {
+        "taxon": "Sapeornis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Hong Kong Science Museum",
+          "people": "Laikayiu",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sapeornis_chaoyangensis.JPG"
+        }
+      }
+    },
+    {
+      "id": "#296_ichthyornishead",
+      "type": "image",
+      "resource": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0053-y/MediaObjects/41586_2018_53_Fig1_HTML.jpg",
+      "metadata": {
+        "taxon": "Ichthyornis ",
+        "description": "head",
+        "attribution": {
+          "people": "Daniel Field et al.",
+          "origin": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0053-y/MediaObjects/41586_2018_53_Fig1_HTML.jpg"
+        }
+      }
+    },
+    {
+      "id": "#297_jeholorniswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jeholornis-Paleozoological_Museum_of_China.jpg",
+      "metadata": {
+        "taxon": "Jeholornis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Paleozoological Museum of China",
+          "people": "Morosaurus millenii",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jeholornis-Paleozoological_Museum_of_China.jpg"
+        }
+      }
+    },
+    {
+      "id": "#298_diatrymawhole",
+      "type": "sketchfab",
+      "resource": "e07991d7b74e4ac4a71451d3f614b259",
+      "metadata": {
+        "taxon": "Diatryma",
+        "description": "whole",
+        "attribution": {
+          "institution": "Arizona Museum of Natural History",
+          "people": "Reverse Imagineering",
+          "origin": "https://sketchfab.com/3d-models/diatryma-fossil-skeleton-e07991d7b74e4ac4a71451d3f614b259"
+        }
+      }
+    },
+    {
+      "id": "#299_avespartial",
+      "type": "sketchfab",
+      "resource": "7da35baa5c8643f58568610523446894",
+      "metadata": {
+        "taxon": "Aves",
+        "description": "partial",
+        "attribution": {
+          "institution": " Paleontological Research Institution, Ithaca",
+          "people": "Emily Hauf",
+          "origin": "https://sketchfab.com/3d-models/vertebrate-bird-bone-pri-7da35baa5c8643f58568610523446894"
+        }
+      }
+    },
+    {
+      "id": "#300_whekauskull",
+      "type": "sketchfab",
+      "resource": "c0556827b99a4587bd1b638f90b3d391",
+      "metadata": {
+        "taxon": "Whekau",
+        "description": "skull",
+        "attribution": {
+          "institution": "Canterbury Museum",
+          "people": "Daniel Thomas",
+          "origin": "https://sketchfab.com/3d-models/whekau-sceloglaux-albifacies-skull-mandible-c0556827b99a4587bd1b638f90b3d391"
+        }
+      }
+    },
+    {
+      "id": "#301_aquilaaudaxscapulocoracoid",
+      "type": "sketchfab",
+      "resource": "8c73bdd52e5c4c8e909025915e4f1c1a",
+      "metadata": {
+        "taxon": "Aquila audax",
+        "description": "scapulocoracoid",
+        "attribution": {
+          "institution": "Canterbury Museum",
+          "people": "Daniel Thomas",
+          "origin": "https://sketchfab.com/3d-models/wedge-tailed-eagle-a-audax-coracoid-scapula-8c73bdd52e5c4c8e909025915e4f1c1a"
+        }
+      }
+    },
+    {
+      "id": "#302_apteryxaustralisskull",
+      "type": "sketchfab",
+      "resource": "6f7e4d9028c640dbba4a4a448f357f2e",
+      "metadata": {
+        "taxon": "Apteryx australis",
+        "description": "skull",
+        "attribution": {
+          "institution": "Carnegie Museum of Natural History",
+          "people": "Karina Riddell",
+          "origin": "https://sketchfab.com/3d-models/southern-brown-kiwi-skull-6f7e4d9028c640dbba4a4a448f357f2e"
+        }
+      }
+    },
+    {
+      "id": "#303_tinamusmajorwhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Great_Tinamou.jpg",
+      "metadata": {
+        "taxon": "Tinamus major",
+        "description": "whole",
+        "attribution": {
+          "people": "Tony Castro",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Great_Tinamou.jpg"
+        }
+      }
+    },
+    {
+      "id": "#304_casuariuscasuariuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/5/54/Southern_Cassowary_7071.jpg",
+      "metadata": {
+        "taxon": "Casuarius casuarius",
+        "description": "whole",
+        "attribution": {
+          "people": "Summerdrought",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/5/54/Southern_Cassowary_7071.jpg"
+        }
+      }
+    },
+    {
+      "id": "#74_fromlautenschlageretal2016biol.reviews:thrinaxodon,probelesodon,probainognathus,diademodon,hadrocodium,morganucodon,monodelphis",
       "metadata": {
         "taxon": "from lautenschlager et al 2016 Biol. Reviews: thrinaxodon, probelesodon, probainognathus, diademodon, hadrocodium,morganucodon, monodelphis"
       }
