@@ -27,13 +27,13 @@ const InfoBox = styled(Box)`
 const InfoPane = () => {
   const {lab, setLab} = useContext(labContext)
   const {node, setNode} = useContext(nodeContext)
-  // useEffect (() => {
-  //   setNode('6-0-Archosauria')
-  // },[lab])
+  useEffect (() => {
+    setNode('6-0-Archosauria')
+  },[lab])
 
   return(
     <Pane sx={{width:['100%','35%']}}>
-      <DropDown as='form'>
+      {/*<DropDown as='form'>
         <Label htmlFor='labChoice'>LAB</Label>
         <Select
           id='labChoice'
@@ -45,7 +45,7 @@ const InfoPane = () => {
             </option>
           ))}
         </Select>
-      </DropDown>
+      </DropDown>*/}
       <DropDown as='form'>
         <Label htmlFor='nodeChoice'>NODE</Label>
         <Select

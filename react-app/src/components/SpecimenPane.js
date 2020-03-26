@@ -8,6 +8,7 @@ import MetaData from './MetaData';
 import watermark from '../assets/watermark.png'
 import db from '../data/lookup.json'
 
+
 const Pane = styled(Box)`
   height: 100%;
 `
@@ -33,7 +34,7 @@ const WatermarkDiv = styled.div`
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: luminosity;
-  opacity: 0.06;
+  opacity: 0.05;
   z-index: 5;
   position: absolute;
   width: 100%;
@@ -53,9 +54,10 @@ const Watermark = (props) => {
     }
 }
 
+
 const SpecimenPane = () => {
   const {specimen, setSpecimen} = useContext(idContext)
-  const data = db[specimen]
+  const data = db.specimens.find(object => object.id==specimen)
   if (data.type==="sketchfab"){
     return(
       <PaneWrapper>
@@ -77,7 +79,7 @@ const SpecimenPane = () => {
             <MetaData data={data.metadata}/>
           </Box>
       </PaneWrapper>
-    )} else if (data.type==="image"){
+    )} else {
     return(
       <PaneWrapper>
           <Box sx={{display:'flex',justifyContent:'center'}}>

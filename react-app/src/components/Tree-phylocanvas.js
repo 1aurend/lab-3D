@@ -1,10 +1,15 @@
-import React, {useEffect, useState} from 'react';
+import React, {useContext, useEffect, useState} from 'react';
 import Modal from 'styled-react-modal'
 import { ModalProvider } from 'styled-react-modal'
 import {ReactComponent as Icon} from '../assets/tree-icon.svg'
-import tree5svg from '../data/trees/tree5.svg'
 import tree5nwk from '../data/trees/tree5.json'
+import tree6nwk from '../data/trees/tree6.json'
+
 import PhyloCanvas from './PhyloCanvas';
+import { labContext } from '../data/DataContexts';
+import labList from '../data/labList';
+
+
 
 
 
@@ -21,11 +26,15 @@ const TreeModal = Modal.styled`
 // background-color: ${props => props.theme.colors.white};
 
 const Tree = (props) => {
+  const {lab, setLab} = useContext(labContext);
   const [show, setShow] = useState(false);
+  const [tree, setTree] = useState(labList[lab]["tree"]);
   function toggleShow(){
     setShow(!show)
   };
-  // console.log(tree5nwk.newick);
+  useEffect (() => {
+    setTree(labList[lab]["tree"])
+  },[lab])
   return (
       <ModalProvider>
         <Icon width={props.iconSize} onClick={toggleShow} style={{cursor:'pointer'}} />
@@ -34,7 +43,7 @@ const Tree = (props) => {
             onBackgroundClick={toggleShow}
             onEscapeKeydown={toggleShow}>
             <PhyloCanvas  className="tree-canvas"
-                          data={tree5nwk.newick}
+                          data={tree6nwk.newick}
                           treeType="rectangular"
                           style={{width:"100%", height:"100%"}}
                           showHistory={true}

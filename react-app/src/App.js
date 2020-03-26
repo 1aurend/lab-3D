@@ -4,7 +4,7 @@ import {Box, Flex, System} from 'rebass/styled-components'
 import styled, {ThemeProvider} from 'styled-components'
 import SpecimenPane from './components/SpecimenPane'
 import InfoPane from './components/InfoPane'
-import Tree from './components/Tree'
+import Tree from './components/Tree-svg'
 import labList from './data/labList'
 import {idContext, nodeContext, labContext} from './data/DataContexts'
 import './App.css';
@@ -29,8 +29,8 @@ const TreeBox = styled(Box)`
 
 function App() {
   const [lab, setLab] = useState("lab 6");
-  const [node, setNode] = useState('6-0-Archosauria');
-  const [specimen, setSpecimen] = useState("6_dinosauria_egg");
+  const [node, setNode] = useState(Object.keys(labList[lab]["nodes"])[0]);
+  const [specimen, setSpecimen] = useState("6_dinosauriaegg");
   const idValue = {specimen, setSpecimen}
   const nodeValue = {node, setNode}
   const labValue = {lab, setLab}
