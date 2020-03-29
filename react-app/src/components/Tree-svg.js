@@ -2,8 +2,8 @@ import React, {useContext, useEffect, useState} from 'react';
 import Modal from 'styled-react-modal'
 import { ModalProvider } from 'styled-react-modal'
 import {ReactComponent as Icon} from '../assets/tree-icon.svg'
-import tree6nwk from '../data/trees/tree6.json'
 import tree6svg from '../data/trees/tree6.svg';
+import tree5svg from '../data/trees/tree6.svg';
 import PhyloCanvas from './PhyloCanvas';
 import { labContext } from '../data/DataContexts';
 import labList from '../data/labList';
@@ -42,7 +42,7 @@ const Tree = (props) => {
             onBackgroundClick={toggleShow}
             onEscapeKeydown={toggleShow}>
 
-                <img src={tree6svg} style={{width:'100%', height:'100%'}} alt="Tree 6" />
+                <img src={tree5svg} style={{width:'100%', height:'100%'}} alt="Tree 6" />
 
           </TreeModal>
     </ModalProvider>
