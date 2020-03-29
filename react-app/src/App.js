@@ -28,9 +28,16 @@ const TreeBox = styled(Box)`
 `
 
 function App() {
-  const [lab, setLab] = useState("lab 6");
+  const [lab, setLab] = useState("lab 5");
   const [node, setNode] = useState(Object.keys(labList[lab]["nodes"])[0]);
-  const [specimen, setSpecimen] = useState("#6_dinosauriaegg");
+  const [specimen, setSpecimen] = useState(labList[lab]["default"]);
+  useEffect (() => {
+    setNode(Object.keys(labList[lab]["nodes"])[0])
+  },[lab])
+  useEffect (() => {
+    setSpecimen(labList[lab]["default"])
+  },[lab])
+
   const idValue = {specimen, setSpecimen}
   const nodeValue = {node, setNode}
   const labValue = {lab, setLab}

@@ -808,13 +808,14 @@
     {
       "id": "#63_riojasuchusankle",
       "type": "sketchfab",
-      "resource": "#N/A",
+      "resource": "fafbeb5b01a94a9aa04c27cbed65cc40",
       "metadata": {
         "taxon": "Riojasuchus",
         "description": "ankle",
         "attribution": {
           "institution": "Museum of Comparative Zoology (MCZ)",
-          "people": "PF-L"
+          "people": "PF-L",
+          "origin": "https://sketchfab.com/3d-models/63-riojasuchus-ankle-cr-fafbeb5b01a94a9aa04c27cbed65cc40"
         }
       }
     },
@@ -1608,7 +1609,7 @@
       "metadata": {
         "taxon": "Mammuthus primigenius",
         "attribution": {
-          "institution": "Smithsonian",
+          "institution": "Smithsonian National Museum of Natural History (NMNH)",
           "origin": "https://sketchfab.com/3d-models/mammuthus-primigenius-blumbach-229976b3db4646b39c44e57a7e3d8744"
         }
       }
@@ -1633,7 +1634,7 @@
         "taxon": "Iguanodon",
         "description": "teeth",
         "attribution": {
-          "institution": "Natural History Museum, London (NHM)\n\n",
+          "institution": "Natural History Museum, London (NHMUK)",
           "origin": "https://sketchfab.com/3d-models/iguanodon-jawbone-f016ad38ebb647988dafd6bbdc1510d0"
         }
       }
@@ -1658,7 +1659,7 @@
         "taxon": "Diplodocus",
         "description": "skull",
         "attribution": {
-          "institution": "Natural History Museum, London (NHM)\n\n",
+          "institution": "Natural History Museum, London (NHMUK)",
           "origin": "https://sketchfab.com/3d-models/dippy-skull-f0372c208d174e83ab4b56512c6b2fd6"
         }
       }
@@ -1671,7 +1672,7 @@
         "taxon": "Psittacosaurus",
         "description": "skull",
         "attribution": {
-          "institution": "Natural History Museum, London (NHM)\n\n",
+          "institution": "Natural History Museum, London (NHMUK)",
           "origin": "https://sketchfab.com/3d-models/psittacosaurus-skull-17f2d5b13f364db9bf72b77d8372c099"
         }
       }
@@ -1745,7 +1746,7 @@
       "metadata": {
         "taxon": "eremotherium sloth",
         "attribution": {
-          "institution": "Smithsonian",
+          "institution": "Smithsonian National Museum of Natural History (NMNH)",
           "origin": "https://sketchfab.com/3d-models/eremotherium-laurillardi-216182910e0345d2a021d56787a63b96"
         }
       }
@@ -1775,13 +1776,15 @@
       }
     },
     {
-      "id": "#141_fossilamphisbaenidskull",
+      "id": "#141_macrorhineuraskinneriskull",
       "type": "sketchfab",
       "resource": "970cd9c6e43c4094a71657e4080fb9d1",
       "metadata": {
-        "taxon": "fossil amphisbaenid skull",
+        "taxon": "Macrorhineura skinneri",
+        "description": "skull",
         "attribution": {
           "institution": "LANHM",
+          "people": "Carmen Obied and Steven Lopez",
           "origin": "https://sketchfab.com/3d-models/fossil-holotype-worm-lizard-970cd9c6e43c4094a71657e4080fb9d1"
         }
       }
@@ -1817,7 +1820,8 @@
       "metadata": {
         "taxon": "equus lambei mandible",
         "attribution": {
-          "institution": "Virtual Curation Lab | Smithsonian",
+          "institution": "Smithsonian National Museum of Natural History (NMNH)",
+          "people": "Virtual Curation Lab",
           "origin": "https://sketchfab.com/3d-models/usnm-v-11160-equus-lambei-mandible-vcu-3d-2987-b91e20d55455462792437e5ee0967c60"
         }
       }
@@ -1975,7 +1979,8 @@
       "metadata": {
         "taxon": "vampire bat whole",
         "attribution": {
-          "institution": "FMNH-Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/vampire-bat-skeleton-3b04f0de8f1f4405ad9a2b8947887399"
         }
       }
@@ -2134,11 +2139,12 @@
       }
     },
     {
-      "id": "#171_geckoskull",
+      "id": "#171_hemidactylusfrenatusskull",
       "type": "sketchfab",
       "resource": "dfa62f07b9d24e68bb877de04beb33b9",
       "metadata": {
-        "taxon": "gecko skull",
+        "taxon": "Hemidactylus frenatus",
+        "description": "skull",
         "attribution": {
           "institution": "Museum of Zoology Cambridge",
           "origin": "https://sketchfab.com/3d-models/r-18325-hemidactylus-frenatus-skull-dfa62f07b9d24e68bb877de04beb33b9"
@@ -2206,11 +2212,12 @@
       }
     },
     {
-      "id": "#177_pythonskull",
+      "id": "#177_pythonamethystinusskull",
       "type": "sketchfab",
       "resource": "a97c2bdd8b2c4460813bbdfbc90801f1",
       "metadata": {
-        "taxon": "python skull",
+        "taxon": "Python amethystinus",
+        "description": "skull",
         "attribution": {
           "institution": "Museum of Zoology Cambridge",
           "origin": "https://sketchfab.com/3d-models/r3-23-2-python-amethystinus-a97c2bdd8b2c4460813bbdfbc90801f1"
@@ -2319,7 +2326,8 @@
       "metadata": {
         "taxon": "weasel",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/mustela-frenata-ypm-014733-57fd735ecb444ba09ab4f3cf0b5027b9"
         }
       }
@@ -2385,11 +2393,12 @@
       }
     },
     {
-      "id": "#192_unossifiedepiphyses(chicken)",
+      "id": "#192_gallusunossifiedepiphyses",
       "type": "sketchfab",
       "resource": "96eefcd89ac14a1d96867f91e3e772d1",
       "metadata": {
-        "taxon": "unossified epiphyses (chicken)",
+        "taxon": "Gallus",
+        "description": "unossified epiphyses",
         "attribution": {
           "institution": "Virtual Curation Lab | VAMNH",
           "origin": "https://sketchfab.com/3d-models/chicken-humerus-vcu-3d-2777-96eefcd89ac14a1d96867f91e3e772d1"
@@ -2485,11 +2494,12 @@
       }
     },
     {
-      "id": "#200_chameleonskull",
+      "id": "#200_chameleondilepisskull",
       "type": "sketchfab",
       "resource": "6140830f48184bf0afae00fa1cb02aa2",
       "metadata": {
-        "taxon": "chameleon skull",
+        "taxon": "Chameleon dilepis",
+        "description": "skull",
         "attribution": {
           "institution": "Museum of Zoology Cambridge",
           "origin": "https://sketchfab.com/3d-models/r-19830-chameleon-dilepis-skull-6140830f48184bf0afae00fa1cb02aa2"
@@ -2501,9 +2511,11 @@
       "type": "sketchfab",
       "resource": "d4c51970dac94f39bceb47916b73c717",
       "metadata": {
-        "taxon": "sphenodon whole",
+        "taxon": "Sphenodon",
+        "description": "whole",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/sphenodon-punctatus-uf14110-d4c51970dac94f39bceb47916b73c717"
         }
       }
@@ -2513,9 +2525,11 @@
       "type": "sketchfab",
       "resource": "10e8b5690b6e47c98f22e16103780b0c",
       "metadata": {
-        "taxon": "sphenodon skull",
+        "taxon": "Sphenodon",
+        "description": "skull",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/sphenodon-punctatus-10e8b5690b6e47c98f22e16103780b0c"
         }
       }
@@ -2535,11 +2549,12 @@
       }
     },
     {
-      "id": "#204_varanusskull",
+      "id": "#204_varanussalvatorskull",
       "type": "sketchfab",
       "resource": "df0c37d6d379481f978048600e7bacd6",
       "metadata": {
-        "taxon": "varanus skull",
+        "taxon": "Varanus salvator",
+        "description": "skull",
         "attribution": {
           "institution": "Museum of Zoology Cambridge",
           "origin": "https://sketchfab.com/3d-models/r-19190-varanus-salvator-skull-df0c37d6d379481f978048600e7bacd6"
@@ -2547,11 +2562,12 @@
       }
     },
     {
-      "id": "#205_lacertaskull",
+      "id": "#205_lacertamuralisskull",
       "type": "sketchfab",
       "resource": "cdb2b3ec901e4f5bab239cdcc1e1e723",
       "metadata": {
-        "taxon": "lacerta skull",
+        "taxon": "Lacerta muralis",
+        "description": "skull",
         "attribution": {
           "institution": "Museum of Zoology Cambridge",
           "origin": "https://sketchfab.com/3d-models/r-10-107-lacerta-muralis-skull-cdb2b3ec901e4f5bab239cdcc1e1e723"
@@ -2559,11 +2575,12 @@
       }
     },
     {
-      "id": "#206_amphisbaenaskull",
+      "id": "#206_amphisbaenafuliginosaskull",
       "type": "sketchfab",
       "resource": "426b359b879349c6bbd292c90fd1ea37",
       "metadata": {
-        "taxon": "amphisbaena skull",
+        "taxon": "Amphisbaena fuliginosa",
+        "description": "skull",
         "attribution": {
           "institution": "Museum of Zoology Cambridge",
           "origin": "https://sketchfab.com/3d-models/r-19260-amphisbaena-fuliginosa-skull-426b359b879349c6bbd292c90fd1ea37"
@@ -2571,11 +2588,12 @@
       }
     },
     {
-      "id": "#207_agamaskull",
+      "id": "#207_agamastellioskull",
       "type": "sketchfab",
       "resource": "4c1e851f76044b3a8d681461c1dc6ae2",
       "metadata": {
-        "taxon": "agama skull",
+        "taxon": "Agama stellio",
+        "description": "skull",
         "attribution": {
           "institution": "Museum of Zoology Cambridge",
           "origin": "https://sketchfab.com/3d-models/r-18910-agama-stellio-skull-4c1e851f76044b3a8d681461c1dc6ae2"
@@ -2583,35 +2601,40 @@
       }
     },
     {
-      "id": "#208_geckowholeregeneratedtail",
+      "id": "#208_gekkogekkowhole",
       "type": "sketchfab",
       "resource": "b5d1c3597c904b4aac43356118aa5a7a",
       "metadata": {
-        "taxon": "gecko whole regenerated tail",
+        "taxon": "Gekko gekko",
+        "description": "whole",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/gekko-gecko-uf14993-b5d1c3597c904b4aac43356118aa5a7a"
         }
       }
     },
     {
-      "id": "#209_gilamonsterosteoderms",
+      "id": "#209_helodermahorridumwhole",
       "type": "sketchfab",
       "resource": "df84ec150b0a401890e968cd7642daf2",
       "metadata": {
-        "taxon": "gila monster osteoderms",
+        "taxon": "Heloderma horridum",
+        "description": "whole",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/heloderma-horridum-uf-h-153328-df84ec150b0a401890e968cd7642daf2"
         }
       }
     },
     {
-      "id": "#210_scolecophidianskullwithmaxillaryrake",
+      "id": "#210_typhlopslumbricalismaxillaryrake",
       "type": "sketchfab",
       "resource": "1a86ce223915489f85cca55a8b80e694",
       "metadata": {
-        "taxon": "scolecophidian skull with maxillary rake",
+        "taxon": "Typhlops lumbricalis",
+        "description": "maxillary rake",
         "attribution": {
           "institution": "Museum of Zoology Cambridge",
           "origin": "https://sketchfab.com/3d-models/r1-11-1-typhlops-lumbricalis-1a86ce223915489f85cca55a8b80e694"
@@ -2619,47 +2642,54 @@
       }
     },
     {
-      "id": "#211_ratttlesnakeskullshowingreplacementfangs",
+      "id": "#211_crotalusadamanteusskull",
       "type": "sketchfab",
       "resource": "e358959343cb48ce927d91110ca8a511",
       "metadata": {
-        "taxon": "ratttlesnake skull showing replacement fangs",
+        "taxon": "Crotalus adamanteus",
+        "description": "skull",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/uf-herp-103268-crotalus-adamanteus-e358959343cb48ce927d91110ca8a511"
         }
       }
     },
     {
-      "id": "#212_hognosesnakeeatingfrog,showingmandibleseparation",
+      "id": "#212_heterodonplatirhinoseatingfrog",
       "type": "sketchfab",
       "resource": "22234e4624994598a342649782ea3d32",
       "metadata": {
-        "taxon": "hognose snake eating frog, showing mandible separation",
+        "taxon": "Heterodon platirhinos",
+        "description": "eating frog",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/eastern-hognose-snake-and-prey-skeleton-22234e4624994598a342649782ea3d32"
         }
       }
     },
     {
-      "id": "#213_gharialskull",
+      "id": "#213_gavialisgangeticusskull",
       "type": "sketchfab",
       "resource": "787308d75e774fd7a91867d885b7d236",
       "metadata": {
-        "taxon": "gharial skull",
+        "taxon": "Gavialis gangeticus",
+        "description": "skull",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/gavialis-gangeticus-uf-118998-skull-787308d75e774fd7a91867d885b7d236"
         }
       }
     },
     {
-      "id": "#214_hatchlingcrocshowingsimplifedwristandshoulder",
+      "id": "#214_palaeosuchuspalpebrosushatchling",
       "type": "sketchfab",
       "resource": "13321034846c475e9484f576cdde9e61",
       "metadata": {
-        "taxon": "hatchling croc showing simplifed wrist and shoulder",
+        "taxon": "Palaeosuchus palpebrosus",
+        "description": "hatchling",
         "attribution": {
           "institution": "John Hutchinson",
           "origin": "https://sketchfab.com/3d-models/palaeosuchus-palpebrosus-hatchling-crocodylian-13321034846c475e9484f576cdde9e61"
@@ -2667,13 +2697,15 @@
       }
     },
     {
-      "id": "#215_scolecophidianskullwithmandibularrake",
+      "id": "#215_leptotyphlopsscutifronsmandibularrake",
       "type": "sketchfab",
       "resource": "99e3cb9e9e4741f1af88a860ae941dcb",
       "metadata": {
-        "taxon": "scolecophidian skull with mandibular rake",
+        "taxon": "Leptotyphlops scutifrons",
+        "description": "mandibular rake",
         "attribution": {
-          "institution": "FMNH | Blackburn",
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
           "origin": "https://sketchfab.com/3d-models/leptotyphlops-scutifrons-mcz-r-36512-skull-99e3cb9e9e4741f1af88a860ae941dcb"
         }
       }
@@ -3041,7 +3073,7 @@
         "taxon": "Psittacosaurus",
         "description": "skull",
         "attribution": {
-          "institution": "Natural History Museum, London (NHM)",
+          "institution": "Natural History Museum, London (NHMUK)",
           "origin": "https://sketchfab.com/3d-models/psittacosaurus-skull-17f2d5b13f364db9bf72b77d8372c099"
         }
       }
@@ -3123,7 +3155,7 @@
         "taxon": "Mantellisaurus",
         "description": "whole",
         "attribution": {
-          "institution": "Natural History Museum, London (NHM)",
+          "institution": "Natural History Museum, London (NHMUK)",
           "people": "bryan",
           "origin": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mantellisaurus_left_side.jpeg"
         }
@@ -3329,7 +3361,7 @@
         "taxon": "Diplodocus",
         "description": "whole",
         "attribution": {
-          "institution": "Natural History Museum, London (NHM)",
+          "institution": "Natural History Museum, London (NHMUK)",
           "people": "Liam McKinstry",
           "origin": "https://sketchfab.com/3d-models/dippy-on-tour-glasgow-7352ee459ce54aeaa79f782e1fd23932"
         }
@@ -3552,7 +3584,7 @@
         "taxon": "Gallimimus",
         "description": "whole",
         "attribution": {
-          "institution": "Natural History Museum, London (NHM)",
+          "institution": "Natural History Museum, London (NHMUK)",
           "people": "Drow male",
           "origin": "https://upload.wikimedia.org/wikipedia/commons/5/51/Gallimimus_bullatus.001_-_Natural_History_Museum_of_London.JPG"
         }
@@ -3715,7 +3747,7 @@
         "taxon": "Archaeopteryx",
         "description": "whole",
         "attribution": {
-          "institution": "Natural History Museum, London (NHM)",
+          "institution": "Natural History Museum, London (NHMUK)",
           "people": "Paul Wulff",
           "origin": "https://sketchfab.com/3d-models/archaeopteryx-natural-history-museum-london-788436a458f34aeeb4724866e2ec45b5"
         }
@@ -3901,10 +3933,851 @@
       }
     },
     {
-      "id": "#74_fromlautenschlageretal2016biol.reviews:thrinaxodon,probelesodon,probainognathus,diademodon,hadrocodium,morganucodon,monodelphis",
+      "id": "#305_seymouriabaylorensiswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Seymouria1.jpg",
       "metadata": {
-        "taxon": "from lautenschlager et al 2016 Biol. Reviews: thrinaxodon, probelesodon, probainognathus, diademodon, hadrocodium,morganucodon, monodelphis"
+        "taxon": "Seymouria baylorensis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Smithsonian National Museum of Natural History (NMNH)",
+          "people": "Ryan Somma",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Seymouria1.jpg"
+        }
       }
+    },
+    {
+      "id": "#306_seymouriaslab",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/68/Seymouria_Fossil.jpg",
+      "metadata": {
+        "taxon": "Seymouria",
+        "description": "slab",
+        "attribution": {
+          "people": "Sanjay Acharya",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/68/Seymouria_Fossil.jpg"
+        }
+      }
+    },
+    {
+      "id": "#307_diadectesphaseolinuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/82/Diadectes_phaseolinus.JPG",
+      "metadata": {
+        "taxon": " Diadectes phaseolinus",
+        "description": "whole",
+        "attribution": {
+          "institution": "American Museum of Natural History (AMNH)",
+          "people": "Ghedoghedo",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/82/Diadectes_phaseolinus.JPG"
+        }
+      }
+    },
+    {
+      "id": "#308_limnosceliswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Limnoscelis%28Cast%29-RedpathMuseumMontreal-June6-08.png",
+      "metadata": {
+        "taxon": "Limnoscelis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Redpath Museum",
+          "people": "Captmondo",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Limnoscelis%28Cast%29-RedpathMuseumMontreal-June6-08.png"
+        }
+      }
+    },
+    {
+      "id": "#309_crocodylusegg",
+      "type": "sketchfab",
+      "resource": "b7a7a05d800b446c9a5ed3eef5036a68",
+      "metadata": {
+        "taxon": "Crocodylus",
+        "description": "egg",
+        "attribution": {
+          "institution": "Amgueddfa Cymru - National Museum Wales",
+          "origin": "https://sketchfab.com/3d-models/fluid-preserved-crocodile-crocodylus-sp-egg-b7a7a05d800b446c9a5ed3eef5036a68"
+        }
+      }
+    },
+    {
+      "id": "#310_alligatormississippiensiscranium",
+      "type": "sketchfab",
+      "resource": "bd974aa4336c4f33bf14b2e3499970f4",
+      "metadata": {
+        "taxon": "Alligator mississippiensis",
+        "description": "cranium",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/alligator-mississippiensis-uf-herp-35129-albert-bd974aa4336c4f33bf14b2e3499970f4"
+        }
+      }
+    },
+    {
+      "id": "#311_casineriakiddislab",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/9/93/Casineria_kiddi.jpg",
+      "metadata": {
+        "taxon": "Casineria kiddi",
+        "description": "slab",
+        "attribution": {
+          "people": "Xenarachne",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/9/93/Casineria_kiddi.jpg"
+        }
+      }
+    },
+    {
+      "id": "#312_inostranceviaalexandriskull",
+      "type": "sketchfab",
+      "resource": "efbefd8825db4739aea2d72b590332f8",
+      "metadata": {
+        "taxon": "Inostrancevia alexandri",
+        "description": "skull",
+        "attribution": {
+          "people": "Stephan Lautenschlager et al.",
+          "origin": "https://sketchfab.com/3d-models/inostrancevia-alexandri-efbefd8825db4739aea2d72b590332f8"
+        }
+      }
+    },
+    {
+      "id": "#313_probelesodonsanjuanensisskull",
+      "type": "sketchfab",
+      "resource": "a76efc9b8b1e4beb8f4a967d8f6e2d93",
+      "metadata": {
+        "taxon": "Probelesodon sanjuanensis",
+        "description": "skull",
+        "attribution": {
+          "institution": "Museo de Ciencias Naturales, Universidad Nacional de San Juan (PVSJ)",
+          "people": "Stephan Lautenschlager et al.",
+          "origin": "https://sketchfab.com/3d-models/probelesodon-sanjuanensis-a76efc9b8b1e4beb8f4a967d8f6e2d93"
+        }
+      }
+    },
+    {
+      "id": "#314_morganucodonoehleriskull",
+      "type": "sketchfab",
+      "resource": "e0e360be45204c8db27acae3a7740ff6",
+      "metadata": {
+        "taxon": "Morganucodon oehleri",
+        "description": "skull",
+        "attribution": {
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Stephan Lautenschlager et al.",
+          "origin": "https://sketchfab.com/3d-models/morganucodon-oehleri-e0e360be45204c8db27acae3a7740ff6"
+        }
+      }
+    },
+    {
+      "id": "#315_hadrocodiumwuiskull",
+      "type": "sketchfab",
+      "resource": "e7e6aa382c87446d8ad5c320e14dc559",
+      "metadata": {
+        "taxon": "Hadrocodium wui",
+        "description": "skull",
+        "attribution": {
+          "institution": "Institute for Vertebrate Palaeontology and Palaeoanthropology (IVPP)",
+          "people": "Stephan Lautenschlager et al.",
+          "origin": "https://sketchfab.com/3d-models/hadrocodium-wui-e7e6aa382c87446d8ad5c320e14dc559"
+        }
+      }
+    },
+    {
+      "id": "#316_thrinaxodonliorhinusskull",
+      "type": "sketchfab",
+      "resource": "d0f8a39505614c6dbab6d4b6959f86eb",
+      "metadata": {
+        "taxon": "Thrinaxodon liorhinus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Natural History Museum, London (NHMUK)",
+          "people": "Stephan Lautenschlager et al.",
+          "origin": "https://sketchfab.com/3d-models/thrinaxodon-liorhinus-d0f8a39505614c6dbab6d4b6959f86eb"
+        }
+      }
+    },
+    {
+      "id": "#317_diademodontetragonusskull",
+      "type": "sketchfab",
+      "resource": "636f1d06ee8a4cffb4728649901da5b9",
+      "metadata": {
+        "taxon": "Diademodon tetragonus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Bayerische Staatssammlung für Historische Geologie und Palaontologie",
+          "people": "Stephan Lautenschlager et al.",
+          "origin": "https://sketchfab.com/3d-models/diademodon-tetragonus-636f1d06ee8a4cffb4728649901da5b9"
+        }
+      }
+    },
+    {
+      "id": "#318_probainognathusskull",
+      "type": "sketchfab",
+      "resource": "c996d7c984e14cb4acb044496a1704f6",
+      "metadata": {
+        "taxon": "Probainognathus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Museo de Ciencias Naturales, Universidad Nacional de San Juan (PVSJ)",
+          "people": "Stephan Lautenschlager et al.",
+          "origin": "https://sketchfab.com/3d-models/probainognathus-sp-c996d7c984e14cb4acb044496a1704f6"
+        }
+      }
+    },
+    {
+      "id": "#319_coelurosauravuswhole",
+      "type": "image",
+      "resource": "https://www.researchgate.net/profile/Hans-Dieter_Sues/publication/235237223/figure/fig1/AS:299827146575883@1448495770518/Coelurosauravus-jaekeli-SMNK-2882-PAL-nearly-complete-skeleton-Note-the-numerous-long.png",
+      "metadata": {
+        "taxon": "Coelurosauravus",
+        "description": "whole",
+        "attribution": {
+          "institution": "State Museum of Natural History Karlsruhe",
+          "people": "Eberhard Frey et al.",
+          "origin": "https://www.researchgate.net/profile/Hans-Dieter_Sues/publication/235237223/figure/fig1/AS:299827146575883@1448495770518/Coelurosauravus-jaekeli-SMNK-2882-PAL-nearly-complete-skeleton-Note-the-numerous-long.png"
+        }
+      }
+    },
+    {
+      "id": "#320_younginawhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Iziko_Youngina_juvenile_skelotons.JPG",
+      "metadata": {
+        "taxon": "Youngina",
+        "description": "whole",
+        "attribution": {
+          "institution": "South African Museum",
+          "people": "Nkansahrexford ",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Iziko_Youngina_juvenile_skelotons.JPG"
+        }
+      }
+    },
+    {
+      "id": "#321_palaeagamawhole",
+      "type": "image",
+      "resource": "http://www.paleofile.com/imges/Diapsida/Paleagmaskel.jpg",
+      "metadata": {
+        "taxon": "Palaeagama",
+        "description": "whole",
+        "attribution": {
+          "people": "R.L. Carroll",
+          "origin": "http://www.paleofile.com/imges/Diapsida/Paleagmaskel.jpg"
+        }
+      }
+    },
+    {
+      "id": "#322_icarosauruswhole",
+      "type": "image",
+      "resource": "https://www.researchgate.net/profile/Paul_Olsen2/publication/232663568/figure/fig2/AS:668967127490575@1536505600841/A-Restoration-of-the-skeleton-of-Icarosaurus-after-Colbert-1970-B-The-sole-specimen.jpg",
+      "metadata": {
+        "taxon": "Icarosaurus",
+        "description": "whole",
+        "attribution": {
+          "people": "N.C. Fraser et al. after E.H. Colbert",
+          "origin": "https://www.researchgate.net/profile/Paul_Olsen2/publication/232663568/figure/fig2/AS:668967127490575@1536505600841/A-Restoration-of-the-skeleton-of-Icarosaurus-after-Colbert-1970-B-The-sole-specimen.jpg"
+        }
+      }
+    },
+    {
+      "id": "#323_sophinetacracoviensisskull",
+      "type": "image",
+      "resource": "https://www.researchgate.net/profile/Susan_Evans4/publication/228117695/figure/fig7/AS:668282633871361@1536342404075/Sophineta-cracoviensis-gen-et-sp-n-Early-Tri-assic-of-Czatkowice-1-Poland-Skull.png",
+      "metadata": {
+        "taxon": "Sophineta cracoviensis",
+        "description": "skull",
+        "attribution": {
+          "people": "S.E. Evans and B.-B. Magdalena",
+          "origin": "https://www.researchgate.net/profile/Susan_Evans4/publication/228117695/figure/fig7/AS:668282633871361@1536342404075/Sophineta-cracoviensis-gen-et-sp-n-Early-Tri-assic-of-Czatkowice-1-Poland-Skull.png"
+        }
+      }
+    },
+    {
+      "id": "#324_prognathodontooth",
+      "type": "sketchfab",
+      "resource": "d756d5402e9f4caabb53f86f17a647ea",
+      "metadata": {
+        "taxon": "Prognathodon",
+        "description": "tooth",
+        "attribution": {
+          "institution": "Private collection",
+          "people": "Olof Moleman",
+          "origin": "https://sketchfab.com/3d-models/prognathodon-jaw-reconstruction-d756d5402e9f4caabb53f86f17a647ea"
+        }
+      }
+    },
+    {
+      "id": "#325_cycluracycluraskull",
+      "type": "sketchfab",
+      "resource": "d79d72b2347f4837abd0760efa82d1b8",
+      "metadata": {
+        "taxon": "Cyclura cyclura",
+        "description": "skull",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/skull-of-cyclura-cyclura-uf-h-34752-d79d72b2347f4837abd0760efa82d1b8"
+        }
+      }
+    },
+    {
+      "id": "#326_dracomelanopogonshedding",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Black-bearded_Gliding_Lizard_Shedding_18_24_23_285000.jpeg",
+      "metadata": {
+        "taxon": "Draco melanopogon",
+        "description": "shedding",
+        "attribution": {
+          "people": "Sundar",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Black-bearded_Gliding_Lizard_Shedding_18_24_23_285000.jpeg"
+        }
+      }
+    },
+    {
+      "id": "#327_crotalusatroxhemipenes",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rattlesnake_Hemipenes.jpg",
+      "metadata": {
+        "taxon": "Crotalus atrox",
+        "description": "hemipenes",
+        "attribution": {
+          "people": "Tess Thornton",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rattlesnake_Hemipenes.jpg"
+        }
+      }
+    },
+    {
+      "id": "#328_uroplatusfimbriatusskull",
+      "type": "sketchfab",
+      "resource": "b2308aaf81e94a9a9345a4d399cdc4e5",
+      "metadata": {
+        "taxon": "Uroplatus fimbriatus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/common-flat-tail-gecko-skull-b2308aaf81e94a9a9345a4d399cdc4e5"
+        }
+      }
+    },
+    {
+      "id": "#329_chamaesauraanguinawhole",
+      "type": "sketchfab",
+      "resource": "7df2cb99abe844258e0a43fc2910ef4b",
+      "metadata": {
+        "taxon": "Chamaesaura anguina",
+        "description": "whole",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/cape-grass-lizard-skeleton-7df2cb99abe844258e0a43fc2910ef4b"
+        }
+      }
+    },
+    {
+      "id": "#330_bitiscaudaliswhole",
+      "type": "sketchfab",
+      "resource": "9eabed8b3f7e40a7a729d2b412a2325c",
+      "metadata": {
+        "taxon": "Bitis caudalis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/horned-adder-and-prey-skeleton-9eabed8b3f7e40a7a729d2b412a2325c"
+        }
+      }
+    },
+    {
+      "id": "#331_cycluracyclurajaw",
+      "type": "sketchfab",
+      "resource": "9cdc93a9a082446a935732031e1dec51",
+      "metadata": {
+        "taxon": "Cyclura cyclura",
+        "description": "jaw",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/uf-h-34752-jaw-9cdc93a9a082446a935732031e1dec51"
+        }
+      }
+    },
+    {
+      "id": "#332_lialisburtoniswhole",
+      "type": "sketchfab",
+      "resource": "2a91cd25cdf24c448fd2febdb4ec0afd",
+      "metadata": {
+        "taxon": "Lialis burtonis",
+        "description": "whole",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/burtons-legless-lizard-skeleton-2a91cd25cdf24c448fd2febdb4ec0afd"
+        }
+      }
+    },
+    {
+      "id": "#333_iguanaiguanaskull",
+      "type": "sketchfab",
+      "resource": "1427f887e0fd41eb9c9c97e07c3610e3",
+      "metadata": {
+        "taxon": "Iguana iguana",
+        "description": "skull",
+        "attribution": {
+          "institution": "Ohio University",
+          "people": "WitmerLab",
+          "origin": "https://sketchfab.com/3d-models/green-iguana-skull-ouvc-10677-1427f887e0fd41eb9c9c97e07c3610e3"
+        }
+      }
+    },
+    {
+      "id": "#334_corallusskull",
+      "type": "sketchfab",
+      "resource": "7f48cbcbf2c94a7ea49b04b21ae83390",
+      "metadata": {
+        "taxon": "Corallus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Ohio University",
+          "people": "WitmerLab",
+          "origin": "https://sketchfab.com/3d-models/tree-boa-snake-skull-7f48cbcbf2c94a7ea49b04b21ae83390"
+        }
+      }
+    },
+    {
+      "id": "#335_feyliniacurroriwhole",
+      "type": "sketchfab",
+      "resource": "eb6cd4a1d754477fabec1c5bc9b30f84",
+      "metadata": {
+        "taxon": "Feylinia currori",
+        "description": "whole",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/western-forest-feylinia-skink-skeleton-eb6cd4a1d754477fabec1c5bc9b30f84"
+        }
+      }
+    },
+    {
+      "id": "#336_lacertamuralispelvis",
+      "type": "sketchfab",
+      "resource": "983d20d9635c45c591b07373a51281b5",
+      "metadata": {
+        "taxon": "Lacerta muralis",
+        "description": "pelvis",
+        "attribution": {
+          "institution": "Museum of Zoology Cambridge",
+          "origin": "https://sketchfab.com/3d-models/r-10-107-lacerta-muralis-pelvis-983d20d9635c45c591b07373a51281b5"
+        }
+      }
+    },
+    {
+      "id": "#337_moreliaspilotapelvis",
+      "type": "sketchfab",
+      "resource": "e5cb4168ca444b4db13c0d72b55b00f3",
+      "metadata": {
+        "taxon": "Morelia spilota",
+        "description": "pelvis",
+        "attribution": {
+          "institution": "Museum of Zoology Cambridge",
+          "origin": "https://sketchfab.com/3d-models/r3-22-4-morelia-spilota-pelvis-e5cb4168ca444b4db13c0d72b55b00f3"
+        }
+      }
+    },
+    {
+      "id": "#338_varanussalvatorpelvis",
+      "type": "sketchfab",
+      "resource": "cfd28b026c27417389091e828b15fcc3",
+      "metadata": {
+        "taxon": "Varanus salvator",
+        "description": "pelvis",
+        "attribution": {
+          "institution": "Museum of Zoology Cambridge",
+          "origin": "https://sketchfab.com/3d-models/r-19190-varanus-salvator-pelvis-cfd28b026c27417389091e828b15fcc3"
+        }
+      }
+    },
+    {
+      "id": "#339_corallusendocast",
+      "type": "sketchfab",
+      "resource": "cbec100d20ad450e9e4da22debb05d43",
+      "metadata": {
+        "taxon": "Corallus",
+        "description": "endocast",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "WitmerLab",
+          "origin": "https://sketchfab.com/3d-models/tree-boa-snake-skull-brain-endocast-cbec100d20ad450e9e4da22debb05d43"
+        }
+      }
+    },
+    {
+      "id": "#340_prestosuchuswhole",
+      "type": "sketchfab",
+      "resource": "0852dc4bb0f5441ba6e1951cb6b745bc",
+      "metadata": {
+        "taxon": "Prestosuchus",
+        "description": "whole",
+        "attribution": {
+          "institution": "American Museum of Natural History (AMNH)",
+          "people": "Stauros",
+          "origin": "https://sketchfab.com/3d-models/publish-dino-53-prestozuch-0852dc4bb0f5441ba6e1951cb6b745bc"
+        }
+      }
+    },
+    {
+      "id": "#341_macrocnemuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/d/df/Macrocnemus_bassani_Meride.JPG",
+      "metadata": {
+        "taxon": "Macrocnemus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Museo dei fossili del Monte San Giorgi",
+          "people": "Hermann Junghans",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/d/df/Macrocnemus_bassani_Meride.JPG"
+        }
+      }
+    },
+    {
+      "id": "#342_tanystropheuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tanystropheus_longobardicus_4.JPG",
+      "metadata": {
+        "taxon": "Tanystropheus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Paleontology Museum of Zurich",
+          "people": "Ghedoghedo",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tanystropheus_longobardicus_4.JPG"
+        }
+      }
+    },
+    {
+      "id": "#343_megalancosauruspreonensiswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Megalancosaurus_preonensis.jpg",
+      "metadata": {
+        "taxon": "Megalancosaurus preonensis",
+        "description": "whole",
+        "attribution": {
+          "people": "S. Renesto and F.M. Dalla Vecchia",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Megalancosaurus_preonensis.jpg"
+        }
+      }
+    },
+    {
+      "id": "#344_rhynchosaurusarticepsskull",
+      "type": "sketchfab",
+      "resource": "3a007a1bf02d48fca4ca2d76083bd30a",
+      "metadata": {
+        "taxon": "Rhynchosaurus articeps",
+        "description": "skull",
+        "attribution": {
+          "institution": "Shrewsbury Museum",
+          "people": "Fossils in Shropshire",
+          "origin": "https://sketchfab.com/3d-models/rhynchosaur-skull-3a007a1bf02d48fca4ca2d76083bd30a"
+        }
+      }
+    },
+    {
+      "id": "#345_prolacertabroomiskull",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Prolacerta_skull_diagram.png",
+      "metadata": {
+        "taxon": "Prolacerta broomi",
+        "description": "skull",
+        "attribution": {
+          "people": "Martin D. Ezcurra",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Prolacerta_skull_diagram.png"
+        }
+      }
+    },
+    {
+      "id": "#346_megachirellawachtlerislab",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Megachirella_NMS.jpg",
+      "metadata": {
+        "taxon": "Megachirella wachtleri",
+        "description": "slab",
+        "attribution": {
+          "institution": " Naturmuseum Südtirol",
+          "people": "Benno Baumgarten",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Megachirella_NMS.jpg"
+        }
+      }
+    },
+    {
+      "id": "#347_alligatorsinensiscranium",
+      "type": "sketchfab",
+      "resource": "87bec849ccf54be7981bc539d30814c6",
+      "metadata": {
+        "taxon": "Alligator sinensis",
+        "description": "cranium",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/alligator-sinensis-uf-herp-105540-87bec849ccf54be7981bc539d30814c6"
+        }
+      }
+    },
+    {
+      "id": "#348_proterosuchusfergusiskull",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Proterosuchus_fergusi.png",
+      "metadata": {
+        "taxon": "Proterosuchus fergusi ",
+        "description": "skull",
+        "attribution": {
+          "institution": "Rubidge Collection",
+          "people": "Fernando Abdala",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Proterosuchus_fergusi.png"
+        }
+      }
+    },
+    {
+      "id": "#349_euparkeriacapensiswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Euparkeria_body_Ezcurra_2016.png",
+      "metadata": {
+        "taxon": "Euparkeria capensis",
+        "description": "whole",
+        "attribution": {
+          "institution": "South African Museum",
+          "people": "Martin D. Ezcurra",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Euparkeria_body_Ezcurra_2016.png"
+        }
+      }
+    },
+    {
+      "id": "#350_shansisuchusshansisuchuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Shansisuchus-Paleozoological_Museum_of_China.jpg",
+      "metadata": {
+        "taxon": "Shansisuchus shansisuchus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Paleozoological Museum of China",
+          "people": "Jonathan Chen",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Shansisuchus-Paleozoological_Museum_of_China.jpg"
+        }
+      }
+    },
+    {
+      "id": "#351_desmatosuchusspurensiswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Desmatosuchus_spurensis_-_MUSE.jpg",
+      "metadata": {
+        "taxon": "Desmatosuchus spurensis",
+        "description": "whole",
+        "attribution": {
+          "people": "Matteo De Stefano",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Desmatosuchus_spurensis_-_MUSE.jpg"
+        }
+      }
+    },
+    {
+      "id": "#352_riojasuchusskull",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Riojasuchus.png",
+      "metadata": {
+        "taxon": "Riojasuchus",
+        "description": "skull",
+        "attribution": {
+          "people": "Maria Belen von Baczko and Julia Brenda Desojo",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Riojasuchus.png"
+        }
+      }
+    },
+    {
+      "id": "#353_sillosuchuswhole",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sillosuchus.jpg",
+      "metadata": {
+        "taxon": "Sillosuchus",
+        "description": "whole",
+        "attribution": {
+          "people": "Kentaro Ohno",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sillosuchus.jpg"
+        }
+      }
+    },
+    {
+      "id": "#354_terrestrisuchusreconstruction",
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/83/Terrestrisuchus.jpg",
+      "metadata": {
+        "taxon": "Terrestrisuchus",
+        "description": "reconstruction",
+        "attribution": {
+          "people": "Jaime A. Headden",
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/83/Terrestrisuchus.jpg"
+        }
+      }
+    },
+    {
+      "id": "#355_notosuchuscranium",
+      "type": "sketchfab",
+      "resource": "c00a6d441a99442ea4577ce01f0adad7",
+      "metadata": {
+        "taxon": "Notosuchus",
+        "description": "cranium",
+        "attribution": {
+          "institution": "Museo de La Plata",
+          "origin": "https://sketchfab.com/3d-models/notosuchus-terrestris-craneo-c00a6d441a99442ea4577ce01f0adad7"
+        }
+      }
+    },
+    {
+      "id": "#356_pelagosaurusskull",
+      "type": "sketchfab",
+      "resource": "2b6aef665df8447884eb492f1db14eb7",
+      "metadata": {
+        "taxon": "Pelagosaurus",
+        "description": "skull",
+        "attribution": {
+          "institution": "Bath Royal Literary and Scientific Institution",
+          "people": "BaCH",
+          "origin": "https://sketchfab.com/3d-models/pelagosaurus-skull-2b6aef665df8447884eb492f1db14eb7"
+        }
+      }
+    },
+    {
+      "id": "#357_steneosaurusslab",
+      "type": "sketchfab",
+      "resource": "eaaaf281f39442c89751437b05fd76f2",
+      "metadata": {
+        "taxon": "Steneosaurus",
+        "description": "slab",
+        "attribution": {
+          "institution": "Teyler's Museum",
+          "people": "Olof Moleman",
+          "origin": "https://sketchfab.com/3d-models/steneosaurus-bollensis-eaaaf281f39442c89751437b05fd76f2"
+        }
+      }
+    },
+    {
+      "id": "#358_steneosaurusosteoderms",
+      "type": "sketchfab",
+      "resource": "6ae6c62c33e343869ad3db1e359bd0fd",
+      "metadata": {
+        "taxon": "Steneosaurus",
+        "description": "osteoderms",
+        "attribution": {
+          "institution": "Musée national d'histoire naturelle Luxembourg",
+          "origin": "https://sketchfab.com/3d-models/steneosaurus-bollensis-tu155-6ae6c62c33e343869ad3db1e359bd0fd"
+        }
+      }
+    },
+    {
+      "id": "#359_cyprinusvertebra",
+      "type": "sketchfab",
+      "resource": "33516f82a95c49d5bdef5123e2f4c6f2",
+      "metadata": {
+        "taxon": "Cyprinus",
+        "description": "vertebra",
+        "attribution": {
+          "institution": "Leiston Abbey",
+          "people": "DigVentures",
+          "origin": "https://sketchfab.com/3d-models/leiston-abbey-2015-finds-fish-vertebra-33516f82a95c49d5bdef5123e2f4c6f2"
+        }
+      }
+    },
+    {
+      "id": "#360_eunectesmurinusvertebra",
+      "type": "sketchfab",
+      "resource": "0d77d06ab9bd4a61979c548075de1fc1",
+      "metadata": {
+        "taxon": "Eunectes murinus",
+        "description": "vertebra",
+        "attribution": {
+          "institution": "Florida Museum of Natural History",
+          "people": "Blackburn Lab",
+          "origin": "https://sketchfab.com/3d-models/eunectes-murinus-uf84822-c4-0d77d06ab9bd4a61979c548075de1fc1"
+        }
+      }
+    },
+    {
+      "id": "#361_isisfordiaduncaniskull",
+      "type": "image",
+      "resource": "https://pbs.twimg.com/media/DLyoV-lVoAAO0g9?format=jpg&name=large",
+      "metadata": {
+        "taxon": "Isisfordia duncani",
+        "description": "skull",
+        "attribution": {
+          "people": "S.W. Salisbury et al.",
+          "origin": "https://pbs.twimg.com/media/DLyoV-lVoAAO0g9?format=jpg&name=large"
+        }
+      }
+    },
+    {
+      "id": "#362_crocodyluswhole",
+      "type": "sketchfab",
+      "resource": "26f744d1546e487cbad9d8ea79fddf8e",
+      "metadata": {
+        "taxon": "Crocodylus",
+        "description": "whole",
+        "attribution": {
+          "institution": "Messel",
+          "people": "Théobald Guffon",
+          "origin": "https://sketchfab.com/3d-models/fossil-crocodile-from-messel-pbr-26f744d1546e487cbad9d8ea79fddf8e"
+        }
+      }
+    },
+    {
+      "id": "#363_crocodyluswhole2",
+      "type": "sketchfab",
+      "resource": "7a936c1061824ac98f7ad16165d6d254",
+      "metadata": {
+        "taxon": "Crocodylus",
+        "description": "whole2",
+        "attribution": {
+          "institution": "Messel",
+          "people": "Théobald Guffon",
+          "origin": "https://sketchfab.com/3d-models/crocodile-fossil-2-47mo-011xv-100xir-7a936c1061824ac98f7ad16165d6d254"
+        }
+      }
+    },
+    {
+      "id": "#364_alligatorandcrocodylusskulls",
+      "type": "sketchfab",
+      "resource": "f8d03d3b46254a379d9abfafb0674c19",
+      "metadata": {
+        "taxon": "Alligator and Crocodylus",
+        "description": "skulls",
+        "attribution": {
+          "people": "Idaho Virtualization Laboratory",
+          "origin": "https://sketchfab.com/3d-models/modern-alligator-and-jurassic-crocodile-f8d03d3b46254a379d9abfafb0674c19"
+        }
+      }
+    },
+    {
+      "id": "#365_mariliasuchusamaraliskull",
+      "type": "sketchfab",
+      "resource": "6871862822b343798780d19b838d60e5",
+      "metadata": {
+        "taxon": "Mariliasuchus amarali",
+        "description": "skull",
+        "attribution": {
+          "institution": "Museu Nacional do Rio de Janeiro",
+          "people": "Lab Processamento de Imagen Digital",
+          "origin": "https://sketchfab.com/3d-models/mariliasuchus-amarali-mn-6298-v-6871862822b343798780d19b838d60e5"
+        }
+      }
+    },
+    {
+      "id": "#366_"
+    },
+    {
+      "id": "#367_"
+    },
+    {
+      "id": "#368_"
+    },
+    {
+      "id": "#369_"
+    },
+    {
+      "id": "#370_"
     }
   ]
 }
