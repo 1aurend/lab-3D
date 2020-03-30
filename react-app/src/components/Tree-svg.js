@@ -3,7 +3,7 @@ import Modal from 'styled-react-modal'
 import { ModalProvider } from 'styled-react-modal'
 import {ReactComponent as Icon} from '../assets/tree-icon.svg'
 import tree6svg from '../data/trees/tree6.svg';
-import tree5svg from '../data/trees/tree6.svg';
+import tree5svg from '../data/trees/tree5.svg';
 import PhyloCanvas from './PhyloCanvas';
 import { labContext } from '../data/DataContexts';
 import labList from '../data/labList';
