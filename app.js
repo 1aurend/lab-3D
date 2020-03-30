@@ -15,7 +15,7 @@ app.get('/api', (req, res) => {
   res.send('server is up')
 })
 
-// app.use('/api/auth', auth)
+app.use('/api/auth', auth)
 // app.use('/', express.static(path.join(__dirname, '/client/build')))
 
 app.listen(3001, () => console.log(`Listening on port 3001`))
