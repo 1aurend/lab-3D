@@ -9,7 +9,6 @@ const Info = (props) => {
   const {specimen, setSpecimen} = useContext(idContext)
   const {node, setNode} = useContext(nodeContext)
 
-// <strong onClick={()=>toggleContext()}
 
   const LinkCatcher=(props)=>{
     return(
@@ -17,16 +16,6 @@ const Info = (props) => {
     )
   }
 
-  const toggleContext = ()=>{
-      const options = ['47epiphyses','13alligatorfemur']
-      if (specimen===options[0]){
-        setSpecimen(options[1])
-        console.log('set to ' + specimen);
-      } else {
-        setSpecimen(options[0])
-        console.log('set to ' + specimen);
-      }
-  }
 
   const components = {
     a:LinkCatcher
