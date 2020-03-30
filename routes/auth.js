@@ -7,12 +7,14 @@ import chalk from 'chalk'
 
 const router = express.Router()
 
-router.post('/', (req, res) => {
-  console.log(req.body);
-  if (req.body.password === process.env.PASSWORD) {
-    res.send(true)
-  }
-  res.send(false)
-})
+router.post('/', (req, res, next) => {
+    console.log(req.body)
+      if (req.body.password !== process.env.PASSWORD) {
+        return res.status(401).send('Not Authorized')
+      }
+      next()
+    },
+  createToken
+)
 
 export default router
