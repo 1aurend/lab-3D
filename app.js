@@ -1,9 +1,7 @@
 import express from 'express'
 import logger from 'morgan'
 import bodyParser from 'body-parser'
-import signIn from './routes/signin'
-import s3 from './routes/s3'
-import resources from './routes/resources'
+import auth from './routes/auth'
 const app = express()
 
 
@@ -17,12 +15,7 @@ app.get('/api', (req, res) => {
   res.send('server is up')
 })
 
-app.get('/api/test', (req, res) => {
-  res.send('got a request')
-})
-
-app.use('/api/signin', signIn)
-app.use('/api/s3', s3)
-app.use('/api/resources', resources)
+// app.use('/api/auth', auth)
+// app.use('/', express.static(path.join(__dirname, '/client/build')))
 
 app.listen(3001, () => console.log(`Listening on port 3001`))
