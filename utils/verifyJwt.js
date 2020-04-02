@@ -15,10 +15,12 @@ export default async function(req, res, next) {
     console.log('here');
     const now = Date.now()/1000
     if (payload.auth === 'oeb126 labs' && payload.exp > now) {
-      const db = findAuthedSpecimens(req.body.lab)
-      res.send({db: db})
+      const db = req.body ? findAuthedSpecimens(req.body.lab) : null
+      res.send({db: db, authed: true})
     }
   } catch (err) {
     res.status(401).send(err)
   }
 }
+
+// TODO: don't have this function do double duty. move refresh verification and data loading to refresh.js 

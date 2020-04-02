@@ -3,6 +3,7 @@ import logger from 'morgan'
 import bodyParser from 'body-parser'
 import auth from './routes/auth'
 import load from './routes/load'
+import refresh from './routes/refresh'
 import path from 'path'
 const app = express()
 
@@ -19,6 +20,7 @@ app.get('/api', (req, res) => {
 
 app.use('/api/auth', auth)
 app.use('/api/load', load)
+app.use('/api/refresh', refresh)
 app.use('/', express.static(path.join(__dirname, '/client/build')))
 app.use('/lab(/*)?', express.static(path.join(__dirname, '/client/build')))
 

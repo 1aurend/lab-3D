@@ -55,6 +55,7 @@ export default function Password() {
         alert('Incorrect password. Please try again.')
       }
       jwt.current = result.headers.authorization
+      sessionStorage.setItem('token', jwt.current)
       setData(result.data.data)
       setAuthed(result.data.authed)
     } catch (err) {
