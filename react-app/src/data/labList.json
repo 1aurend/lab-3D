@@ -1,7 +1,7 @@
 {
   "lab 5":{
     "title":"5: Amniota and Sauria",
-    "tree":"tree5.nwk",
+    "tree":"tree5.svg",
     "default":"#202_sphenodonskull",
     "nodes":{
       "5-1-Reptiliomorpha":{
@@ -56,7 +56,7 @@
   },
   "lab 6":{
     "title":"6: Dinosauria",
-    "tree":"tree6.nwk",
+    "tree":"tree6.svg",
     "default":"#12_alligatormississipiensiship",
     "nodes":{
       "6-0-Archosauria":{
@@ -111,7 +111,37 @@
   },
   "lab 7":{
     "title":"7: Reptile Soup",
-    "nodes":{}
+    "tree":"tree7.svg",
+    "default":"#366_anhanguerapiscatorwhole",
+    "nodes":{
+      "7-1-Pterosauria":{
+        "title":"7.1 Pterosauria"
+      },
+      "7-2-Mesosauria":{
+        "title":"7.2 Mesosauria"
+      },
+      "7-3-Ichthyopterygia":{
+        "title":"7.3 Ichthyopterygia"
+      },
+      "7-4-Sauropterygia":{
+        "title":"7.4 Sauropterygia"
+      },
+      "7-5-Mosasauroidea":{
+        "title":"7.5 Mosasauroidea"
+      },
+      "7-6-Parareptilia":{
+        "title":"7.6 Parareptilia"
+      },
+      "7-7-Procolophonia":{
+        "title":"7.7 Procolophonia"
+      },
+      "7-8-Pantestudines":{
+        "title":"7.8 Pantestudines"
+      },
+      "7-9-Testudinata":{
+        "title":"7.9 Testudinata"
+      }
+    }
   },
   "lab 8":{
     "title":"8: Basal Synapsids",

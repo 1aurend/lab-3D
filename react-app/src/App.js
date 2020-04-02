@@ -28,7 +28,7 @@ const TreeBox = styled(Box)`
 `
 
 function App() {
-  const [lab, setLab] = useState("lab 5");
+  const [lab, setLab] = useState("lab 7");
   const [node, setNode] = useState(Object.keys(labList[lab]["nodes"])[0]);
   const [specimen, setSpecimen] = useState(labList[lab]["default"]);
   useEffect (() => {
