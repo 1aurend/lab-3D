@@ -9,7 +9,7 @@ import { Input } from '@rebass/forms'
 import styled from 'styled-components'
 import axios from 'axios'
 import { useHistory } from 'react-router-dom'
-import { Authed, SetAuthed, Jwt } from './AuthContext'
+import { Authed, SetAuthed, Jwt, SetData } from './AuthContext'
 
 
 const Universe = styled(Box)`
@@ -35,6 +35,7 @@ const PassEntry = styled(Flex)`
 
 export default function Password() {
   const [input, setInput] = useState('')
+  const setData = useContext(SetData)
   const authed = useContext(Authed)
   const setAuthed = useContext(SetAuthed)
   const jwt = useContext(Jwt)
@@ -54,13 +55,12 @@ export default function Password() {
         alert('Incorrect password. Please try again.')
       }
       jwt.current = result.headers.authorization
-      setAuthed(result.data)
+      setData(result.data.data)
+      setAuthed(result.data.authed)
     } catch (err) {
       alert(err)
     }
   }
-
-  console.log(authed)
 
   useEffect(() => {
     if (authed) {

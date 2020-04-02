@@ -6,7 +6,8 @@ import {
   Redirect
 } from 'react-router-dom'
 import Password from './Password'
-import App from './App'
+import Viewer from './Viewer'
+import Select from './Select'
 import { Authed } from './AuthContext'
 
 
@@ -17,8 +18,11 @@ export default function AuthRouter() {
         <Route exact path='/'>
           <Password />
         </Route>
-        <ProtectedRoute path='/lab'>
-          <App />
+        <ProtectedRoute exact path='/lab'>
+          <Select />
+        </ProtectedRoute>
+        <ProtectedRoute path='/lab/:title/:node'>
+          <Viewer />
         </ProtectedRoute>
       </Switch>
     </Router>
@@ -28,7 +32,6 @@ export default function AuthRouter() {
 
 export function ProtectedRoute({ children, ...rest }) {
   const authed = useContext(Authed)
-  console.log('here')
   return (
     <Route
       {...rest}
