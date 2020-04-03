@@ -3,7 +3,6 @@
     "title":"5: Amniota and Sauria",
     "tree":"tree5.svg",
     "default":"#202_sphenodonskull",
-    "lastAvailable": "1585768977420",
     "nodes":{
       "5-1-Reptiliomorpha":{
         "title":"5.1 Reptiliomorpha"
@@ -59,7 +58,6 @@
     "title":"6: Dinosauria",
     "tree":"tree6.svg",
     "default":"#12_alligatormississipiensiship",
-    "lastAvailable": "1585768977420",
     "nodes":{
       "6-0-Archosauria":{
         "title":"6.0 Archosauria"
@@ -115,7 +113,6 @@
     "title":"7: Reptile Soup",
     "tree":"tree7.svg",
     "default":"#366_anhanguerapiscatorwhole",
-    "lastAvailable": "1585768977420",
     "nodes":{
       "7-1-Pterosauria":{
         "title":"7.1 Pterosauria"

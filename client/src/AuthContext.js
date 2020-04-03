@@ -1,5 +1,8 @@
 import React, { useState, useRef } from 'react'
 import AuthRouter from './Router'
+import {ThemeProvider} from 'styled-components'
+
+
 
 export const Authed = React.createContext()
 export const SetAuthed = React.createContext()
@@ -10,10 +13,13 @@ export const SetLabLookup = React.createContext()
 export const Lookup = React.createContext()
 
 
+
+
 export default function AuthContext() {
   const [authed, setAuthed] = useState(false)
   const [data, setData] = useState()
   const [lookup, setLookup] = useState()
+
   const jwt = useRef()
 
   return (

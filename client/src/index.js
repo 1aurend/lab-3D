@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import AuthContext from './AuthContext'
 import * as serviceWorker from './serviceWorker'
+import './index.css';
 
 ReactDOM.render(<AuthContext />, document.getElementById('root'))
 
