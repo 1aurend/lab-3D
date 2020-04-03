@@ -49,6 +49,7 @@ export default function App() {
 
   console.log(lookup)
 
+
   return (
     <SetLabContext.Provider value={setLab}>
       <LabContext.Provider value={lab}>

@@ -17,13 +17,12 @@ const ViewerFrame = styled.iframe`
 `
 
 
-const version = '1.7.1'
 
 const Viewer = (props) => {
     const targetRef = useRef(null);
     const urlid = props.url;
     useEffect(() => {
-      const client = new window.Sketchfab(version, targetRef.current);
+      const client = new window.Sketchfab(targetRef.current);
       client.init(urlid, {
           success: (api) => {
               api.start();
