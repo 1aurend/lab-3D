@@ -57,15 +57,17 @@ export default function App() {
           <NodeContext.Provider value={node}>
             <SetIdContext.Provider value={setId}>
               <IdContext.Provider value={id}>
-                <Universe>
-                  <TreeBox>
-                    <Tree iconSize={iconSize}/>
-                  </TreeBox>
-                  <Galaxy sx={{flexFlow:['column nowrap', 'row nowrap']}}>
-                    <InfoPane />
-                    <SpecimenPane />
-                  </Galaxy>
-                </Universe>
+                <ThemeProvider theme={theme}>
+                  <Universe>
+                    <TreeBox>
+                      <Tree iconSize={iconSize}/>
+                    </TreeBox>
+                    <Galaxy sx={{flexFlow:['column nowrap', 'row nowrap']}}>
+                      <InfoPane />
+                      <SpecimenPane />
+                    </Galaxy>
+                  </Universe>
+                </ThemeProvider>
               </IdContext.Provider>
             </SetIdContext.Provider>
           </NodeContext.Provider>

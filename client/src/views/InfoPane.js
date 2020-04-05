@@ -1,10 +1,13 @@
-import React, {useContext, useEffect, useRef} from 'react';
+import React, {useContext, useEffect, useRef, useState} from 'react';
 import styled from 'styled-components';
 import {Box, Flex, System} from 'rebass/styled-components';
 import {Label, Select} from '@rebass/forms'
 import { LabContext, SetLabContext, NodeContext, SetNodeContext } from '../Viewer'
 import Info from './Info';
 import labList from '../data/labList'
+import Thumb from './Thumb'
+
+
 
 const Pane = styled(Box)`
   height: 100%;
@@ -31,10 +34,16 @@ const InfoPane = () => {
   const setLab = useContext(SetLabContext)
   const node = useContext(NodeContext)
   const setNode = useContext(SetNodeContext)
+  const [show, setShow] = useState(false)
+  useEffect(()=>{
+    console.log("toggled show to: "+show);
+  },[show])
+
 
 
   return(
     <Pane sx={{width:['100%','35%']}}>
+
       <DropDown as='form'>
         <Label htmlFor='labChoice'>LAB</Label>
         <Select
@@ -62,7 +71,8 @@ const InfoPane = () => {
         </Select>
       </DropDown>
       <InfoBox>
-          <Info contentPath={node}/>
+          <Info show={show} handler={setShow}/>
+          <Thumb show={show}/>
       </InfoBox>
     </Pane>
   )
