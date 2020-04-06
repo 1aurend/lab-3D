@@ -16,7 +16,7 @@ const Info = ({show, handler}) => {
         <Link sx={{color:'blue'}}
         onClick={()=> {setSpecimen(props.href); console.log(specimen)}}
         onMouseEnter={()=>{handler(true);console.log('mouse entered')}}
-        onMouseLeave={()=>{console.log('mouse left')}}
+        onMouseLeave={()=>{handler(false);console.log('mouse left')}}
         style={{fontWeight:'bold', cursor:'pointer'}} >{props.children}</Link>
       </>
     )
