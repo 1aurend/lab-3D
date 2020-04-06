@@ -24,12 +24,12 @@ const TreeModal = Modal.styled`
 const Tree = (props) => {
   const lab = useContext(LabContext);
   const [show, setShow] = useState(false);
-  const [tree, setTree] = useState(labList[lab]["tree"]);
+  const [tree, setTree] = useState(labList.labs.find(item => item.id==lab).tree);
   function toggleShow(){
     setShow(!show)
   };
   useEffect (() => {
-    setTree(labList[lab]["tree"])
+    setTree(labList.labs.find(item => item.id==lab).tree)
   },[lab])
   return (
       <ModalProvider>

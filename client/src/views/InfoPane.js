@@ -45,9 +45,9 @@ const InfoPane = () => {
           id='labChoice'
           value={lab}
           onChange={e=>{setLab(e.target.value)}}>
-          {Object.entries(labList).map(([ key, value ]) => (
-            <option value={key}>
-              {value.title}
+          {labList.labs.map(item=>(
+            <option value={item.id}>
+              {item.title}
             </option>
           ))}
         </Select>
@@ -58,9 +58,9 @@ const InfoPane = () => {
           id='nodeChoice'
           value={node}
           onChange={e=>{setNode(e.target.value)}}>
-          {Object.entries(labList[lab].nodes).map(([ key, value ]) => (
-            <option value={key}>
-              {value.title}
+          {labList.labs.find(item => item.id==lab).nodes.map(item=>(
+            <option value={item.nid}>
+              {item.ntitle}
             </option>
           ))}
         </Select>

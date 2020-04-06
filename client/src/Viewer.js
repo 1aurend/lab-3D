@@ -37,16 +37,20 @@ const TreeBox = styled(Box)`
 
 export default function App() {
   const lookup = useContext(Lookup)
-  const [lab, setLab] = useState("lab 7")
-  const [node, setNode] = useState(Object.keys(labList[lab]["nodes"])[0])
-  const [id, setId] = useState(labList[lab]["default"])
-  const [hover, setHover] = useState(labList[lab]["default"])
+  const [lab, setLab] = useState(labList.labs[0].id)
+  const [node, setNode] = useState(labList.labs[0].nodes[0].nid)
+  const [id, setId] = useState(labList.labs[0].default)
+  const [hover, setHover] = useState(labList.labs[0].default)
+  console.log("lab is "+lab);
+  console.log("node is "+node);
+  console.log("id is "+id);
+
 
   useEffect (() => {
-    setNode(Object.keys(labList[lab]["nodes"])[0])
+    setNode(labList.labs.find(item => item.id==lab).nodes[0].nid)
   },[lab])
   useEffect (() => {
-    setId(labList[lab]["default"])
+    setId(labList.labs.find(item => item.id==lab).default)
   },[lab])
 
 

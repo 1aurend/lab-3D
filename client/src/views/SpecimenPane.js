@@ -57,39 +57,38 @@ const Watermark = (props) => {
 
 const SpecimenPane = () => {
   const specimen = useContext(IdContext)
-  return <h1 style={{color:"white"}}>{specimen}</h1>
-  // const data = db.specimens.find(object => object.id==specimen)
-  // if (data.type==="sketchfab"){
-  //   return(
-  //     <PaneWrapper>
-  //         <Box>
-  //           <Watermark props={data.metadata.attribution.institution}/>
-  //           <SketchFabViewer url={data.resource} />
-  //         </Box>
-  //         <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-  //           <MetaData data={data.metadata}/>
-  //         </Box>
-  //     </PaneWrapper>
-  //   )} else if (data.type==="digimorph"){
-  //   return(
-  //     <PaneWrapper>
-  //         <Box sx={{display:'flex',justifyContent:'center'}}>
-  //           <ReactPlayer url={data.resource} playing loop/>
-  //         </Box>
-  //         <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-  //           <MetaData data={data.metadata}/>
-  //         </Box>
-  //     </PaneWrapper>
-  //   )} else {
-  //   return(
-  //     <PaneWrapper>
-  //         <Box sx={{display:'flex',justifyContent:'center'}}>
-  //           <Lightbox src={data.resource} alt={data.metadata.taxon}/>
-  //         </Box>
-  //         <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-  //           <MetaData data={data.metadata}/>
-  //         </Box>
-  //     </PaneWrapper>)}
+  const data = db.specimens.find(object => object.id==specimen)
+  if (data.type==="sketchfab"){
+    return(
+      <PaneWrapper>
+          <Box>
+            <Watermark props={data.metadata.attribution.institution}/>
+            <SketchFabViewer url={data.resource} />
+          </Box>
+          <Box sx={{alignSelf:'center', marginTop: '3%'}}>
+            <MetaData data={data.metadata}/>
+          </Box>
+      </PaneWrapper>
+    )} else if (data.type==="digimorph"){
+    return(
+      <PaneWrapper>
+          <Box sx={{display:'flex',justifyContent:'center'}}>
+            <ReactPlayer url={data.resource} playing loop/>
+          </Box>
+          <Box sx={{alignSelf:'center', marginTop: '3%'}}>
+            <MetaData data={data.metadata}/>
+          </Box>
+      </PaneWrapper>
+    )} else {
+    return(
+      <PaneWrapper>
+          <Box sx={{display:'flex',justifyContent:'center'}}>
+            <Lightbox src={data.resource} alt={data.metadata.taxon}/>
+          </Box>
+          <Box sx={{alignSelf:'center', marginTop: '3%'}}>
+            <MetaData data={data.metadata}/>
+          </Box>
+      </PaneWrapper>)}
 }
 
 export default SpecimenPane

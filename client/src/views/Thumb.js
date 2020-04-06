@@ -46,7 +46,7 @@ const Thumb = (props) => {
         top:position.posY,
         left:position.posX
       }}>
-        <Image sx={{borderRadius:"5px",width:imgSz}} src={thumbnail}/>
+        <Image sx={{borderRadius:"8px",width:imgSz}} src={thumbnail}/>
       </ThumbBox>
     )
   } else {
