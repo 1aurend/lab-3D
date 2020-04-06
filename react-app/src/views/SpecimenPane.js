@@ -2,8 +2,8 @@ import React, {useContext, useEffect, useRef} from 'react';
 import styled from 'styled-components';
 import {Box, Flex, Image} from 'rebass/styled-components';
 import ReactPlayer from 'react-player'
-import {idContext} from '../data/DataContexts';
-import Viewer from './Viewer';
+import { IdContext } from '../Viewer'
+import SketchFabViewer from './SketchFabViewer';
 import MetaData from './MetaData';
 import watermark from '../assets/watermark.png'
 import db from '../data/lookup.json'
@@ -14,8 +14,8 @@ const Pane = styled(Box)`
 `
 
 const Lightbox = styled(Image)`
-  height: 100%;
-  width: 100%;
+  max-height: 75vh;
+  width: auto;
 `
 
 const PaneWrapper = ({children}) => {
@@ -56,20 +56,20 @@ const Watermark = (props) => {
 
 
 const SpecimenPane = () => {
-  const {specimen, setSpecimen} = useContext(idContext)
+  const specimen = useContext(IdContext)
   const data = db.specimens.find(object => object.id==specimen)
   if (data.type==="sketchfab"){
     return(
       <PaneWrapper>
           <Box>
             <Watermark props={data.metadata.attribution.institution}/>
-            <Viewer url={data.resource} />
+            <SketchFabViewer url={data.resource} />
           </Box>
           <Box sx={{alignSelf:'center', marginTop: '3%'}}>
             <MetaData data={data.metadata}/>
           </Box>
       </PaneWrapper>
-    )} else if (data.type==="video"){
+    )} else if (data.type==="digimorph"){
     return(
       <PaneWrapper>
           <Box sx={{display:'flex',justifyContent:'center'}}>

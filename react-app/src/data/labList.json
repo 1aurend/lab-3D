@@ -1,158 +1,346 @@
 {
-  "lab 5":{
-    "title":"5: Amniota and Sauria",
-    "tree":"tree5.svg",
-    "default":"#202_sphenodonskull",
-    "nodes":{
-      "5-1-Reptiliomorpha":{
-        "title":"5.1 Reptiliomorpha"
+  "labs": [
+    {
+      "id": "lab 5",
+      "title": "5: Amniota and Sauria",
+      "tree": "tree5.svg",
+      "default": "#202_sphenodonskull",
+      "lastAvailable": "1585768977420",
+      "nodes": [
+        {
+          "nid": "5-1-Reptiliomorpha",
+          "ntitle": "5.1 Reptiliomorpha"
         },
-      "5-2-Amniota":{
-        "title":"5.2 Amniota"
+        {
+          "nid": "5-2-Amniota",
+          "ntitle": "5.2 Amniota"
         },
-      "5-3-Sauropsida":{
-        "title":"5.3 Sauropsida"
+        {
+          "nid": "5-3-Sauropsida",
+          "ntitle": "5.3 Sauropsida"
         },
-      "5-4-Diapsida":{
-        "title":"5.4 Diapsida"
+        {
+          "nid": "5-4-Diapsida",
+          "ntitle": "5.4 Diapsida"
         },
-      "5-5-Sauria":{
-        "title":"5.5 Sauria"
+        {
+          "nid": "5-5-Sauria",
+          "ntitle": "5.5 Sauria"
         },
-      "5-6-Lepidosauromorpha":{
-        "title":"5.6 Lepidosauromorpha"
+        {
+          "nid": "5-6-Lepidosauromorpha",
+          "ntitle": "5.6 Lepidosauromorpha"
         },
-      "5-7-Lepidosauria":{
-        "title":"5.7 Lepidosauria"
+        {
+          "nid": "5-7-Lepidosauria",
+          "ntitle": "5.7 Lepidosauria"
         },
-      "5-8-Squamata":{
-        "title":"5.8 Squamata"
+        {
+          "nid": "5-8-Squamata",
+          "ntitle": "5.8 Squamata"
         },
-      "5-9-Archosauromorpha":{
-        "title":"5.9 Archosauromorpha"
+        {
+          "nid": "5-9-Archosauromorpha",
+          "ntitle": "5.9 Archosauromorpha"
         },
-      "5-10-Archosauriformes":{
-        "title":"5.10 Archosauriformes"
+        {
+          "nid": "5-10-Archosauriformes",
+          "ntitle": "5.10 Archosauriformes"
         },
-      "5-11-Archosauria":{
-        "title":"5.11 Archosauria"
+        {
+          "nid": "5-11-Archosauria",
+          "ntitle": "5.11 Archosauria"
         },
-      "5-12-Pseudosuchia":{
-        "title":"5.12 Pseudosuchia"
+        {
+          "nid": "5-12-Pseudosuchia",
+          "ntitle": "5.12 Pseudosuchia"
         },
-      "5-13-Crocodylomorpha":{
-        "title":"5.13 Crocodylomorpha"
+        {
+          "nid": "5-13-Crocodylomorpha",
+          "ntitle": "5.13 Crocodylomorpha"
         },
-      "5-14-Mesoeucrocodylia":{
-        "title":"5.14 Mesoeucrocodylia"
+        {
+          "nid": "5-14-Mesoeucrocodylia",
+          "ntitle": "5.14 Mesoeucrocodylia"
         },
-      "5-15-Eusuchia":{
-        "title":"5.15 Eusuchia"
+        {
+          "nid": "5-15-Eusuchia",
+          "ntitle": "5.15 Eusuchia"
         },
-      "5-16-Crocodylia":{
-        "title":"5.16 Crocodylia"
+        {
+          "nid": "5-16-Crocodylia",
+          "ntitle": "5.16 Crocodylia"
         }
-      }
-  },
-  "lab 6":{
-    "title":"6: Dinosauria",
-    "tree":"tree6.svg",
-    "default":"#12_alligatormississipiensiship",
-    "nodes":{
-      "6-0-Archosauria":{
-        "title":"6.0 Archosauria"
-      },
-      "6-1-Avemetatarsalia":{
-        "title":"6.1 Avemetatarsalia"
-      },
-      "6-2-Dinosauria":{
-        "title":"6.2 Dinosauria"
-      },
-      "6-3-Ornithischia":{
-        "title":"6.3 Ornithischia"
-      },
-      "6-4-Thyreophora":{
-        "title":"6.4 Thyreophora"
-      },
-      "6-5-Marginocephalia":{
-        "title":"6.5 Marginocephalia"
-      },
-      "6-6-Ornithopoda":{
-        "title":"6.6 Ornithopoda"
-      },
-      "6-7-Saurischia":{
-        "title":"6.7 Saurischia"
-      },
-      "6-8-Sauropoda":{
-        "title":"6.8 Sauropoda"
-      },
-      "6-9-Theropoda":{
-        "title":"6.9 Theropoda"
-      },
-      "6-10-Tetanurae":{
-        "title":"6.10 Tetanurae"
-      },
-      "6-11-Coelurosauria":{
-        "title":"6.11 Coelurosauria"
-      },
-      "6-12-Maniraptora":{
-        "title":"6.12 Maniraptora"
-      },
-      "6-13-Paraves":{
-        "title":"6.13 Paraves"
-      },
-      "6-14-Avialae":{
-        "title":"6.14 Avialae"
-      },
-      "6-15-Aves":{
-        "title":"6.15 Aves"
-      }
+      ]
+    },
+    {
+      "id": "lab 6",
+      "title": "6: Dinosauria",
+      "tree": "tree6.svg",
+      "default": "#12_alligatormississipiensiship",
+      "lastAvailable": "1585768977420",
+      "nodes": [
+        {
+          "nid": "6-0-Archosauria",
+          "ntitle": "6.0 Archosauria"
+        },
+        {
+          "nid": "6-1-Avemetatarsalia",
+          "ntitle": "6.1 Avemetatarsalia"
+        },
+        {
+          "nid": "6-2-Dinosauria",
+          "ntitle": "6.2 Dinosauria"
+        },
+        {
+          "nid": "6-3-Ornithischia",
+          "ntitle": "6.3 Ornithischia"
+        },
+        {
+          "nid": "6-4-Thyreophora",
+          "ntitle": "6.4 Thyreophora"
+        },
+        {
+          "nid": "6-5-Marginocephalia",
+          "ntitle": "6.5 Marginocephalia"
+        },
+        {
+          "nid": "6-6-Ornithopoda",
+          "ntitle": "6.6 Ornithopoda"
+        },
+        {
+          "nid": "6-7-Saurischia",
+          "ntitle": "6.7 Saurischia"
+        },
+        {
+          "nid": "6-8-Sauropoda",
+          "ntitle": "6.8 Sauropoda"
+        },
+        {
+          "nid": "6-9-Theropoda",
+          "ntitle": "6.9 Theropoda"
+        },
+        {
+          "nid": "6-10-Tetanurae",
+          "ntitle": "6.10 Tetanurae"
+        },
+        {
+          "nid": "6-11-Coelurosauria",
+          "ntitle": "6.11 Coelurosauria"
+        },
+        {
+          "nid": "6-12-Maniraptora",
+          "ntitle": "6.12 Maniraptora"
+        },
+        {
+          "nid": "6-13-Paraves",
+          "ntitle": "6.13 Paraves"
+        },
+        {
+          "nid": "6-14-Avialae",
+          "ntitle": "6.14 Avialae"
+        },
+        {
+          "nid": "6-15-Aves",
+          "ntitle": "6.15 Aves"
+        }
+      ]
+    },
+    {
+      "id": "lab 7",
+      "title": "7: Reptile Soup",
+      "tree": "tree7.svg",
+      "default": "#366_anhanguerapiscatorwhole",
+      "lastAvailable": "1585768977420",
+      "nodes": [
+        {
+          "nid": "7-1-Pterosauria",
+          "ntitle": "7.1 Pterosauria"
+        },
+        {
+          "nid": "7-2-Mesosauria",
+          "ntitle": "7.2 Mesosauria"
+        },
+        {
+          "nid": "7-3-Ichthyopterygia",
+          "ntitle": "7.3 Ichthyopterygia"
+        },
+        {
+          "nid": "7-4-Sauropterygia",
+          "ntitle": "7.4 Sauropterygia"
+        },
+        {
+          "nid": "7-5-Mosasauroidea",
+          "ntitle": "7.5 Mosasauroidea"
+        },
+        {
+          "nid": "7-6-Parareptilia",
+          "ntitle": "7.6 Parareptilia"
+        },
+        {
+          "nid": "7-7-Procolophonia",
+          "ntitle": "7.7 Procolophonia"
+        },
+        {
+          "nid": "7-8-Pantestudines",
+          "ntitle": "7.8 Pantestudines"
+        },
+        {
+          "nid": "7-9-Testudinata",
+          "ntitle": "7.9 Testudinata"
+        }
+      ]
+    },
+    {
+      "id": "lab 8",
+      "title": "8: Basal Synapsids",
+      "tree": "tree8.svg",
+      "default": "#98_dimetrodonlimbatusskull",
+      "lastAvailable": "1585768977420",
+      "nodes": [
+        {
+          "nid": "8-1-Synapsida",
+          "ntitle": "8.1 Synapsida"
+        },
+        {
+          "nid": "8-2-Therapsida",
+          "ntitle": "8.2 Therapsida"
+        },
+        {
+          "nid": "8-3-Theriodontia",
+          "ntitle": "8.3 Theriodontia"
+        },
+        {
+          "nid": "8-4-Cynodontia",
+          "ntitle": "8.4 Cynodontia"
+        },
+        {
+          "nid": "8-5-Eucynodontia",
+          "ntitle": "8.5 Eucynodontia"
+        },
+        {
+          "nid": "8-6-Cynognathia",
+          "ntitle": "8.6 Cynognathia"
+        },
+        {
+          "nid": "8-7-Probainognathia",
+          "ntitle": "8.7 Probainognathia"
+        },
+        {
+          "nid": "8-8-Mammaliamorpha",
+          "ntitle": "8.8 Mammaliamorpha"
+        }
+      ]
+    },
+    {
+      "id": "lab 9",
+      "title": "9: Mammaliaformes, Monotremata and Metatheria",
+      "tree": "tree9.svg",
+      "default": "#314_morganucodonoehleriskull",
+      "lastAvailable": "1585768977420",
+      "nodes": [
+        {
+          "nid": "9-1-Mammaliaformes",
+          "ntitle": "9.1 Mammaliaformes"
+        },
+        {
+          "nid": "9-2-Mammalia",
+          "ntitle": "9.2 Mammalia"
+        },
+        {
+          "nid": "9-3-Australosphenida",
+          "ntitle": "9.3 Australosphenida"
+        },
+        {
+          "nid": "9-4-Monotremata",
+          "ntitle": "9.4 Monotremata"
+        },
+        {
+          "nid": "9-5-Theriimorpha",
+          "ntitle": "9.5 Theriimorpha"
+        },
+        {
+          "nid": "9-6-Theriiformes",
+          "ntitle": "9.6 Theriiformes"
+        },
+        {
+          "nid": "9-7-Prototribosphenida",
+          "ntitle": "9.7 Prototribosphenida"
+        },
+        {
+          "nid": "9-8-Boreosphenida",
+          "ntitle": "9.8 Boreosphenida"
+        },
+        {
+          "nid": "9-9-Theria",
+          "ntitle": "9.9 Theria"
+        },
+        {
+          "nid": "9-10-Metatheria",
+          "ntitle": "9.10 Metatheria"
+        },
+        {
+          "nid": "9-11-Eutheria",
+          "ntitle": "9.11 Eutheria"
+        }
+      ]
+    },
+    {
+      "id": "lab 10",
+      "title": "10: Placentals",
+      "tree": "tree10.svg",
+      "default": "#93_variousmammalsskulls",
+      "lastAvailable": "1585768977420",
+      "nodes": [
+        {
+          "nid": "10-1-Placentalia",
+          "ntitle": "10.1 Placentalia"
+        },
+        {
+          "nid": "10-2-Atlantogenata",
+          "ntitle": "10.2 Atlantogenata"
+        },
+        {
+          "nid": "10-3-Afrotheria",
+          "ntitle": "10.3 Afrotheria"
+        },
+        {
+          "nid": "10-4-Xenarthra",
+          "ntitle": "10.4 Xenarthra"
+        },
+        {
+          "nid": "10-5-Boreoeutheria",
+          "ntitle": "10.5 Boreoeutheria"
+        },
+        {
+          "nid": "10-6-Euarchontoglires",
+          "ntitle": "10.6 Euarchontoglires"
+        },
+        {
+          "nid": "10-7-Glires",
+          "ntitle": "10.7 Glires"
+        },
+        {
+          "nid": "10-8-Laurasiatheria",
+          "ntitle": "10.8 Laurasiatheria"
+        },
+        {
+          "nid": "10-9-Cetartiodactyla",
+          "ntitle": "10.9 Cetartiodactyla"
+        },
+        {
+          "nid": "10-10-Perissodactyla",
+          "ntitle": "10.10 Perissodactyla"
+        },
+        {
+          "nid": "10-11-Ferae",
+          "ntitle": "10.11 Ferae"
+        },
+        {
+          "nid": "10-12-Carnivora",
+          "ntitle": "10.12 Carnivora"
+        }
+      ]
     }
-  },
-  "lab 7":{
-    "title":"7: Reptile Soup",
-    "tree":"tree7.svg",
-    "default":"#366_anhanguerapiscatorwhole",
-    "nodes":{
-      "7-1-Pterosauria":{
-        "title":"7.1 Pterosauria"
-      },
-      "7-2-Mesosauria":{
-        "title":"7.2 Mesosauria"
-      },
-      "7-3-Ichthyopterygia":{
-        "title":"7.3 Ichthyopterygia"
-      },
-      "7-4-Sauropterygia":{
-        "title":"7.4 Sauropterygia"
-      },
-      "7-5-Mosasauroidea":{
-        "title":"7.5 Mosasauroidea"
-      },
-      "7-6-Parareptilia":{
-        "title":"7.6 Parareptilia"
-      },
-      "7-7-Procolophonia":{
-        "title":"7.7 Procolophonia"
-      },
-      "7-8-Pantestudines":{
-        "title":"7.8 Pantestudines"
-      },
-      "7-9-Testudinata":{
-        "title":"7.9 Testudinata"
-      }
-    }
-  },
-  "lab 8":{
-    "title":"8: Basal Synapsids",
-    "nodes":{}
-  },
-  "lab 9":{
-    "title":"9: Mammaliaformes, Monotremata, and Metatheria",
-    "nodes":{}
-  },
-  "lab 10":{
-    "title":"10: Eutheria",
-    "nodes":{}
-  }
+  ]
 }

@@ -169,6 +169,19 @@
       "resource": "0ced4af2abd549b093e2e71a7af66079"
     },
     {
+      "id": "#14_pascualgnathuspolanskiiskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/pascualgnathus-polanskii-e899c2b45da442f4af27468a5063af59",
+          "institution": "Museo de La Plata"
+        },
+        "taxon": "Pascualgnathus polanskii",
+        "description": "skull"
+      },
+      "type": "sketchfab",
+      "resource": "e899c2b45da442f4af27468a5063af59"
+    },
+    {
       "id": "#15_polyglyphanodonwhole",
       "metadata": {
         "attribution": {
@@ -279,6 +292,20 @@
       },
       "type": "sketchfab",
       "resource": "f8ac324b6f48424fb6a3fc4c0e6b9b58"
+    },
+    {
+      "id": "#23_diprotodonoptatumskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/diprotodon-optatum-skull-48a0eb77122843da96493585dcea4f60",
+          "institution": "University of Queensland and University of New South Wales",
+          "people": "Ian Sobbe"
+        },
+        "taxon": "Diprotodon optatum",
+        "description": "skull"
+      },
+      "type": "sketchfab",
+      "resource": "48a0eb77122843da96493585dcea4f60"
     },
     {
       "id": "#24_varanusskull",
@@ -531,6 +558,19 @@
       },
       "type": "sketchfab",
       "resource": "db3b0c1417314e0981968e90e17012bd"
+    },
+    {
+      "id": "#42_merychippushindlimb",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/merychippus-posterior-d4e1a001d8c7463287a1d3c9f72315d0",
+          "institution": "Museo de La Plata"
+        },
+        "taxon": "Merychippus",
+        "description": "hindlimb"
+      },
+      "type": "sketchfab",
+      "resource": "d4e1a001d8c7463287a1d3c9f72315d0"
     },
     {
       "id": "#43_staurikosaurusfemur",
@@ -870,276 +910,324 @@
     },
     {
       "id": "#67_ornithorhynchusskull",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Ornithorhynchus",
-        "description": "skull",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/67-ornithorhynchus-f609129c4d3a4f4aa2ca7c9328d76db4",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Ornithorhynchus",
+        "description": "skull"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "f609129c4d3a4f4aa2ca7c9328d76db4"
     },
     {
       "id": "#68_didelphisskull",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Didelphis",
-        "description": "skull",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/68-didelphis-e691b6d9a4364bbc95f6d7ab20354c4e",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Didelphis",
+        "description": "skull"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "e691b6d9a4364bbc95f6d7ab20354c4e"
     },
     {
       "id": "#69_dinodontosaurusverts",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Dinodontosaurus",
-        "description": "verts",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/69-dinodontosaurus-verts-deb92102f50d4dcbaf2c61bc646c0938",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Dinodontosaurus",
+        "description": "verts"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "deb92102f50d4dcbaf2c61bc646c0938"
     },
     {
       "id": "#70_dinodontosaurusskull",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Dinodontosaurus",
-        "description": "skull",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/70-dinodontosaurus-skull-29a7bd75799347dcbd06dfcb037e276d",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Dinodontosaurus",
+        "description": "skull"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "29a7bd75799347dcbd06dfcb037e276d"
     },
     {
       "id": "#71_ophiacodonverts",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Ophiacodon",
-        "description": "verts",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/71-ophiacodon-verts-49828ea564a94ca882dde03ddfcc7c81",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Ophiacodon",
+        "description": "verts"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "49828ea564a94ca882dde03ddfcc7c81"
+    },
+    {
+      "id": "#72_didelphodustribosphenicb",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/94-tribosphenica-ee6134dbbabd4dcfbc2d6ce1ee0a6b04",
+          "institution": "Museum of Comparative Zoology (MCZ)",
+          "people": "PF-L"
+        },
+        "taxon": "Didelphodus",
+        "description": "tribosphenicB"
+      },
+      "type": "sketchfab",
+      "resource": "ee6134dbbabd4dcfbc2d6ce1ee0a6b04"
     },
     {
       "id": "#73_edaphosaurusspine",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Edaphosaurus",
-        "description": "spine",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/73-edaphosaurus-spine-5e7113855ca24da994f17eb86d8055a3",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Edaphosaurus",
+        "description": "spine"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "5e7113855ca24da994f17eb86d8055a3"
+    },
+    {
+      "id": "#74_merychippusforelimb",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/merychippus-anterior-c31c99c41aa641cf8cccb574df64761e",
+          "institution": "Museo de La Plata"
+        },
+        "taxon": "Merychippus",
+        "description": "forelimb"
+      },
+      "type": "sketchfab",
+      "resource": "c31c99c41aa641cf8cccb574df64761e"
     },
     {
       "id": "#75_kayentatheriumwellesiskull",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Kayentatherium wellesi",
-        "description": "skull",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/75-kayentatherium-96bee3407cfb487cb371cb8cacbaa1df",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Kayentatherium wellesi",
+        "description": "skull"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "96bee3407cfb487cb371cb8cacbaa1df"
     },
     {
       "id": "#76_massetognathusteruggiipostdentarybones",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Massetognathus teruggii",
-        "description": "postdentary bones",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/76-massetognathus-teruggii-2fcebb9cc27048128ed57b70906a90e7",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Massetognathus teruggii",
+        "description": "postdentary bones"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "2fcebb9cc27048128ed57b70906a90e7"
     },
     {
       "id": "#77_diprotodonincisor",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Diprotodon",
-        "description": "incisor",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/77-diprotodon-incisor-7b556c21a8b44b30b8f5caa473fe8cf7",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Diprotodon",
+        "description": "incisor"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "7b556c21a8b44b30b8f5caa473fe8cf7"
     },
     {
       "id": "#78_glyptodonreticulatusmandible",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Glyptodon reticulatus",
-        "description": "mandible",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/78-glyptodon-mandible-96875c4c203444e9b35677e26d2767c9",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Glyptodon reticulatus",
+        "description": "mandible"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "96875c4c203444e9b35677e26d2767c9"
     },
     {
       "id": "#79_thylacoleocarnifextooth",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Thylacoleo carnifex",
-        "description": "tooth",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/79-thylacoleo-tooth-6dc916da7abe4bca831bec9b26e22c2e",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Thylacoleo carnifex",
+        "description": "tooth"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "6dc916da7abe4bca831bec9b26e22c2e"
     },
     {
       "id": "#80_steropodongalmaniteeth",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Steropodon galmani",
-        "description": "teeth",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/80-steropodon-b963b7a36d234ca285564d331551d2a2",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Steropodon galmani",
+        "description": "teeth"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "b963b7a36d234ca285564d331551d2a2"
     },
     {
       "id": "#81_oxyaenaultimaandhyenadonhorridusjaws",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Oxyaena ultima and Hyenadon horridus",
-        "description": "jaws",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/81-oxyaena-hyenadon-822253440b4341d7b7e5b016b72b1d07",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Oxyaena ultima and Hyenadon horridus",
+        "description": "jaws"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "822253440b4341d7b7e5b016b72b1d07"
     },
     {
       "id": "#82_barburofelissptooth",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Barburofelis sp",
-        "description": "tooth",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/82-barburofelis-48d962a2857445ed8e34af3c18044ac0",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Barburofelis sp",
+        "description": "tooth"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "48d962a2857445ed8e34af3c18044ac0"
     },
     {
       "id": "#83_monosaulaxwhole",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Monosaulax",
-        "description": "whole",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/83-monosaulax-beaver-2b8f40002e3b44779e1da64b21c0b600",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Monosaulax",
+        "description": "whole"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "2b8f40002e3b44779e1da64b21c0b600"
     },
     {
       "id": "#84_mammuthuscolumbitooth",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Mammuthus columbi",
-        "description": "tooth",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/84-mammuthus-columbi-821aaae34c0141deb65db4c976ad47ca",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Mammuthus columbi",
+        "description": "tooth"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "821aaae34c0141deb65db4c976ad47ca"
     },
     {
       "id": "#85_bisoncrassicornusandmoropuselatusfemora",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Bison crassicornus and Moropus elatus",
-        "description": "femora",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/85-femora-bison-moropus-2300f2373ac748b9b80eafcfe1183eed",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Bison crassicornus and Moropus elatus",
+        "description": "femora"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "2300f2373ac748b9b80eafcfe1183eed"
     },
     {
       "id": "#86_bisoncrassicornusandmoropuselatusastragali",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Bison crassicornus  and Moropus elatus",
-        "description": "astragali",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/86-astragali-bison-moropus-e2b842d47b0943a8800f4e449911bfb8",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Bison crassicornus  and Moropus elatus",
+        "description": "astragali"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "e2b842d47b0943a8800f4e449911bfb8"
     },
     {
       "id": "#87_basilosauruscetoidesverts",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Basilosaurus cetoides",
-        "description": "verts",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/87-basilosaurus-f1779138576a4efc9495e70f43fdadbf",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Basilosaurus cetoides",
+        "description": "verts"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "f1779138576a4efc9495e70f43fdadbf"
     },
     {
       "id": "#88_bisonbisonmetacarpal",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Bison bison",
-        "description": "metacarpal",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/88-bison-metacarpal-ab167bf142be441ca0e31bb6b58b5ae0",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Bison bison",
+        "description": "metacarpal"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "ab167bf142be441ca0e31bb6b58b5ae0"
     },
     {
       "id": "#89_pseudohippariongratumfoot",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Pseudohipparion gratum",
-        "description": "foot",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/89-pseudohipparion-foot-c9ce0250971e4bff9d30268ed3dae3fd",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Pseudohipparion gratum",
+        "description": "foot"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "c9ce0250971e4bff9d30268ed3dae3fd"
     },
     {
       "id": "#90_typothoraxcoccinarumankle",
@@ -1171,84 +1259,90 @@
     },
     {
       "id": "#92_commonsealbulla",
-      "type": "sketchfab",
       "metadata": {
-        "taxon": "Common seal",
-        "description": "bulla",
         "attribution": {
+          "origin": "https://sketchfab.com/3d-models/92-common-seal-bulla-b5b99220ec344997850039c37dda6c80",
           "institution": "Museum of Comparative Zoology (MCZ)",
           "people": "PF-L"
-        }
+        },
+        "taxon": "Common seal",
+        "description": "bulla"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "b5b99220ec344997850039c37dda6c80"
     },
     {
       "id": "#93_variousmammalsskulls",
-      "type": "sketchfab",
       "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/93-board-of-skulls-bcdb8fe08ee54d13b4bfad34f137a05c",
+          "institution": "Museum of Comparative Zoology (MCZ)",
+          "people": "PF-L"
+        },
         "taxon": "Various mammals",
-        "description": "skulls",
-        "attribution": {
-          "institution": "Museum of Comparative Zoology (MCZ)",
-          "people": "PF-L"
-        }
+        "description": "skulls"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "bcdb8fe08ee54d13b4bfad34f137a05c"
     },
     {
-      "id": "#94_didelphodustribosphenic",
-      "type": "sketchfab",
+      "id": "#94_didelphodustribosphenica",
       "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/94-tribosphenic-b-af6fb3714dfd41b4a4812b5cf624289f",
+          "institution": "Museum of Comparative Zoology (MCZ)",
+          "people": "PF-L"
+        },
         "taxon": "Didelphodus",
-        "description": "tribosphenic",
-        "attribution": {
-          "institution": "Museum of Comparative Zoology (MCZ)",
-          "people": "PF-L"
-        }
+        "description": "tribosphenicA"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "af6fb3714dfd41b4a4812b5cf624289f"
     },
     {
-      "id": "#96_ptilodusmontanustooth",
-      "type": "sketchfab",
+      "id": "#95_ptilodusmontanustooth",
       "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/96-ptilodus-4c5ba3baccad4149912aef52f25e5d1c",
+          "institution": "Museum of Comparative Zoology (MCZ)",
+          "people": "PF-L"
+        },
         "taxon": "Ptilodus montanus",
-        "description": "tooth",
-        "attribution": {
-          "institution": "Museum of Comparative Zoology (MCZ)",
-          "people": "PF-L"
-        }
+        "description": "tooth"
       },
-      "resource": "#N/A"
+      "type": "sketchfab",
+      "resource": "4c5ba3baccad4149912aef52f25e5d1c"
     },
     {
-      "id": "#97_docodontooth",
-      "type": "sketchfab",
+      "id": "#96_docodontooth",
       "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/97-docodon-1afb153ddfad4a43bb23ea01bf407333",
+          "institution": "Museum of Comparative Zoology (MCZ)",
+          "people": "PF-L"
+        },
         "taxon": "Docodon",
-        "description": "tooth",
-        "attribution": {
-          "institution": "Museum of Comparative Zoology (MCZ)",
-          "people": "PF-L"
-        }
+        "description": "tooth"
       },
-      "resource": "#N/A"
-    },
-    {
-      "id": "#98_dimetrodonlimbatusskull",
       "type": "sketchfab",
-      "metadata": {
-        "taxon": "Dimetrodon limbatus",
-        "description": "skull",
-        "attribution": {
-          "institution": "Museum of Comparative Zoology (MCZ)",
-          "people": "PF-L"
-        }
-      },
-      "resource": "#N/A"
+      "resource": "1afb153ddfad4a43bb23ea01bf407333"
     },
     {
-      "id": "#99_pythonspskull",
+      "id": "#97_dimetrodonlimbatusskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/98-dimetrodon-2c03d0ffc35943a68f7aea7f42b52a07",
+          "institution": "Museum of Comparative Zoology (MCZ)",
+          "people": "PF-L"
+        },
+        "taxon": "Dimetrodon limbatus",
+        "description": "skull"
+      },
+      "type": "sketchfab",
+      "resource": "2c03d0ffc35943a68f7aea7f42b52a07"
+    },
+    {
+      "id": "#98_pythonspskull",
       "metadata": {
         "attribution": {
           "origin": "https://sketchfab.com/3d-models/99-python-ventral-6fc299556cc64b01b2b2ffee76b7a6b6",
@@ -1262,7 +1356,7 @@
       "resource": "6fc299556cc64b01b2b2ffee76b7a6b6"
     },
     {
-      "id": "#100_teinolophosplatypusteeth",
+      "id": "#99_teinolophosplatypusteeth",
       "metadata": {
         "attribution": {
           "origin": "http://digimorph.org/specimens/Teinolophos_trusleri/216575/",
@@ -1272,11 +1366,11 @@
         "taxon": "Teinolophos platypus",
         "description": "teeth"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Teinolophos_trusleri/216575/"
     },
     {
-      "id": "#101_obdurodonplatypusskull",
+      "id": "#100_obdurodonplatypusskull",
       "metadata": {
         "attribution": {
           "origin": "http://digimorph.org/specimens/Obdurodon_dicksoni/",
@@ -1286,7 +1380,7 @@
         "taxon": "Obdurodon platypus",
         "description": "skull"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Obdurodon_dicksoni/"
     },
     {
@@ -2003,7 +2097,7 @@
         },
         "taxon": "mole "
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://www.digimorph.org/specimens/Talpa_europaea/"
     },
     {
@@ -2014,7 +2108,7 @@
         },
         "taxon": "hedgehog"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/hedgehog_sp/whole/"
     },
     {
@@ -2025,7 +2119,7 @@
         },
         "taxon": "dusky (true) shrew"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://www.digimorph.org/specimens/Sorex_monticolus/head/"
     },
     {
@@ -2049,7 +2143,7 @@
         },
         "taxon": "elephant shrew"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/macroscelides_proboscideus/skull/"
     },
     {
@@ -2061,7 +2155,7 @@
         },
         "taxon": "golden mole"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Chrysochloris_sp/whole/"
     },
     {
@@ -2073,7 +2167,7 @@
         },
         "taxon": "aardvark"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Orycteropus_afer/"
     },
     {
@@ -2085,7 +2179,7 @@
         },
         "taxon": "tenrec"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Hemicentetes_semispinosus/head/"
     },
     {
@@ -5512,9 +5606,6 @@
       },
       "type": "sketchfab",
       "resource": "1716beb09e064b02a9a1e74e0646eed8"
-    },
-    {
-      "id": "#421_"
     }
   ]
 }
