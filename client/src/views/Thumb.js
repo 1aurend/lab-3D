@@ -4,14 +4,12 @@ import { Box, Image } from 'rebass/styled-components'
 import { HoverContext } from '../Viewer'
 import db from '../data/lookup.json'
 
-
+const imgSz = 128
 
 const ThumbBox = styled(Box)`
   position: fixed;
   z-index: 50;
   background-color: none;
-  height: 128px;
-  width: 256px;
 `
 
 
@@ -29,25 +27,26 @@ const Thumb = (props) => {
     },[show])
   useMemo(()=>{
     const data = db.specimens.find(object => object.id==hover);
-    console.log(data.resource);
+    // console.log(data.resource);
     if (data.type==="sketchfab") {
       fetch("https://api.sketchfab.com/v3/models/"+data.resource)
       .then(res => res.json())
-      .then(body => body.thumbnails.images.find(item=>item.width==256))
+      .then(body => body.thumbnails.images.find(item=>item.width>=0.5*imgSz && item.width<=2*imgSz))
       .then(image => setThumbnail(image.url))
       .catch(console.log)
     } else if (data.type==="image") {
       setThumbnail(data.resource)
+    } else if (data.type==="digimorph") {
+      setThumbnail(data.resource)
     }
   },[hover])
-  console.log("url is "+thumbnail);
   if (show){
     return (
       <ThumbBox sx={{
         top:position.posY,
         left:position.posX
       }}>
-        <Image src={thumbnail}/>
+        <Image sx={{borderRadius:"5px",width:imgSz}} src={thumbnail}/>
       </ThumbBox>
     )
   } else {

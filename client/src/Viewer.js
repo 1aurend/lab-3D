@@ -50,7 +50,7 @@ export default function App() {
   },[lab])
 
 
-  console.log(lookup)
+  // console.log(lookup)
 
 
   return (

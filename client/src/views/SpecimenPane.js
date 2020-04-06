@@ -70,7 +70,7 @@ const SpecimenPane = () => {
   //           <MetaData data={data.metadata}/>
   //         </Box>
   //     </PaneWrapper>
-  //   )} else if (data.type==="video"){
+  //   )} else if (data.type==="digimorph"){
   //   return(
   //     <PaneWrapper>
   //         <Box sx={{display:'flex',justifyContent:'center'}}>

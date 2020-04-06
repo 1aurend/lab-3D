@@ -1272,7 +1272,7 @@
         "taxon": "Teinolophos platypus",
         "description": "teeth"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Teinolophos_trusleri/216575/"
     },
     {
@@ -1286,7 +1286,7 @@
         "taxon": "Obdurodon platypus",
         "description": "skull"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Obdurodon_dicksoni/"
     },
     {
@@ -2003,7 +2003,7 @@
         },
         "taxon": "mole "
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://www.digimorph.org/specimens/Talpa_europaea/"
     },
     {
@@ -2014,7 +2014,7 @@
         },
         "taxon": "hedgehog"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/hedgehog_sp/whole/"
     },
     {
@@ -2025,7 +2025,7 @@
         },
         "taxon": "dusky (true) shrew"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://www.digimorph.org/specimens/Sorex_monticolus/head/"
     },
     {
@@ -2049,7 +2049,7 @@
         },
         "taxon": "elephant shrew"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/macroscelides_proboscideus/skull/"
     },
     {
@@ -2061,7 +2061,7 @@
         },
         "taxon": "golden mole"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Chrysochloris_sp/whole/"
     },
     {
@@ -2073,7 +2073,7 @@
         },
         "taxon": "aardvark"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Orycteropus_afer/"
     },
     {
@@ -2085,7 +2085,7 @@
         },
         "taxon": "tenrec"
       },
-      "type": "video",
+      "type": "digimorph",
       "resource": "http://digimorph.org/specimens/Hemicentetes_semispinosus/head/"
     },
     {

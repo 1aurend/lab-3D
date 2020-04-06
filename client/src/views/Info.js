@@ -12,10 +12,17 @@ const Info = ({show, handler}) => {
   const setSpecimen = useContext(SetIdContext)
   const node = useContext(NodeContext)
   const setHover = useContext(SetHoverContext)
+  const debounceHandler = debounce(handler, 500, {'leading':false})
+  const [debounceState, setDebounceState] = useState(null)
+  useEffect(()=>{
+    // console.log("debouncing to: "+debounceState);
+    debounceHandler(debounceState)
+  },[debounceState])
+
 
   const LinkCatcher=(props)=>{
     return(
-      <span onMouseEnter={()=>{handler(true);setHover(props.href)}} onMouseLeave={()=>{debounce(handler(false),100)}}>
+      <span onMouseEnter={()=>{setDebounceState(true);setHover(props.href)}} onMouseLeave={()=>{setDebounceState(false)}}>
         <Link sx={{color:'blue'}}
         onClick={()=> {setSpecimen(props.href); console.log(specimen)}}
         style={{fontWeight:'bold', cursor:'pointer'}} >{props.children}</Link>

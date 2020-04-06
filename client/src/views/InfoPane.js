@@ -35,11 +35,6 @@ const InfoPane = () => {
   const node = useContext(NodeContext)
   const setNode = useContext(SetNodeContext)
   const [show, setShow] = useState(false)
-  useEffect(()=>{
-    console.log("toggled show to: "+show);
-  },[show])
-
-
 
   return(
     <Pane sx={{width:['100%','35%']}}>
