@@ -1,24 +1,25 @@
 import React, {lazy, Suspense, useContext, useEffect, useState, useMemo} from 'react';
 import styled from 'styled-components';
-import { Link, Box, Flex, Image } from 'rebass/styled-components'
+import { Button, Link, Box, Flex, Image } from 'rebass/styled-components'
 import {MDXProvider} from '@mdx-js/react'
-import { SetIdContext, IdContext, NodeContext } from '../Viewer'
+import { SetIdContext, IdContext, NodeContext, SetHoverContext } from '../Viewer'
+import { throttle, debounce } from "lodash";
+
 
 
 const Info = ({show, handler}) => {
   const specimen = useContext(IdContext)
   const setSpecimen = useContext(SetIdContext)
   const node = useContext(NodeContext)
+  const setHover = useContext(SetHoverContext)
 
   const LinkCatcher=(props)=>{
     return(
-      <>
+      <span onMouseEnter={()=>{handler(true);setHover(props.href)}} onMouseLeave={()=>{debounce(handler(false),100)}}>
         <Link sx={{color:'blue'}}
         onClick={()=> {setSpecimen(props.href); console.log(specimen)}}
-        onMouseEnter={()=>{handler(true);console.log('mouse entered')}}
-        onMouseLeave={()=>{handler(false);console.log('mouse left')}}
         style={{fontWeight:'bold', cursor:'pointer'}} >{props.children}</Link>
-      </>
+      </span>
     )
   }
 

@@ -9,7 +9,8 @@ import Tree from './views/Tree-svg'
 import labList from './data/labList'
 import theme from './theme'
 
-
+export const HoverContext = React.createContext()
+export const SetHoverContext = React.createContext()
 export const IdContext = React.createContext()
 export const SetIdContext = React.createContext()
 export const NodeContext = React.createContext()
@@ -39,6 +40,8 @@ export default function App() {
   const [lab, setLab] = useState("lab 7")
   const [node, setNode] = useState(Object.keys(labList[lab]["nodes"])[0])
   const [id, setId] = useState(labList[lab]["default"])
+  const [hover, setHover] = useState(labList[lab]["default"])
+
   useEffect (() => {
     setNode(Object.keys(labList[lab]["nodes"])[0])
   },[lab])
@@ -63,8 +66,12 @@ export default function App() {
                       <Tree iconSize={iconSize}/>
                     </TreeBox>
                     <Galaxy sx={{flexFlow:['column nowrap', 'row nowrap']}}>
-                      <InfoPane />
-                      <SpecimenPane />
+                      <HoverContext.Provider value={hover}>
+                        <SetHoverContext.Provider value={setHover}>
+                          <InfoPane />
+                          <SpecimenPane />
+                        </SetHoverContext.Provider>
+                      </HoverContext.Provider>
                     </Galaxy>
                   </Universe>
                 </ThemeProvider>
