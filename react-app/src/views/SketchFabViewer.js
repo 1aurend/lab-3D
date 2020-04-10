@@ -20,7 +20,7 @@ const ViewerFrame = styled.iframe`
 
 const Viewer = (props) => {
     const targetRef = useRef(null);
-    const urlid = props.url;
+    const urlid = props.url.split("-").slice(-1);
     useEffect(() => {
       const client = new window.Sketchfab(targetRef.current);
       client.init(urlid, {

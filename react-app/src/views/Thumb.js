@@ -29,7 +29,7 @@ const Thumb = (props) => {
     const data = db.specimens.find(object => object.id==hover);
     // console.log(data.resource);
     if (data.type==="sketchfab") {
-      fetch("https://api.sketchfab.com/v3/models/"+data.resource)
+      fetch("https://api.sketchfab.com/v3/models/"+data.resource.split("-").slice(-1))
       .then(res => res.json())
       .then(body => body.thumbnails.images.find(item=>item.width>=0.5*imgSz && item.width<=2*imgSz))
       .then(image => setThumbnail(image.url))
