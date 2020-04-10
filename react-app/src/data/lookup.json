@@ -1359,29 +1359,29 @@
       "id": "#99_teinolophosplatypusteeth",
       "metadata": {
         "attribution": {
-          "origin": "http://digimorph.org/specimens/Teinolophos_trusleri/216575/",
+          "origin": "http://digimorph.org/specimens/Teinolophos_trusleri/216575/YawSpinJawMatrix.mp4",
           "institution": "Museum Victoria (NMV)",
           "people": "Matthew Colbert, Jessie Maisano"
         },
         "taxon": "Teinolophos platypus",
         "description": "teeth"
       },
-      "type": "digimorph",
-      "resource": "http://digimorph.org/specimens/Teinolophos_trusleri/216575/"
+      "type": "video-digimorph",
+      "resource": "http://digimorph.org/specimens/Teinolophos_trusleri/216575/YawSpinJawMatrix.mp4"
     },
     {
       "id": "#100_obdurodonplatypusskull",
       "metadata": {
         "attribution": {
-          "origin": "http://digimorph.org/specimens/Obdurodon_dicksoni/",
+          "origin": "http://digimorph.org/specimens/Obdurodon_dicksoni/RollSpinHeadSkel.mp4",
           "institution": "Queensland Museum (QM)",
           "people": "Richard Ketcham, Jessie Maisano"
         },
         "taxon": "Obdurodon platypus",
         "description": "skull"
       },
-      "type": "digimorph",
-      "resource": "http://digimorph.org/specimens/Obdurodon_dicksoni/"
+      "type": "video-digimorph",
+      "resource": "http://digimorph.org/specimens/Obdurodon_dicksoni/RollSpinHeadSkel.mp4"
     },
     {
       "id": "#101_tachyglossusaculeatuswhole",
@@ -2093,34 +2093,34 @@
       "id": "#158_mole",
       "metadata": {
         "attribution": {
-          "origin": "http://www.digimorph.org/specimens/Talpa_europaea/"
+          "origin": "http://www.digimorph.org/specimens/Talpa_europaea/YawSpinHeadSkel.mp4"
         },
         "taxon": "mole "
       },
-      "type": "digimorph",
-      "resource": "http://www.digimorph.org/specimens/Talpa_europaea/"
+      "type": "video-digimorph",
+      "resource": "http://www.digimorph.org/specimens/Talpa_europaea/YawSpinHeadSkel.mp4"
     },
     {
       "id": "#159_hedgehog",
       "metadata": {
         "attribution": {
-          "origin": "http://digimorph.org/specimens/hedgehog_sp/whole/"
+          "origin": "http://digimorph.org/specimens/hedgehog_sp/whole/YawSpinBodySkel.mp4"
         },
         "taxon": "hedgehog"
       },
-      "type": "digimorph",
-      "resource": "http://digimorph.org/specimens/hedgehog_sp/whole/"
+      "type": "video-digimorph",
+      "resource": "http://digimorph.org/specimens/hedgehog_sp/whole/YawSpinBodySkel.mp4"
     },
     {
       "id": "#160_dusky(true)shrew",
       "metadata": {
         "attribution": {
-          "origin": "http://www.digimorph.org/specimens/Sorex_monticolus/head/"
+          "origin": "http://www.digimorph.org/specimens/Sorex_monticolus/head/YawSpinHeadSkel.mp4"
         },
         "taxon": "dusky (true) shrew"
       },
-      "type": "digimorph",
-      "resource": "http://www.digimorph.org/specimens/Sorex_monticolus/head/"
+      "type": "video-digimorph",
+      "resource": "http://www.digimorph.org/specimens/Sorex_monticolus/head/YawSpinHeadSkel.mp4"
     },
     {
       "id": "#161_rattusskull",
@@ -2143,44 +2143,44 @@
         },
         "taxon": "elephant shrew"
       },
-      "type": "digimorph",
+      "type": "video-digimorph",
       "resource": "http://digimorph.org/specimens/macroscelides_proboscideus/skull/"
     },
     {
       "id": "#163_goldenmole",
       "metadata": {
         "attribution": {
-          "origin": "http://digimorph.org/specimens/Chrysochloris_sp/whole/",
+          "origin": "http://digimorph.org/specimens/Chrysochloris_sp/whole/YawSpinBodySkel.mp4",
           "institution": "AMNH 82372"
         },
         "taxon": "golden mole"
       },
-      "type": "digimorph",
-      "resource": "http://digimorph.org/specimens/Chrysochloris_sp/whole/"
+      "type": "video-digimorph",
+      "resource": "http://digimorph.org/specimens/Chrysochloris_sp/whole/YawSpinBodySkel.mp4"
     },
     {
       "id": "#164_aardvark",
       "metadata": {
         "attribution": {
-          "origin": "http://digimorph.org/specimens/Orycteropus_afer/",
+          "origin": "http://digimorph.org/specimens/Orycteropus_afer/YawSpinHeadSkel.mp4",
           "institution": "AMNH 51909"
         },
         "taxon": "aardvark"
       },
-      "type": "digimorph",
-      "resource": "http://digimorph.org/specimens/Orycteropus_afer/"
+      "type": "video-digimorph",
+      "resource": "http://digimorph.org/specimens/Orycteropus_afer/YawSpinHeadSkel.mp4"
     },
     {
       "id": "#165_tenrec",
       "metadata": {
         "attribution": {
-          "origin": "http://digimorph.org/specimens/Hemicentetes_semispinosus/head/",
+          "origin": "http://digimorph.org/specimens/Hemicentetes_semispinosus/head/YawSpinHeadSkel.mp4",
           "institution": "AMNH 100837"
         },
         "taxon": "tenrec"
       },
-      "type": "digimorph",
-      "resource": "http://digimorph.org/specimens/Hemicentetes_semispinosus/head/"
+      "type": "video-digimorph",
+      "resource": "http://digimorph.org/specimens/Hemicentetes_semispinosus/head/YawSpinHeadSkel.mp4"
     },
     {
       "id": "#166_desmostylian",
@@ -5606,6 +5606,576 @@
       },
       "type": "sketchfab",
       "resource": "1716beb09e064b02a9a1e74e0646eed8"
+    },
+    {
+      "id": "#421_caseabroiliipostcrania",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/62/Casea_broili_postcranial.jpg",
+          "people": "ARH LeBlanc, RR Reisz"
+        },
+        "taxon": "Casea broilii",
+        "description": "postcrania"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/62/Casea_broili_postcranial.jpg"
+    },
+    {
+      "id": "#422_ischigualastiawhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/agentina-ischigualastia-dinosaur-49a7c7dc6d2445b8b2eb982fc61a345f",
+          "people": "guigus60"
+        },
+        "taxon": "Ischigualastia",
+        "description": "whole"
+      },
+      "type": "sketchfab",
+      "resource": "49a7c7dc6d2445b8b2eb982fc61a345f"
+    },
+    {
+      "id": "#423_caseabroiliiwhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Casea_FMNH.jpg",
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Smokeybjb"
+        },
+        "taxon": "Casea broilii",
+        "description": "whole"
+      },
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Casea_FMNH.jpg"
+    },
+    {
+      "id": "#424_caseametapodials",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/7/77/American_Permian_vertebrates_%28c1911%29_%2818133737056%29.jpg",
+          "people": "Samuel Wendell Williston"
+        },
+        "taxon": "Casea",
+        "description": "metapodials"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/7/77/American_Permian_vertebrates_%28c1911%29_%2818133737056%29.jpg"
+    },
+    {
+      "id": "#425_dimetrodongirdle",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Dimetrodon_skull.jpg",
+          "people": "Jeff Kubina"
+        },
+        "taxon": "Dimetrodon",
+        "description": "girdle"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Dimetrodon_skull.jpg"
+    },
+    {
+      "id": "#426_caseaskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Osteology_of_the_Reptiles_p51_Fig-42.png",
+          "people": "Samuel Wendell Williston"
+        },
+        "taxon": "Casea",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Osteology_of_the_Reptiles_p51_Fig-42.png"
+    },
+    {
+      "id": "#427_eothyrisskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Eothyris.jpg",
+          "people": "Frederik Spindler, Jocelyn Falconnet, and Jörg Fröbisch"
+        },
+        "taxon": "Eothyris",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Eothyris.jpg"
+    },
+    {
+      "id": "#428_archaeothyrisflorensisskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Archaeothyris.svg",
+          "people": "RR Reisz"
+        },
+        "taxon": "Archaeothyris florensis",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Archaeothyris.svg"
+    },
+    {
+      "id": "#429_ophiacodonpelvis",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/1/16/The_Osteology_of_the_Reptiles_p144_Fig-117.png",
+          "people": "Samuel Wendell Williston"
+        },
+        "taxon": "Ophiacodon",
+        "description": "pelvis"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/1/16/The_Osteology_of_the_Reptiles_p144_Fig-117.png"
+    },
+    {
+      "id": "#430_ophiacodonwhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ophiacodon_FMNH.jpg",
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Jonathan Chen"
+        },
+        "taxon": "Ophiacodon",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ophiacodon_FMNH.jpg"
+    },
+    {
+      "id": "#431_varanopsbrevirostriswhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Varanops-Field_Museum.jpg",
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Jonathan Chen"
+        },
+        "taxon": "Varanops brevirostris",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Varanops-Field_Museum.jpg"
+    },
+    {
+      "id": "#432_edaphosauruspogoniaswhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Edaphosaurus-Field_Museum.jpg",
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Jonathan Chen"
+        },
+        "taxon": "Edaphosaurus pogonias",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Edaphosaurus-Field_Museum.jpg"
+    },
+    {
+      "id": "#433_edaphosaurusdenticles",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/f/f6/The_Osteology_of_the_Reptiles-068_er66.png",
+          "people": "Samuel Wendell Williston"
+        },
+        "taxon": "Edaphosaurus",
+        "description": "denticles"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/f/f6/The_Osteology_of_the_Reptiles-068_er66.png"
+    },
+    {
+      "id": "#434_sphenacodonferoxwhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sphenacodon_ferox_2.jpg",
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Smokeybjb"
+        },
+        "taxon": "Sphenacodon ferox",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sphenacodon_ferox_2.jpg"
+    },
+    {
+      "id": "#435_dimetrodonwhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gfp-dimetrodon-skeleton.jpg",
+          "people": "Yinan Chen"
+        },
+        "taxon": "Dimetrodon",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gfp-dimetrodon-skeleton.jpg"
+    },
+    {
+      "id": "#436_dimetrodonskulldiagram",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dimetrodon_skull_lateral.svg",
+          "people": "M Laurin, RR Reisz"
+        },
+        "taxon": "Dimetrodon",
+        "description": "skull diagram"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dimetrodon_skull_lateral.svg"
+    },
+    {
+      "id": "#437_sphenacodonferoxskulldiagram",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_Osteology_of_the_Reptiles_p47.png",
+          "people": "Samuel Wendell Williston"
+        },
+        "taxon": "Sphenacodon ferox",
+        "description": "skull diagram"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_Osteology_of_the_Reptiles_p47.png"
+    },
+    {
+      "id": "#438_dimetrodonanderyopsskulls",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/dimetrodon-and-eryops-fca2b69dd1674c3884805f444c483acb",
+          "people": "Idaho Virtualization Laboratory"
+        },
+        "taxon": "Dimetrodon and Eryops",
+        "description": "skulls"
+      },
+      "type": "sketchfab",
+      "resource": "fca2b69dd1674c3884805f444c483acb"
+    },
+    {
+      "id": "#439_smilesaurusferoxskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Smilesaurus.png",
+          "people": "Christian Kammerer"
+        },
+        "taxon": "Smilesaurus ferox",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Smilesaurus.png"
+    },
+    {
+      "id": "#440_lycaenopsskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lycaenops_FMNH.jpg",
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Jonathan Chen"
+        },
+        "taxon": "Lycaenops",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lycaenops_FMNH.jpg"
+    },
+    {
+      "id": "#441_biarmosuchustenerwhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dinosaurium%2C_Biarmosuchus_tener_1.jpg",
+          "institution": "Dinosaurium",
+          "people": "Radim Holiš"
+        },
+        "taxon": "Biarmosuchus tener",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dinosaurium%2C_Biarmosuchus_tener_1.jpg"
+    },
+    {
+      "id": "#442_jonkeriaskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/0/05/Jonkeria-Field_Museum.jpg",
+          "institution": "Field Museum of Natural History (FMNH)",
+          "people": "Jonathan Chen"
+        },
+        "taxon": "Jonkeria",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/0/05/Jonkeria-Field_Museum.jpg"
+    },
+    {
+      "id": "#443_titanophoneuswhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/61/Titanophoneus_potens_%28fossil%29.jpg",
+          "people": "Pavel Bochkov"
+        },
+        "taxon": "Titanophoneus",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/61/Titanophoneus_potens_%28fossil%29.jpg"
+    },
+    {
+      "id": "#444_moschopscapensiswhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/65/Moschops.jpg",
+          "people": "Robert Broom"
+        },
+        "taxon": "Moschops capensis",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/65/Moschops.jpg"
+    },
+    {
+      "id": "#445_dicynodonskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Image_from_page_444_of_%22On_the_anatomy_of_vertebrates_%28electronic_resource%29%22_%281866%29_%2814753236794%29.jpg",
+          "people": "Richard Owen"
+        },
+        "taxon": "Dicynodon",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Image_from_page_444_of_%22On_the_anatomy_of_vertebrates_%28electronic_resource%29%22_%281866%29_%2814753236794%29.jpg"
+    },
+    {
+      "id": "#446_dicynodonsections",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/9/92/A_Study_of_the_Skull_of_a_Dicynodon_by_means_of_Serial_Sections_%281914%29_%2814763089444%29.jpg",
+          "people": "I Sollas, W Sollas"
+        },
+        "taxon": "Dicynodon",
+        "description": "sections"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/9/92/A_Study_of_the_Skull_of_a_Dicynodon_by_means_of_Serial_Sections_%281914%29_%2814763089444%29.jpg"
+    },
+    {
+      "id": "#447_biarmosuchustenerparasagittal",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dinosaurium%2C_Biarmosuchus_tener_2.jpg",
+          "people": "Radim Holiš"
+        },
+        "taxon": "Biarmosuchus tener",
+        "description": "parasagittal"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dinosaurium%2C_Biarmosuchus_tener_2.jpg"
+    },
+    {
+      "id": "#448_suminiaskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://www.researchgate.net/profile/Robert_Reisz/publication/11943313/figure/fig1/AS:280317249245203@1443844248889/Skull-of-Suminia-getmanovi-PIN-2212-62Scale-1-cm.png",
+          "people": "Robert Reisz"
+        },
+        "taxon": "Suminia",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://www.researchgate.net/profile/Robert_Reisz/publication/11943313/figure/fig1/AS:280317249245203@1443844248889/Skull-of-Suminia-getmanovi-PIN-2212-62Scale-1-cm.png"
+    },
+    {
+      "id": "#449_gorynychusmasyutinaeskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Gorynychus_masyutinae.png",
+          "people": "Christian Kammerer"
+        },
+        "taxon": "Gorynychus masyutinae",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Gorynychus_masyutinae.png"
+    },
+    {
+      "id": "#450_moschorhinusskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Annals_of_the_South_African_Museum_-_Annale_van_die_Suid-Afrikaanse_Museum_%281974%29_%2818418228921%29.jpg"
+        },
+        "taxon": "Moschorhinus",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Annals_of_the_South_African_Museum_-_Annale_van_die_Suid-Afrikaanse_Museum_%281974%29_%2818418228921%29.jpg"
+    },
+    {
+      "id": "#451_bauriaskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bauria.jpg",
+          "people": "Robert Broom"
+        },
+        "taxon": "Bauria",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bauria.jpg"
+    },
+    {
+      "id": "#452_sauroctonusparringtoniwhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sauroctonus_parringtoni_01.jpg",
+          "institution": "Staatliches Museum für Naturkunde Karlsruhe",
+          "people": "H. Zell "
+        },
+        "taxon": "Sauroctonus parringtoni",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sauroctonus_parringtoni_01.jpg"
+    },
+    {
+      "id": "#453_moschorhinuskitchingiskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/8/80/Annals_of_the_South_African_Museum_-_Annale_van_die_Suid-Afrikaanse_Museum_%281974%29_%2818228737998%29.jpg"
+        },
+        "taxon": "Moschorhinus kitchingi",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/8/80/Annals_of_the_South_African_Museum_-_Annale_van_die_Suid-Afrikaanse_Museum_%281974%29_%2818228737998%29.jpg"
+    },
+    {
+      "id": "#454_inostranceviaalexandriwhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Inostrancevia_alexandri_-_MUSE.jpg",
+          "people": "Matteo De Stefano"
+        },
+        "taxon": "Inostrancevia alexandri",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Inostrancevia_alexandri_-_MUSE.jpg"
+    },
+    {
+      "id": "#455_pascualgnathuspolanskiiwholeskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://sketchfab.com/3d-models/pascualgnathus-polanskii-55bf46184c80456cb7a8c7c52c540401",
+          "institution": "Museo de La Plata"
+        },
+        "taxon": "Pascualgnathus polanskii",
+        "description": "whole skull"
+      },
+      "type": "sketchfab",
+      "resource": "55bf46184c80456cb7a8c7c52c540401"
+    },
+    {
+      "id": "#456_thrinaxodonandbroomistegaburrow",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Synchrotron-Reveals-Early-Triassic-Odd-Couple-Injured-Amphibian-and-Aestivating-Therapsid-Share-pone.0064978.s001.ogv",
+          "people": "Vincent Fernandez et al"
+        },
+        "taxon": "Thrinaxodon and Broomistega",
+        "description": "burrow"
+      },
+      "type": "video-wikicommons",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Synchrotron-Reveals-Early-Triassic-Odd-Couple-Injured-Amphibian-and-Aestivating-Therapsid-Share-pone.0064978.s001.ogv"
+    },
+    {
+      "id": "#457_thrinaxodonliorhinuswhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/1/10/Thrinaxodon_liorhinus_BP_1_7199.jpg",
+          "people": "Vincent Fernandez et al"
+        },
+        "taxon": "Thrinaxodon liorhinus",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/1/10/Thrinaxodon_liorhinus_BP_1_7199.jpg"
+    },
+    {
+      "id": "#458_procynosuchuswhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/2/22/140307-procynosuchus.JPG",
+          "institution": "Wolfgang-Bonhage-Museum Korbach",
+          "people": "Lutz Benseler"
+        },
+        "taxon": "Procynosuchus",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/2/22/140307-procynosuchus.JPG"
+    },
+    {
+      "id": "#459_exaeretodonwhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cynodont.jpg",
+          "people": "CT Snow"
+        },
+        "taxon": "Exaeretodon",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cynodont.jpg"
+    },
+    {
+      "id": "#460_cynognathusskull",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cynognathus.JPG",
+          "institution": "Museum Mensch und Natur, Munchen",
+          "people": "Ghedoghedo"
+        },
+        "taxon": "Cynognathus",
+        "description": "skull"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cynognathus.JPG"
+    },
+    {
+      "id": "#461_cotylorhynchuswhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cotylorhynchus_romeri.jpg",
+          "institution": "American Museum of Natural History (AMNH)",
+          "people": "Ryan Somma"
+        },
+        "taxon": "Cotylorhynchus",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cotylorhynchus_romeri.jpg"
+    },
+    {
+      "id": "#462_cotylorhynchuswhole",
+      "metadata": {
+        "attribution": {
+          "origin": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cotylorhynchus_romeria_from_Norman%2C_Oklahoma.jpg",
+          "people": "Vince Smith"
+        },
+        "taxon": "Cotylorhynchus",
+        "description": "whole"
+      },
+      "type": "image",
+      "resource": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cotylorhynchus_romeria_from_Norman%2C_Oklahoma.jpg"
+    },
+    {
+      "id": "#463_"
+    },
+    {
+      "id": "#464_"
+    },
+    {
+      "id": "#465_"
+    },
+    {
+      "id": "#466_"
+    },
+    {
+      "id": "#467_"
     }
   ]
 }
