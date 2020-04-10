@@ -1,5 +1,4 @@
 import React, { useContext, useState, useEffect } from 'react'
-import { Lookup } from './AuthContext'
 import { Box, Flex } from 'rebass/styled-components'
 import styled, {ThemeProvider} from 'styled-components'
 import { useHistory, useParams } from 'react-router-dom'
@@ -36,8 +35,8 @@ const TreeBox = styled(Box)`
 
 
 export default function App() {
-  const lookup = useContext(Lookup)
-  const [lab, setLab] = useState(labList.labs[0].id)
+  // const [lab, setLab] = useState(labList.labs[0].id)
+  const [lab, setLab] = useState("lab 8")
   const [node, setNode] = useState(labList.labs[0].nodes[0].nid)
   const [id, setId] = useState(labList.labs[0].default)
   const [hover, setHover] = useState(labList.labs[0].default)
@@ -54,7 +53,6 @@ export default function App() {
   },[lab])
 
 
-  // console.log(lookup)
 
 
   return (

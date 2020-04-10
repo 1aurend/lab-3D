@@ -16,6 +16,8 @@ const Pane = styled(Box)`
 const Lightbox = styled(Image)`
   max-height: 75vh;
   width: auto;
+  object-fit: contain;
+  background-color:white;
 `
 
 const PaneWrapper = ({children}) => {
@@ -69,7 +71,7 @@ const SpecimenPane = () => {
             <MetaData data={data.metadata}/>
           </Box>
       </PaneWrapper>
-    )} else if (data.type==="digimorph"){
+    )} else if (data.type.split("-")[0]==="video"){
     return(
       <PaneWrapper>
           <Box sx={{display:'flex',justifyContent:'center'}}>

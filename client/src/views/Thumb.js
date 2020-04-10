@@ -29,24 +29,43 @@ const Thumb = (props) => {
     const data = db.specimens.find(object => object.id==hover);
     // console.log(data.resource);
     if (data.type==="sketchfab") {
-      fetch("https://api.sketchfab.com/v3/models/"+data.resource)
+      fetch("https://api.sketchfab.com/v3/models/"+data.resource.split("-").slice(-1))
       .then(res => res.json())
       .then(body => body.thumbnails.images.find(item=>item.width>=0.5*imgSz && item.width<=2*imgSz))
       .then(image => setThumbnail(image.url))
       .catch(console.log)
     } else if (data.type==="image") {
-      setThumbnail(data.resource)
-    } else if (data.type==="digimorph") {
-      setThumbnail(data.resource)
+      fetch(data.resource)
+      .then(function(response) {
+        return response.blob()})
+      .then(function(blob) {
+        const imgURL = URL.createObjectURL(blob)
+        setThumbnail(imgURL)
+      })
+    } else if (data.type==="video-wikicommons") {
+      const path = new URL(data.resource)
+      const pathArray = path.pathname.split("/")
+      const jpgURL = path.origin+pathArray.slice(0,3).join("/")+"/thumb/"+pathArray.slice(3).join("/")+"/200px--"+pathArray.slice(-1)[0]+".jpg"
+      fetch(jpgURL)
+      .then(function(response) {
+        return response.blob()})
+      .then(function(blob) {
+        const imgURL = URL.createObjectURL(blob)
+        setThumbnail(imgURL)
+      })
+    } else if (data.type==="video-digimorph") {
+      const path = data.resource
+      const jpgURL = path.split("/").slice(0,-1).join("/")+"/specimen.jpg"
+      setThumbnail(jpgURL)
     }
   },[hover])
   if (show){
     return (
       <ThumbBox sx={{
-        top:position.posY,
-        left:position.posX
+        top:position.posY+5,
+        left:position.posX+5
       }}>
-        <Image sx={{borderRadius:"8px",width:imgSz}} src={thumbnail}/>
+        <Image sx={{borderRadius:"8px",width:imgSz, boxShadow:"0px 3px 8px #A9A9A9", backgroundColor:"white"}} src={thumbnail}/>
       </ThumbBox>
     )
   } else {
