@@ -5,7 +5,7 @@ import { useHistory, useParams } from 'react-router-dom'
 import SpecimenPane from './views/SpecimenPane'
 import InfoPane from './views/InfoPane'
 import Tree from './views/Tree-svg'
-import labList from './data/labList'
+import data from './data/allLists'
 import theme from './theme'
 
 export const HoverContext = React.createContext()
@@ -37,19 +37,19 @@ const TreeBox = styled(Box)`
 export default function App() {
   // const [lab, setLab] = useState(labList.labs[0].id)
   const [lab, setLab] = useState("lab 8")
-  const [node, setNode] = useState(labList.labs[0].nodes[0].nid)
-  const [id, setId] = useState(labList.labs[0].default)
-  const [hover, setHover] = useState(labList.labs[0].default)
+  const [node, setNode] = useState(Object.keys(data.labs[lab].nodes)[0])
+  const [id, setId] = useState(data.nodes[node].default)
+  const [hover, setHover] = useState(id)
   console.log("lab is "+lab);
   console.log("node is "+node);
   console.log("id is "+id);
 
 
   useEffect (() => {
-    setNode(labList.labs.find(item => item.id==lab).nodes[0].nid)
+    setNode(Object.keys(data.labs[lab].nodes)[0])
   },[lab])
   useEffect (() => {
-    setId(labList.labs.find(item => item.id==lab).default)
+    setId(data.nodes[node].default)
   },[lab])
 
 

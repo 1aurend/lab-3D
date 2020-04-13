@@ -4,7 +4,7 @@ import {Box, Flex, System} from 'rebass/styled-components';
 import {Label, Select} from '@rebass/forms'
 import { LabContext, SetLabContext, NodeContext, SetNodeContext } from '../Viewer'
 import Info from './Info';
-import labList from '../data/labList'
+import data from '../data/allLists'
 import Thumb from './Thumb'
 
 
@@ -35,7 +35,6 @@ const InfoPane = () => {
   const node = useContext(NodeContext)
   const setNode = useContext(SetNodeContext)
   const [show, setShow] = useState(false)
-
   return(
     <Pane sx={{width:['100%','35%']}}>
 
@@ -45,9 +44,9 @@ const InfoPane = () => {
           id='labChoice'
           value={lab}
           onChange={e=>{setLab(e.target.value)}}>
-          {labList.labs.map(item=>(
-            <option value={item.id}>
-              {item.title}
+          {Object.entries(data.labs).map(item=>(
+            <option value={item[0]}>
+              {item[1].title}
             </option>
           ))}
         </Select>
@@ -58,9 +57,9 @@ const InfoPane = () => {
           id='nodeChoice'
           value={node}
           onChange={e=>{setNode(e.target.value)}}>
-          {labList.labs.find(item => item.id==lab).nodes.map(item=>(
-            <option value={item.nid}>
-              {item.ntitle}
+          {Object.entries(data.labs[lab].nodes).map(item=>(
+            <option value={item[0]}>
+              {item[1].title}
             </option>
           ))}
         </Select>

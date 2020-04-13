@@ -1,10 +1,9 @@
 import React, {lazy, Suspense, useContext, useEffect, useState, useMemo} from 'react';
 import styled from 'styled-components';
 import { Button, Link, Box, Flex, Image } from 'rebass/styled-components'
+import {MDXProvider} from '@mdx-js/react'
 import { SetIdContext, IdContext, NodeContext, SetHoverContext } from '../Viewer'
 import { throttle, debounce } from "lodash";
-import Markdown from 'markdown-to-jsx'
-import data from '../data/allLists'
 
 
 
@@ -36,13 +35,20 @@ const Info = ({show, handler}) => {
     a:LinkCatcher
   }
 
-  const Content = data.content[node].md
+  const Content = lazy(() => import('!babel-loader!mdx-loader!'+'../data/nodes/'+node+'.mdx'))
+  // const Content = lazy(() => importMDX('../data/nodes/5-1-reptiliomorpha.mdx'))
   return useMemo (()=> {
     return (
-      <Markdown options={{overrides:{a:{component:LinkCatcher}}}}>
-        {Content}
-      </Markdown>
+      <MDXProvider components={components}>
+        <Suspense fallback={<div>Loading...</div>}>
+          <Content />
+        </Suspense>
+      </MDXProvider>
       )
     }, [node])
 }
+
 export default Info;
+
+
+// ()=>setId(props.href)
