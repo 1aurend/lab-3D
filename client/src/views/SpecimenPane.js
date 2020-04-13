@@ -6,7 +6,8 @@ import { IdContext } from '../Viewer'
 import SketchFabViewer from './SketchFabViewer';
 import MetaData from './MetaData';
 import watermark from '../assets/watermark.png'
-import db from '../data/lookup.json'
+import data from '../data/allLists'
+
 
 
 const Pane = styled(Box)`
@@ -58,37 +59,37 @@ const Watermark = (props) => {
 
 
 const SpecimenPane = () => {
-  const specimen = useContext(IdContext)
-  const data = db.specimens.find(object => object.id==specimen)
-  if (data.type==="sketchfab"){
+  const specimenId = useContext(IdContext)
+  const specimen = data.specimens[specimenId]
+  if (specimen.type==="sketchfab"){
     return(
       <PaneWrapper>
           <Box>
-            <Watermark props={data.metadata.attribution.institution}/>
-            <SketchFabViewer url={data.resource} />
+            <Watermark props={specimen.metadata.attribution.institution}/>
+            <SketchFabViewer url={specimen.resource} />
           </Box>
           <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-            <MetaData data={data.metadata}/>
+            <MetaData data={specimen.metadata}/>
           </Box>
       </PaneWrapper>
-    )} else if (data.type.split("-")[0]==="video"){
+    )} else if (specimen.type.split("-")[0]==="video"){
     return(
       <PaneWrapper>
           <Box sx={{display:'flex',justifyContent:'center'}}>
-            <ReactPlayer url={data.resource} playing loop/>
+            <ReactPlayer url={specimen.resource} playing loop/>
           </Box>
           <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-            <MetaData data={data.metadata}/>
+            <MetaData data={specimen.metadata}/>
           </Box>
       </PaneWrapper>
     )} else {
     return(
       <PaneWrapper>
           <Box sx={{display:'flex',justifyContent:'center'}}>
-            <Lightbox src={data.resource} alt={data.metadata.taxon}/>
+            <Lightbox src={specimen.resource} alt={specimen.metadata.taxon}/>
           </Box>
           <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-            <MetaData data={data.metadata}/>
+            <MetaData data={specimen.metadata}/>
           </Box>
       </PaneWrapper>)}
 }
