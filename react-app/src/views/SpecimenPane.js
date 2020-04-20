@@ -10,9 +10,16 @@ import data from '../data/allLists'
 
 
 
-const Pane = styled(Box)`
-  height: 100%;
-`
+const Pane = props =>
+  <Box
+    {...props}
+    sx={{
+      height: '100%',
+      width:['100%','65%'],
+      backgroundColor: 'black'
+    }}
+  />
+
 
 const Lightbox = styled(Image)`
   max-height: 75vh;
@@ -23,7 +30,7 @@ const Lightbox = styled(Image)`
 
 const PaneWrapper = ({children}) => {
   return(
-    <Pane sx={{width:['100%','65%']}}>
+    <Pane>
       <Flex sx={{flexFlow:'column nowrap', position:'fixed', width:'inherit',top:'0%', justifyContent:'flex-start', alignItems:'stretch'}}>
       {children}
       </Flex>
@@ -61,6 +68,8 @@ const Watermark = (props) => {
 const SpecimenPane = () => {
   const specimenId = useContext(IdContext)
   const specimen = data.specimens[specimenId]
+  console.log(specimen);
+
   if (specimen.type==="sketchfab"){
     return(
       <PaneWrapper>
@@ -69,7 +78,7 @@ const SpecimenPane = () => {
             <SketchFabViewer url={specimen.resource} />
           </Box>
           <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-            <MetaData data={specimen.metadata}/>
+            <MetaData data={specimen}/>
           </Box>
       </PaneWrapper>
     )} else if (specimen.type.split("-")[0]==="video"){
@@ -79,7 +88,7 @@ const SpecimenPane = () => {
             <ReactPlayer url={specimen.resource} playing loop/>
           </Box>
           <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-            <MetaData data={specimen.metadata}/>
+            <MetaData data={specimen}/>
           </Box>
       </PaneWrapper>
     )} else {
@@ -89,7 +98,7 @@ const SpecimenPane = () => {
             <Lightbox src={specimen.resource} alt={specimen.metadata.taxon}/>
           </Box>
           <Box sx={{alignSelf:'center', marginTop: '3%'}}>
-            <MetaData data={specimen.metadata}/>
+            <MetaData data={specimen}/>
           </Box>
       </PaneWrapper>)}
 }

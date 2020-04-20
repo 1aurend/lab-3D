@@ -233,7 +233,7 @@
       "ntitle" : "8.5 Eucynodontia"
     },
     "8-6-Cynognathia" : {
-      "md" : "# 8.6 Cynognathia \r\n### (Early Triassic - Late Triassic) \r\n\r\nKey Features\r\n+ __[Very deep zygomatic arch](#317_diademodontetragonusskull)__\r\n\r\n__Cynognathia__ (“dog-jaw”) is defined as the least-inclusive clade including *__[Exaeretodon](#459_exaeretodonwhole)__* and excluding *Probainognathus*. This group includes the carnivorous __Cynognathidae__ and the herbivorous __Gomphodontia,__ and is characterized by a __deep zygomatic arch__ and __diverse tooth morphologies.__\r\n\r\nThe __[Cynognathidae](#460_cynognathusskull)__ retained the carnivorous lifestyle ancestral to cynodonts; many of their cheek teeth preserve wear from chewing meat, indicating both carnivory and mastication. This clade persisted until the Middle Triassic before going extinct.\r\n\r\nThe __Gomphodontia__ (“peg-tooth”) comprise the Early and Middle Triassic __[Diademodontidae](#317_diademodontetragonusskull)__ (“band-tooth”), and the __[Traversodontidae](#455_pascualgnathuspolanskiiwholeskull)__ (“across-tooth”), which survived until the end of the Triassic. These herbivorous animals featured __precise tooth occlusion__ and often __propalinal jaw motion,__ likely for shearing plant matter between their cheek teeth. The traversodontids were quite successful, with over 20 species known from the Middle and Late Triassic.",
+      "md" : "# 8.6 Cynognathia \r\n### (Early Triassic - Late Triassic) \r\n## Key Features\r\n+ __[Very deep zygomatic arch](#317_diademodontetragonusskull)__\r\n\r\n__Cynognathia__ (“dog-jaw”) is defined as the least-inclusive clade including *__[Exaeretodon](#459_exaeretodonwhole)__* and excluding *Probainognathus*. This group includes the carnivorous __Cynognathidae__ and the herbivorous __Gomphodontia,__ and is characterized by a __deep zygomatic arch__ and __diverse tooth morphologies.__\r\n\r\nThe __[Cynognathidae](#460_cynognathusskull)__ retained the carnivorous lifestyle ancestral to cynodonts; many of their cheek teeth preserve wear from chewing meat, indicating both carnivory and mastication. This clade persisted until the Middle Triassic before going extinct.\r\n\r\nThe __Gomphodontia__ (“peg-tooth”) comprise the Early and Middle Triassic __[Diademodontidae](#317_diademodontetragonusskull)__ (“band-tooth”), and the __[Traversodontidae](#455_pascualgnathuspolanskiiwholeskull)__ (“across-tooth”), which survived until the end of the Triassic. These herbivorous animals featured __precise tooth occlusion__ and often __propalinal jaw motion,__ likely for shearing plant matter between their cheek teeth. The traversodontids were quite successful, with over 20 species known from the Middle and Late Triassic.",
       "ntitle" : "8.6 Cynognathia"
     },
     "8-7-Probainognathia" : {
@@ -245,47 +245,47 @@
       "ntitle" : "8.8 Mammaliamorpha"
     },
     "9-1-Mammaliaformes" : {
-      "md" : "# 9.1 Mammaliaformes \r\n### (Late Triassic - Present)\r\n## Key Features\r\n+ __Fur__\r\n+ __Diphyodonty__ (two sets of teeth in animal’s lifetime)\r\n+ __Determinate growth__\r\n+ __Lactation__\r\n+ __Large brain__\r\n+ __Stronger vertebral regionalization__\r\n+ Well-developed d __entary-squamosal jaw articulation__\r\n+ __Double-rooted cheek teeth__\r\n\r\n__Mammaliaformes__ (“mammal-form”) are those synapsids more closely related to extant mammals than Tritylodontids or Tritheledontids. This group sees the first occurrence of many important features generally considered to be “mammalian”. \r\n\r\nThe most basal and earliest known mammaliform is *__Adelobasileus__*, which shares some braincase features with crown mammals. *__Sinocodon__* is another basal mammaliaform from the Lower Jurassic of China, and has an inner ear resembling that of crown mammals.\r\n\r\nSlightly more derived basal Mammaliaformes include the __Morganucodonta__, the __Haramiyida__, and the __Docodonta__. *__Morganucodon__* is known from quite complete material in the Late Triassic/Early Jurassic, and shows the jaw joint and braincase features of basal mammaliaforms, but also __differentiation of cheek teeth into premolars and molars__ and some degree of __diphyodonty__. Many of its teeth are cusped, with a large primary cusp flanked by two smaller accessory cusps, all arranged in a straight line. __Docodonts__ are known from the Middle to Late Jurassic of Asia, Europe, and North America. This group was quite diverse in ecology, and includes forms like the tiny, arboreal *__Agilodocodon__*, as well as *__Castorocauda__* (literally: ‘beaver-tail’), which had a very beaver-like tail and was most likely piscivorous. Finally, __haramiyids__ were some of the earliest and most basal herbivorous mammaliaforms, persisting from the Late Triassic to the Late Cretaceous. They are known mostly from their complexly cusped teeth.\r\n\r\nThe most derived non-mammalian mammaliaforms currently known are *__Hadrocodium__* and possibly *__Kuehneotherium__*. *Kuehneotherium* is known from dentition in the Lower Jurassic, and its phylogenetic position is somewhat contested—some analyses place it as a stem therian, others as more basal than docodonts. *Kuehneotherium* is important because of the triangular arrangement of its accessory cusps, which is informative for the evolution of the tribosphenic molar. *__Hadrocodium__* was a tiny (3.2 cm), mouselike stem mammal from the Early Jurassic of China. This animal had a __fully-formed middle ear with all three inner ear ossicles__, as well as an __enlarged brain__ like a modern mammal.",
+      "md" : "# 9.1 Mammaliaformes \r\n### (Late Triassic - Present)\r\n## Key Features\r\n+ __[Fur](#463_megaconustailfur)__\r\n+ __[Diphyodonty](#464_homosapiensmixeddentition)__ (two sets of teeth in animal’s lifetime)\r\n+ __Determinate growth__\r\n+ __Lactation__\r\n+ __[Large brain](#314_morganucodonoehleriskull)__\r\n+ __[Stronger vertebral regionalization](#103_sarcophilusharrisiiwhole)__\r\n+ Well-developed __[dentary-squamosal jaw articulation](#314_morganucodonoehleriskull)__\r\n+ __[Double-rooted cheek teeth](#473_homosapiensdentition)__\r\n\r\n__Mammaliaformes__ (“mammal-form”) are those synapsids more closely related to extant mammals than Tritylodontids or Tritheledontids. This group sees the first occurrence of many important features generally considered to be “mammalian”. \r\n\r\n*__[Sinocondon](#467_sinoconodonskull)__* is a basal mammaliaform from the Lower Jurassic of China, and has an inner ear resembling that of crown mammals. Slightly more derived basal Mammaliaformes include the __Morganucodonta__ and the __Docodonta__. *__[Morganucodon](#314_morganucodonoehleriskull)__* is known from quite complete material in the Late Triassic/Early Jurassic, and shows the jaw joint and braincase features of basal mammaliaforms, but also __differentiation of cheek teeth into premolars and molars__ and some degree of __diphyodonty__. Many of its teeth are cusped, with a large primary cusp flanked by two smaller accessory cusps, all arranged in a straight line. \r\n\r\n__[Docodonts](#96_docodontooth)__ are known from the Middle to Late Jurassic of Asia, Europe, and North America. This group was quite diverse in ecology, and includes forms like the tiny, arboreal *__[Agilodocodon](#477_agilodocodonwhole)__*, as well as *__[Castorocauda](#476_castorocaudawhole)__* (literally: ‘beaver-tail’), which has a very beaver-like tail and was most likely piscivorous. Docodonts possess __[pseudotribosphenic molars](#474_tribosphenicandpseudotribosphenicmolars)__, which are functionally convergent on the true tribosphenic molars in crown mammals, but differ in that the crushing surface of the lower molar is located at the anterior end of the tooth, making it a “pseudo-talonid” and not a true talonid. This morphology is also found in the __[shuotheriids](#475_haldanodonandshuotheriummolars)__, which are likely stem australosphenid mammals.\r\n\r\nThe most derived non-mammalian mammaliaforms currently known are *__Hadrocodium__* and possibly *__Kuehneotherium__*. *__[Kuehneotherium](#479_kuehneotheriumstanislaviteeth)__* is known from dentition in the Lower Jurassic, and its phylogenetic position is somewhat contested—some analyses place it as a stem therian, others as more basal than docodonts. *Kuehneotherium* is important because of the triangular arrangement of its accessory cusps, which is informative for the evolution of the tribosphenic molar. *__[Hadrocodium](#315_hadrocodiumwuiskull)__* is a tiny (3.2 cm), mouselike stem mammal from the Early Jurassic of China. In addition to an __enlarged, mammalian brain__, this animal has a __fully-formed middle ear with all three inner ear ossicles__ —the quadrate and the articular are now the incus and the malleus, and are no longer part of the jaw joint.",
       "ntitle" : "9.1 Mammaliaformes"
     },
     "9-10-Metatheria" : {
-      "md" : "# 9.10 Metatheria \r\n### (Late Jurassic? - Present)\r\n## Key Features\r\n+ __Monophyodonty__ (only third premolar is replaced) \r\n+ __3 or fewer premolars__\r\n\r\n__Metatheria__ (“after-beast”) are those therians more closely related to extant marsupials than to placentals. Living marsupials are distinguished by having __limited intrauterine development__ and __prolonged development while feeding on milk__, often in a __pouch__. The earliest known metatherian is the arboreal *__Sinodelphys__* from the Early Cretaceous, however, a ghost lineage likely extended back to the Jurassic. The __Deltatheroida__ are another clade of non-marsupialian metatherians, from the Late Cretaceous of Asia and North America. This group shows dentition similar to modern marsupials, __only replacing the third premolar__. They were actually quite large for the time, and likely carnivorous.\r\n\r\nCrown __Marsupialia__ are known from the Cretaceous and once enjoyed much greater diversity than their extant lineages would suggest. The biogeographic history of this group is also very interesting, and they were the only mammals to inhabit Australia prior to human colonization. They can be distinguished from other metatherians by the presence of a __medially-reflected lamina__ of the lower jaw. Compared to eutherians, they tend to __lack a postorbital bar__, and posess __posterior palatal vacuities__, __smaller braincases__, and __more incisors__. Marsupials converged on many ecologies and morphologies found in placentals, including the saber-toothed *__Thylacosmilus__* and the carnivore *__Thylacoleo__*, which evolved a __blade-like carnassial__ like those found in the eutherian carnivorans. They also evolved unique locomotor behaviors, like the __saltatory__ kangaroos and wallabies. *__Diprotodon__* is a giant, extinct, wombat-like animal, and an example of the megafaunal marsupials that dominated ecosystems in Australia from the Late Oligocene to the Pleistocene.",
+      "md" : "# 9.10 Metatheria \r\n### (Late Jurassic? - Present)\r\n## Key Features\r\n+ __[Monophyodonty](#134_didelphisvirginianaskull)__ (only third premolar is replaced) \r\n+ __[3 or fewer premolars](#498_thylacinecynocephaluscranium)__\r\n\r\n__[Metatheria](#496_vombatusursinuscranium)__ (“after-beast”) are those therians more closely related to extant marsupials than to placentals. Living marsupials are distinguished by having __limited intrauterine development__ and __prolonged development while feeding on milk__, often in a __pouch__. The earliest known metatherian is the arboreal *__[Sinodelphys](#493_sinodelphyswhole)__* from the Early Cretaceous, however, a ghost lineage likely extended back to the Jurassic. \r\n\r\nCrown __Marsupialia__ are known from the Cretaceous and once enjoyed much greater diversity than their extant lineages would suggest. The biogeographic history of this group is also very interesting, and they were the only mammals to inhabit Australia prior to human colonization. They can be distinguished from other metatherians by the presence of a __[medially-reflected lamina](#68_didelphisskull)__ of the lower jaw. Marsupials converged on many ecologies and morphologies found in placentals, including the saber-toothed *__[Thylacosmilus](#494_thylacosmilusatroxskull)__* and the carnivore *__[Thylacoleo](#495_thylacoleocarnifexcranium)__*, which evolved a __blade-like carnassial__ like those found in the eutherian carnivorans. They also evolved unique locomotor behaviors, like the __saltatory__ __[kangaroos and wallabies](#497_lagorchestescranium)__. *__[Diprotodon](#23_diprotodonoptatumskull)__* is a giant, extinct, wombat-like animal, and an example of the megafaunal marsupials that dominated ecosystems in Australia from the Late Oligocene to the Pleistocene.\r\n\r\nCompared to eutherians, metatherians tend to __lack a postorbital bar__, and posess __posterior palatal vacuities, incomplete auditory bullae, smaller braincases,__ and __more incisors__. ",
       "ntitle" : "9.10 Metatheria"
     },
     "9-11-Eutheria" : {
-      "md" : "# 9.11 Eutheria \r\n### (Late Jurassic - Present)\r\n## Key Features\r\n+ __Diphyodonty__\r\n+ __Absence of epipubic bones__\r\n+ __Complete auditory bulla__\r\n\r\nThe __Eutheria__ (“good-beast”) are those therians more closely related to extant placentals than to extant marsupials. The only living eutherians, the __Placentalia__, all have a __placenta__ and __prolonged intrauterine development__. However, we know very little about reproduction in basal eutherians like *__Juramaia__* and *__Eomaia__*. *__Juramaia__* from the Late Jurassic was only described in 2011, and is critical for understanding the timing of therian evolution—it pushes back the splitting of Eutheria and Metatheria 35 million years. *__Eomaia__* was an Early Cretaceous insectivore, known from a single exceptional fossil that preserves an impression of fur. Both of these animals are thought to be somewhat arboreal because of their __elongated phalanges__, a feature that may have been primitive for eutherians.",
+      "md" : "# 9.11 Eutheria \r\n### (Late Jurassic - Present)\r\n## Key Features\r\n+ __[Diphyodonty](#464_homosapiensmixeddentition)__\r\n+ __[Absence of epipubic bones](#194_pumaconcolorwhole)__\r\n+ __[Complete auditory bulla](#92_commonsealbulla)__\r\n\r\nThe __Eutheria__ (“good-beast”) are those therians more closely related to extant placentals than to extant marsupials. The only living eutherians, the __Placentalia__, all have a persistent __[placenta](#468_homosapiensplacenta)__ and __prolonged intrauterine development__. However, we know very little about reproduction in basal eutherians like *__Juramaia__* and *__Eomaia__*. *__[Juramaia](#472_juramaiawhole)__* from the Late Jurassic was only described in 2011, and is critical for understanding the timing of therian evolution—it pushes back the splitting of Eutheria and Metatheria 35 million years. *__[Eomaia](#469_eomaiascansoriawhole)__* was an Early Cretaceous insectivore, known from a single exceptional fossil that preserves an impression of fur. Both of these animals are thought to be somewhat arboreal because of their __[elongated phalanges](#470_eomaiaandsinodelphyshumerusandcarpus)__, a feature that may have been primitive for eutherians.\r\n\r\nIn addition to the various cranial contrasts mentioned at the previous node, a couple of features in the postcranial skeleton can also be used to tell eutherians and metatherians apart. Cenozoic eutherians do not possess __[epipubic bones](#103_sarcophilusharrisiiwhole)__ —these projecting structures may serve a locomotory function in other mammals by providing attachment sites for muscles that stiffen the trunk, but may have been lost in eutherians to make room for an expanded placenta. In place of the epipubic bones, many eutherians possess a __[baculum](#471_odobenusrosmarusbaculum)__ or __os clitoridis__.   ",
       "ntitle" : "9.11 Eutheria"
     },
     "9-2-Mammalia" : {
-      "md" : "# 9.2 Mammalia \r\n### (Middle Jurassic - Present)\r\n\r\n__Mammalia__ is a crown-group clade including the ancestor of all living mammals, from the platypus to humans, and all of that ancestor’s descendants. There are actually very few major synapomorphies for this clade— as you have seen, most of the features that distinguish extant mammals from other amniotes actually appeared earlier in the synapsid line.",
+      "md" : "# 9.2 Mammalia \r\n### (Middle Jurassic - Present)\r\n\r\n__Mammalia__ is a crown-group clade including the ancestor of all living mammals, from the platypus to humans, and all of that ancestor’s descendants. We do not require you to learn any synapomorphies for this clade—as you have seen, most of the features that distinguish extant mammals from other amniotes actually appeared earlier in the synapsid line.",
       "ntitle" : "9.2 Mammalia"
     },
     "9-3-Australosphenida" : {
-      "md" : "# 9.3 Australosphenida \r\n### (Middle Jurassic - Present)\r\n## Key Features\r\n+ __Tribosphenic molar__ (convergent with Boreosphenida)\r\n+ __Wrapping cingulid__ on teeth\r\n\r\nThe __Australosphenida__ (‘southern-wedge’) include those organisms more closely related to extant monotremes than to therians. This includes many extinct monotremes and non-monotremes, in addition to living forms, all of which are known only from the southern supercontinent __Gondwana__ (hence the name). The oldest species, *__Ambondro__*, is from the Middle Jurassic and shows a well-developed __tribosphenic molar__. This is a much earlier occurrence than the first known therian tribosphenic molars, suggesting a dual (convergent) origin of this key feature. ",
+      "md" : "# 9.3 Australosphenida \r\n### (Middle Jurassic - Present)\r\n## Key Features\r\n+ __[Tribosphenic molar](#80_steropodongalmaniteeth)__ (convergent with Boreosphenida)\r\n+ __[Wrapping cingulid](#80_steropodongalmaniteeth)__ extends to lingual side of teeth\r\n\r\nThe __Australosphenida__ (‘southern-wedge’) include those organisms more closely related to extant monotremes than to therians. This includes many extinct monotremes and non-monotremes, in addition to living forms, all of which are known only from the southern supercontinent __Gondwana__ (hence the name). \r\n\r\nThe oldest known australosphenid, *__[Ambondro](#481_ambondroteeth)__*, is from the Middle Jurassic and shows a well-developed __[tribosphenic molar](#480_australosphenidamolar)__. This is a much earlier occurrence than the first known therian tribosphenic molars, suggesting a dual (convergent) origin of this key feature in the australosphenids and the later boreosphenids. ",
       "ntitle" : "9.3 Australosphenida"
     },
     "9-4-Monotremata" : {
-      "md" : "# 9.4 Monotremata \r\n### (Middle Cretaceous - Present)\r\n\r\nThe __Monotremata__ (“single-hole”) include the most recent common ancestor of the living __platypus__ ( *__Ornithorhynchus__* ), the four living __echidnas__ ( *__Tachyglossus__* & *__Zaglossus__* ), and all of that ancestor’s descendants. This group is distinguished from other extant mammals by several plesiomorphic features, like the retention of an __interclavicle__ and __large coracoids__ in the pectoral girdle, a __poorly-regionalized vertebral column__, __sprawling limb posture__, and __oviparity__. All living monotremes lack teeth as adults (although platypus do have baby teeth), which is a bit of a problem since what little fossil record exists for monotremes consists mostly of teeth. Modern forms have highly-derived cranial anatomy specialized for eating ants/termites in forests (Tachyglossa) or crushing crustaceans in rivers (Platypoda).",
+      "md" : "# 9.4 Monotremata \r\n### (Middle Cretaceous - Present)\r\n## Key Features\r\n+ __[Plesiomorphic pectoral girdle](#499_tachyglossuswhole)__ w ith an interclavicle and large coracoids \r\n+ __[Poorly-regionalized vertebral column](#499_tachyglossuswhole)__ \r\n+ __[Sprawling limb posture](#499_tachyglossuswhole)__\r\n+ __[Oviparity](#482_ornithorhynchusnest)__\r\n\r\nThe __Monotremata__ (“single-hole”) include the most recent common ancestor of the living __platypus__ ( *__Ornithorhynchus__* ), the four living __echidnas__ ( *__Tachyglossus__* & *__Zaglossus__* ), and all of that ancestor’s descendants. All living monotremes lack teeth as adults (although platypus do have baby teeth), which is a bit of a problem since what little fossil record exists for monotremes consists mostly of teeth. Modern forms have highly-derived cranial anatomy specialized for eating ants/termites in forests (Tachyglossa) or crushing crustaceans in rivers (Platypoda).",
       "ntitle" : "9.4 Monotremata"
     },
     "9-5-Theriimorpha" : {
-      "md" : "# 9.5 Theriimorpha\r\n### (Middle Jurassic? - Present)\r\n## Key Features\r\n+ __Scapular spine__ delineates separate __supraspinous fossa__ on scapula\r\n+ __Coracoid is reduced__ ; no longer a separate bone\r\n+ __Clavicle-interclavicle joint is mobile__\r\n\r\nThe __Theriimorpha__ (“beast-shape”) are the sister group to the Australosphenida, and are the other major mammalian lineage. This clade includes the derived therians, but also several progressive outgroups. The most basal theriimorphs are the __Eutriconodonta__ (“good-three-cone-teeth”) from the Middle Jurassic to the Late Cretaceous. The name comes from their molars, which have three cone-shaped main cusps arranged in a row. This morphology is superficially quite similar to that seen in more basal groups like the morganucodonts and *Kuehneotherium*, which is why stem-therians have historically been phylogenetically confusing. Aside from their teeth, eutriconodonts are characterized by an __enlarged masseteric fossa__ and __small ribs on their lumbar vertebrae__. Theriimorphs include forms that got up to the size of large foxes— *__Repenomamus__* was actually found associated with *Psittacosaurus* remains, suggesting some of these larger theriimorphs were actually eating dinosaurs! With that being said, most other known theriimorphs were generally gracile and insectivorous. ",
+      "md" : "# 9.5 Theriimorpha\r\n### (Middle Jurassic? - Present)\r\n## Key Features\r\n+ __[Scapular spine](#483_gobiconodonostromiwhole)__ delineates separate __supraspinous fossa__ on scapula\r\n+ __[Coracoid is reduced](#483_gobiconodonostromiwhole)__ ; no longer a separate bone\r\n+ __[Clavicle-interclavicle joint is mobile](#483_gobiconodonostromiwhole)__\r\n\r\nThe __Theriimorpha__ (“beast-shape”) are the sister group to the Australosphenida, and are the other major mammalian lineage. This clade includes the derived therians, but also several progressive outgroups. The most basal theriimorphs are the __[Eutriconodonta](#484_jeholodensjenkinsiwhole)__ (“good-three-cone-teeth”) from the Middle Jurassic to the Late Cretaceous. The name comes from their molars, which have three cone-shaped main cusps arranged in a row. This morphology is superficially quite similar to that seen in more basal groups like the morganucodonts and *Kuehneotherium*, which is why stem-therians have historically been phylogenetically confusing. Aside from their teeth, eutriconodonts are characterized by an __[enlarged masseteric fossa](#484_jeholodensjenkinsiwhole)__ and __[small ribs on their lumbar vertebrae](#483_gobiconodonostromiwhole)__. Theriimorphs include forms that got up to the size of large foxes— *__[Repenomamus](#485_repenomamusrobustuswhole)__* was actually found associated with *Psittacosaurus* remains, suggesting some of these larger theriimorphs were actually eating dinosaurs! With that being said, most other known theriimorphs were generally gracile and insectivorous. ",
       "ntitle" : "9.5 Theriimorpha"
     },
     "9-6-Theriiformes" : {
-      "md" : "# 9.6 Theriiformes \r\n### (Late Jurassic? - Present)\r\n## Key Features\r\n+ I __nterclavicle is further reduced__\r\n\r\nThe __Theriiformes__ (“beast-form”) include all things closer to therians than eutriconodonts. The most basal of these are the __Multituberculata__, which were an incredibly diverse group of Mesozoic mammals that lasted from the Late Jurassic until the Late Eocene! These animals actually *increased* in diversity through the K-Pg extinction event that took out the dinosaurs and most synapsids. Multituberculates had a rather rodent-like ecomorphology with __procumbent incisors__, __a diastema__, __propalinal jaw motion__, and __modified, multi-cusped cheek teeth__. The fourth premolar in particular is modified into a __serrated, bladelike plagiaulacoid__. Some members of this group, like *__Ptilodus__*, preserve epipubic bones like monotremes and metatherians.\r\n\r\nThe __Spalacotheroiidae__ are a group of theriiforms that existed from the Late Triassic or Early Jurassic until the Late Cretaceous. They show a a __reduced interclavicle__ and __triangular molars__, but lack either a protocone or a talonid basin. *Kuehneotherium* is sometimes grouped with the spalacotheroids in a clade known as the __Symmetrodonta__. The multiple appearances of tribosphenic molars may make ‘sym- metrodonts’ a paraphyletic grouping, despite all its proposed members sharing symmetrical, triangular teeth without protocones or paracones.\r\n\r\nThe __Dryolestoidea__ were known from the Middle Jurassic until the Paleocene on Laurasian continents, making it through the K-Pg extinction event with the multituberculates. Dryolestoids are important because they show advanced theriiform dentition, without quite making it to true tribosphenic molars.",
+      "md" : "# 9.6 Theriiformes \r\n### (Late Jurassic? - Present)\r\n## Key Features\r\n+ I __nterclavicle is further reduced__\r\n\r\nThe __Theriiformes__ (“beast-form”) include all things closer to therians than eutriconodonts. The most basal of these are the __[Multituberculata](#486_multituberculataskulls)__, which were an incredibly diverse group of Mesozoic mammals that lasted from the Late Jurassic until the Late Eocene! These animals actually *increased* in diversity through the K-Pg extinction event that took out the dinosaurs and most synapsids. Multituberculates had a rather rodent-like ecomorphology with __procumbent incisors__, __a diastema__, __propalinal jaw motion__, and __modified, multi-cusped cheek teeth__. The fourth premolar in particular is modified into a __[serrated, bladelike plagiaulacoid](#95_ptilodusmontanustooth)__. Some members of this group, like *__[Ptilodus](#95_ptilodusmontanustooth)__*, preserve epipubic bones like monotremes and metatherians.\r\n\r\nThe __[Spalacotheroiidae](#487_spalacotheriumtricuspidensjaw)__ are a group of theriiforms that existed from the Late Triassic or Early Jurassic until the Late Cretaceous. They show a a __reduced interclavicle__ and __triangular molars__, but lack either a protocone or a talonid basin. *Kuehneotherium* is sometimes grouped with the spalacotheroids in a clade known as the __Symmetrodonta__. The multiple appearances of tribosphenic molars may make ‘sym- metrodonts’ a paraphyletic grouping, despite all its proposed members sharing symmetrical, triangular teeth without protocones or paracones.\r\n\r\nThe __[Dryolestoidea](#488_dryolestespriscusjaw)__ were known from the Middle Jurassic until the Paleocene on Laurasian continents, making it through the K-Pg extinction event with the multituberculates. Dryolestoids are important because they show advanced theriiform dentition, without quite making it to true tribosphenic molars.",
       "ntitle" : "9.6 Theriiformes"
     },
     "9-7-Prototribosphenida" : {
-      "md" : "# 9.7 Prototribosphenida\r\n### (Late Middle Jurassic - Present)\r\n## Key Features\r\n+ Presence of __incipient talonid basin__\r\n\r\nThe __Prototribosphenida__ are an important group of theriformes because the earliest members show the incipient stages of a tribosphenic molar. *__Vincelestes__* from the Early Cretaceous and *__Palaeoxonodon__* from the Middle Jurassic both have a partially-formed talonid basin for crushing up food. ",
+      "md" : "# 9.7 Prototribosphenida\r\n### (Late Middle Jurassic - Present)\r\n## Key Features\r\n+ Presence of __[incipient talonid basin](#490_palaeoxonodonjaw)__\r\n\r\nThe __Prototribosphenida__ are an important group of theriformes because the earliest members show the incipient stages of a tribosphenic molar. *__[Vincelestes](#489_vincelestesneuquenianusskull)__* from the Early Cretaceous and *__[Palaeoxonodon](#490_palaeoxonodonjaw)__* from the Middle Jurassic both have a partially-formed talonid basin for crushing up food. ",
       "ntitle" : "9.7 Prototribosphenida"
     },
     "9-8-Boreosphenida" : {
-      "md" : "# 9.8 Boreosphenida \r\n### (Early Cretaceous - Present)\r\n## Key Features\r\n+ __Tribosphenic molar__ (convergent with Australosphenida)\r\n\r\nThe __Boreosphenida__ (‘northern-wind-wedge’) are an important clade because the ancestral boreosphenid evolved a tribosphenic molar, converging on the tribosphenic molar of australosphenids. There are a few non-therians that fall within this clade, including *__Aegialodon__* and *__Kielantherium__*.",
+      "md" : "# 9.8 Boreosphenida \r\n### (Early Cretaceous - Present)\r\n## Key Features\r\n+ __[Tribosphenic](#491_didelphodustribosphenic)__ __[molar](#94_didelphodustribospheniclower)__ (convergent with Australosphenida)\r\n\r\nThe __Boreosphenida__ (‘northern-wind-wedge’) are an important clade because the ancestral boreosphenid evolved a tribosphenic molar, converging on the tribosphenic molar of australosphenids. There are a few non-therians that fall within this clade, including *__[Kielantherium](#492_kielantheriumtooth)__*. \r\n\r\nThe true __[tribosphenic molar morphology](#474_tribosphenicandpseudotribosphenicmolars)__ consists of a triangular upper (maxillary) molar and a broader, trapezoidal lower (mandibular) molar. When the jaw is closed, the large, lingual cusp ( __protocone__ ) on the upper molar interlocks with the recessed __talonid__ basin on the posterior end of the lower molar to crush and grind food; at the same time, various crests on the leading edge of the upper molar shear past the elevated __trigonid__ on the anterior end of the lower molar in a scissor-like cutting motion. This combination of crushing and cutting actions afforded the earliest mammals tremendous dietary flexibility by giving them the ability to process a wide variety of materials in their mouths.",
       "ntitle" : "9.8 Boreosphenida"
     },
     "9-9-Theria" : {
-      "md" : "# 9.9 Theria \r\n### (Early Cretaceous - Present) \r\n## Key Features\r\n+ __Glenoid pointed ventrally__\r\n+ __Interclavicle lost__, clavicle now articulates with manubrium\r\n\r\n__Theria__ (“beast”) unites marsupials and placentals, as well as their stem groups. This group includes the stem-based clades, __Metatheria__ and __Eutheria__, and includes no members that do not fall along one of these two lineages.",
+      "md" : "# 9.9 Theria \r\n### (Early Cretaceous - Present) \r\n## Key Features\r\n+ __[Glenoid pointed ventrally](#194_pumaconcolorwhole)__\r\n+ __[Interclavicle lost](#194_pumaconcolorwhole)__, clavicle now articulates with manubrium\r\n\r\n__Theria__ (“beast”) unites marsupials and placentals, as well as their stem groups. This group includes the stem-based clades, __Metatheria__ and __Eutheria__, and includes no members that do not fall along one of these two lineages.",
       "ntitle" : "9.9 Theria"
     }
   },
@@ -556,6 +556,66 @@
     }
   },
   "nodes" : {
+    "10-1-Placentalia" : {
+      "default" : "",
+      "ntitle" : "10.1 Placentalia",
+      "sids" : [ "" ]
+    },
+    "10-10-Perissodactyla" : {
+      "default" : "",
+      "ntitle" : "10.10 Perissodactyla",
+      "sids" : [ "" ]
+    },
+    "10-11-Ferae" : {
+      "default" : "",
+      "ntitle" : "10.11 Ferae",
+      "sids" : [ "" ]
+    },
+    "10-12-Carnivora" : {
+      "default" : "",
+      "ntitle" : "10.12 Carnivora",
+      "sids" : [ "" ]
+    },
+    "10-2-Atlantogenata" : {
+      "default" : "",
+      "ntitle" : "10.2 Atlantogenata",
+      "sids" : [ "" ]
+    },
+    "10-3-Afrotheria" : {
+      "default" : "",
+      "ntitle" : "10.3 Afrotheria",
+      "sids" : [ "" ]
+    },
+    "10-4-Xenarthra" : {
+      "default" : "",
+      "ntitle" : "10.4 Xenarthra",
+      "sids" : [ "" ]
+    },
+    "10-5-Boreoeutheria" : {
+      "default" : "",
+      "ntitle" : "10.5 Boreoeutheria",
+      "sids" : [ "" ]
+    },
+    "10-6-Euarchontoglires" : {
+      "default" : "",
+      "ntitle" : "10.6 Euarchontoglires",
+      "sids" : [ "" ]
+    },
+    "10-7-Glires" : {
+      "default" : "",
+      "ntitle" : "10.7 Glires",
+      "sids" : [ "" ]
+    },
+    "10-8-Laurasiatheria" : {
+      "default" : "",
+      "ntitle" : "10.8 Laurasiatheria",
+      "sids" : [ "" ]
+    },
+    "10-9-Cetartiodactyla" : {
+      "default" : "",
+      "ntitle" : "10.9 Cetartiodactyla",
+      "sids" : [ "" ]
+    },
     "5-1-Reptiliomorpha" : {
       "default" : "21_archeriaverts",
       "ntitle" : "5.1 Reptiliomorpha",
@@ -800,6 +860,61 @@
       "default" : "75_kayentatheriumwellesiskull",
       "ntitle" : "8.8 Mammaliamorpha",
       "sids" : [ "75_kayentatheriumwellesiskull" ]
+    },
+    "9-1-Mammaliaformes" : {
+      "default" : "463_megaconustailfur",
+      "ntitle" : "9.1 Mammaliaformes",
+      "sids" : [ "463_megaconustailfur", "464_homosapiensmixeddentition", "314_morganucodonoehleriskull", "103_sarcophilusharrisiiwhole", "473_homosapiensdentition", "467_sinoconodonskull", "96_docodontooth", "477_agilodocodonwhole", "476_castorocaudawhole", "474_tribosphenicandpseudotribosphenicmolars", "475_haldanodonandshuotheriummolars", "479_kuehneotheriumstanislaviteeth", "315_hadrocodiumwuiskull" ]
+    },
+    "9-10-Metatheria" : {
+      "default" : "134_didelphisvirginianaskull",
+      "ntitle" : "9.10 Metatheria",
+      "sids" : [ "134_didelphisvirginianaskull", "498_thylacinecynocephaluscranium", "496_vombatusursinuscranium", "493_sinodelphyswhole", "68_didelphisskull", "494_thylacosmilusatroxskull", "495_thylacoleocarnifexcranium", "497_lagorchestescranium", "23_diprotodonoptatumskull" ]
+    },
+    "9-11-Eutheria" : {
+      "default" : "464_homosapiensmixeddentition",
+      "ntitle" : "9.11 Eutheria",
+      "sids" : [ "464_homosapiensmixeddentition", "194_pumaconcolorwhole", "92_commonsealbulla", "468_homosapiensplacenta", "472_juramaiawhole", "469_eomaiascansoriawhole", "470_eomaiaandsinodelphyshumerusandcarpus", "103_sarcophilusharrisiiwhole", "471_odobenusrosmarusbaculum" ]
+    },
+    "9-2-Mammalia" : {
+      "default" : "",
+      "ntitle" : "9.2 Mammalia",
+      "sids" : [ "" ]
+    },
+    "9-3-Australosphenida" : {
+      "default" : "80_steropodongalmaniteeth",
+      "ntitle" : "9.3 Australosphenida",
+      "sids" : [ "80_steropodongalmaniteeth", "481_ambondroteeth", "480_australosphenidamolar" ]
+    },
+    "9-4-Monotremata" : {
+      "default" : "499_tachyglossuswhole",
+      "ntitle" : "9.4 Monotremata",
+      "sids" : [ "499_tachyglossuswhole", "482_ornithorhynchusnest" ]
+    },
+    "9-5-Theriimorpha" : {
+      "default" : "483_gobiconodonostromiwhole",
+      "ntitle" : "9.5 Theriimorpha",
+      "sids" : [ "483_gobiconodonostromiwhole", "484_jeholodensjenkinsiwhole", "485_repenomamusrobustuswhole" ]
+    },
+    "9-6-Theriiformes" : {
+      "default" : "486_multituberculataskulls",
+      "ntitle" : "9.6 Theriiformes",
+      "sids" : [ "486_multituberculataskulls", "95_ptilodusmontanustooth", "487_spalacotheriumtricuspidensjaw", "488_dryolestespriscusjaw" ]
+    },
+    "9-7-Prototribosphenida" : {
+      "default" : "490_palaeoxonodonjaw",
+      "ntitle" : "9.7 Prototribosphenida",
+      "sids" : [ "490_palaeoxonodonjaw", "489_vincelestesneuquenianusskull" ]
+    },
+    "9-8-Boreosphenida" : {
+      "default" : "491_didelphodustribosphenic",
+      "ntitle" : "9.8 Boreosphenida",
+      "sids" : [ "491_didelphodustribosphenic", "94_didelphodustribospheniclower", "492_kielantheriumtooth", "474_tribosphenicandpseudotribosphenicmolars" ]
+    },
+    "9-9-Theria" : {
+      "default" : "194_pumaconcolorwhole",
+      "ntitle" : "9.9 Theria",
+      "sids" : [ "194_pumaconcolorwhole" ]
     }
   },
   "specimens" : {
@@ -834,7 +949,7 @@
       "metadata" : {
         "attribution" : {
           "institution" : "U. of  Edinburgh",
-          "people" : ""
+          "people" : "Tobias Schwarz"
         },
         "description" : "whole",
         "taxon" : "Tachyglossus aculeatus"
@@ -855,15 +970,15 @@
       "resource" : "https://sketchfab.com/3d-models/royal-pyhon-pyhon-regus-f5167ed86b874dfe832ca9dd7afa2982",
       "type" : "sketchfab"
     },
-    "103_tasmaniandevilwhole" : {
-      "a" : "#103_tasmaniandevilwhole",
+    "103_sarcophilusharrisiiwhole" : {
+      "a" : "#103_sarcophilusharrisiiwhole",
       "metadata" : {
         "attribution" : {
           "institution" : "U. of  Edinburgh",
-          "people" : ""
+          "people" : "Tobias Schwarz"
         },
         "description" : "whole",
-        "taxon" : " Tasmanian devil"
+        "taxon" : "Sarcophilus harrisii"
       },
       "resource" : "https://sketchfab.com/3d-models/tasmanian-devil-sarcophilus-harrisii-13f6825731014432b7fd381b273c8ed3",
       "type" : "sketchfab"
@@ -1297,15 +1412,15 @@
       "resource" : "https://sketchfab.com/3d-models/c-42-1-ceratosaurus-nasicornis-8f0c5243593d46c78916d01d5066fff6",
       "type" : "sketchfab"
     },
-    "134_virginiaopossumskull" : {
-      "a" : "#134_virginiaopossumskull",
+    "134_didelphisvirginianaskull" : {
+      "a" : "#134_didelphisvirginianaskull",
       "metadata" : {
         "attribution" : {
           "institution" : "OSU",
           "people" : ""
         },
-        "description" : "",
-        "taxon" : "Virginia opossum skull"
+        "description" : "skull",
+        "taxon" : "Didelphis virginiana"
       },
       "resource" : "https://sketchfab.com/3d-models/virginia-opossum-fw1293-8c2152da1bd542dbbb65a9d3e7a2f53e",
       "type" : "sketchfab"
@@ -2155,15 +2270,15 @@
       "resource" : "https://sketchfab.com/3d-models/mata-mata-86507c0440374657a913071722f0d522",
       "type" : "sketchfab"
     },
-    "194_mountainlionwhole" : {
-      "a" : "#194_mountainlionwhole",
+    "194_pumaconcolorwhole" : {
+      "a" : "#194_pumaconcolorwhole",
       "metadata" : {
         "attribution" : {
           "institution" : "IVL | IDMNH",
           "people" : ""
         },
-        "description" : "",
-        "taxon" : "mountain lion whole"
+        "description" : "whole",
+        "taxon" : "Puma concolor"
       },
       "resource" : "https://sketchfab.com/3d-models/mountain-lion-r-996-7fa93e512aad4344ab2d90484e454d56",
       "type" : "sketchfab"
@@ -6029,70 +6144,96 @@
       "resource" : "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cotylorhynchus_romeria_from_Norman%2C_Oklahoma.jpg",
       "type" : "image"
     },
-    "463_" : {
-      "a" : "#463_",
+    "463_megaconustailfur" : {
+      "a" : "#463_megaconustailfur",
       "metadata" : {
         "attribution" : {
-          "institution" : "",
-          "people" : ""
+          "institution" : "Paleontological Museum of Liaoning",
+          "people" : "April Isch Neander, Zhe-Xi Luo"
         },
-        "description" : "",
-        "taxon" : ""
+        "description" : "tail fur",
+        "taxon" : "Megaconus"
       },
-      "resource" : "",
-      "type" : ""
+      "resource" : "https://scx2.b-cdn.net/gfx/news/hires/2013/2-newprotomamm.jpg",
+      "type" : "image"
     },
-    "464_" : {
-      "a" : "#464_",
+    "464_homosapiensmixeddentition" : {
+      "a" : "#464_homosapiensmixeddentition",
       "metadata" : {
         "attribution" : {
           "institution" : "",
-          "people" : ""
+          "people" : "Coronation Dental"
         },
-        "description" : "",
-        "taxon" : ""
+        "description" : "mixeddentition",
+        "taxon" : "Homo sapiens"
       },
-      "resource" : "",
-      "type" : ""
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/1/14/Mixed_dentition_pan.jpg",
+      "type" : "image"
     },
-    "465_" : {
-      "a" : "#465_",
+    "465_didelphisvirginianahumerus" : {
+      "a" : "#465_didelphisvirginianahumerus",
       "metadata" : {
         "attribution" : {
-          "institution" : "",
-          "people" : ""
+          "institution" : "S. Pierce Lab, Harvard University (SEP)",
+          "people" : "PF-L"
         },
-        "description" : "",
-        "taxon" : ""
+        "description" : "humerus",
+        "taxon" : "Didelphis virginiana"
       },
-      "resource" : "",
-      "type" : ""
+      "resource" : "https://sketchfab.com/3d-models/465-didelphisvirginianahumerus-1d0f98134595478487dbdaf1a4c297d9",
+      "type" : "sketchfab"
     },
-    "466_" : {
-      "a" : "#466_",
+    "466_adelobasileuscromptonibraincase" : {
+      "a" : "#466_adelobasileuscromptonibraincase",
       "metadata" : {
         "attribution" : {
           "institution" : "",
-          "people" : ""
+          "people" : "Christian Kammerer"
         },
-        "description" : "",
-        "taxon" : ""
+        "description" : "braincase",
+        "taxon" : "Adelobasileus cromptoni"
       },
-      "resource" : "",
-      "type" : ""
+      "resource" : "https://pbs.twimg.com/media/DuYTNDLV4AIHlSS?format=jpg&name=4096x4096",
+      "type" : "image"
     },
-    "467_" : {
-      "a" : "#467_",
+    "467_sinoconodonskull" : {
+      "a" : "#467_sinoconodonskull",
       "metadata" : {
         "attribution" : {
           "institution" : "",
-          "people" : ""
+          "people" : "Crompton and Sun"
         },
-        "description" : "",
-        "taxon" : ""
+        "description" : "skull",
+        "taxon" : "Sinoconodon"
       },
-      "resource" : "",
-      "type" : ""
+      "resource" : "https://i.pinimg.com/564x/24/b8/fb/24b8fbbff15cd543ac22f818ad7c02b3.jpg",
+      "type" : "image"
+    },
+    "468_homosapiensplacenta" : {
+      "a" : "#468_homosapiensplacenta",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Henry Gray"
+        },
+        "description" : "placenta",
+        "taxon" : "Homo sapiens"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/e/e6/Gray39.png",
+      "type" : "image"
+    },
+    "469_eomaiascansoriawhole" : {
+      "a" : "#469_eomaiascansoriawhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Zofia Kielan-Jaworowska and Jørn H. Hurum"
+        },
+        "description" : "whole",
+        "taxon" : "Eomaia scansoria"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/3/37/Eomaia.jpg",
+      "type" : "image"
     },
     "46_ichthyosauruscommuniswhole" : {
       "a" : "#46_ichthyosauruscommuniswhole",
@@ -6107,6 +6248,136 @@
       "resource" : "https://sketchfab.com/3d-models/46-ichthyosaurus-4ffee7ba4a5f4d7ea4ef32cd6afcb3b0",
       "type" : "sketchfab"
     },
+    "470_eomaiaandsinodelphyshumerusandcarpus" : {
+      "a" : "#470_eomaiaandsinodelphyshumerusandcarpus",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Williamson TE et al."
+        },
+        "description" : "humerus and carpus",
+        "taxon" : "Eomaia and Sinodelphys "
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/5/59/Humerus_and_carpi_of_Cretaceous_metatherians_-_ZooKeys_465-11.png",
+      "type" : "image"
+    },
+    "471_odobenusrosmarusbaculum" : {
+      "a" : "#471_odobenusrosmarusbaculum",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Virtual Curation Lab"
+        },
+        "description" : "baculum",
+        "taxon" : "Odobenus rosmarus"
+      },
+      "resource" : "https://sketchfab.com/3d-models/walrus-baculum-vcu-3d-3301-7a8c65ecdf9042019bd79bfa6903522a",
+      "type" : "sketchfab"
+    },
+    "472_juramaiawhole" : {
+      "a" : "#472_juramaiawhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "Carnegie Museum of Natural History",
+          "people" : "Zhe-Xi Luo"
+        },
+        "description" : "whole",
+        "taxon" : "Juramaia"
+      },
+      "resource" : "https://ichef.bbci.co.uk/news/304/media/images/54800000/jpg/_54800819_image1.jpg",
+      "type" : "image"
+    },
+    "473_homosapiensdentition" : {
+      "a" : "#473_homosapiensdentition",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Renske Hoste"
+        },
+        "description" : "dentition",
+        "taxon" : "Homo sapiens"
+      },
+      "resource" : "https://sketchfab.com/3d-models/skull-mandible-and-the-inf-alveolar-nerve-652ce3a601dd4aef8a317adc001d1c25",
+      "type" : "sketchfab"
+    },
+    "474_tribosphenicandpseudotribosphenicmolars" : {
+      "a" : "#474_tribosphenicandpseudotribosphenicmolars",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Zhe-Xi Luo"
+        },
+        "description" : "molars",
+        "taxon" : "Tribosphenic and pseudotribosphenic"
+      },
+      "resource" : "https://www.researchgate.net/profile/Zhe-Xi_Luo/publication/5873242/figure/fig3/AS:281138816929823@1444040125306/Comparison-of-tribosphenic-and-pseudo-tribosphenic-molarsa-Skull-of-the-marsupial.png",
+      "type" : "image"
+    },
+    "475_haldanodonandshuotheriummolars" : {
+      "a" : "#475_haldanodonandshuotheriummolars",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Brian Davis"
+        },
+        "description" : "molars",
+        "taxon" : "Haldanodon and Shuotherium"
+      },
+      "resource" : "https://www.researchgate.net/profile/Brian_Davis16/publication/251303309/figure/fig5/AS:668565837447178@1536409925358/Molars-of-the-docodont-Haldanodon-and-the-shuotheriid-Shuotherium-in-occlusal-view-A.png",
+      "type" : "image"
+    },
+    "476_castorocaudawhole" : {
+      "a" : "#476_castorocaudawhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Ji et al."
+        },
+        "description" : "whole",
+        "taxon" : "Castorocauda"
+      },
+      "resource" : "https://science.sciencemag.org/content/311/5764/1123/F1.large.jpg",
+      "type" : "image"
+    },
+    "477_agilodocodonwhole" : {
+      "a" : "#477_agilodocodonwhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Meng et al."
+        },
+        "description" : "whole",
+        "taxon" : "Agilodocodon"
+      },
+      "resource" : "https://science.sciencemag.org/content/347/6223/764/F1.large.jpg",
+      "type" : "image"
+    },
+    "478_haramiyaviajaw" : {
+      "a" : "#478_haramiyaviajaw",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "April Isch Neander"
+        },
+        "description" : "jaw",
+        "taxon" : "Haramiyavia"
+      },
+      "resource" : "https://static01.nyt.com/images/2015/11/16/science/07mammals2/07mammals2-superJumbo.jpg",
+      "type" : "image"
+    },
+    "479_kuehneotheriumstanislaviteeth" : {
+      "a" : "#479_kuehneotheriumstanislaviteeth",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Maxime Debuysschere"
+        },
+        "description" : "teeth",
+        "taxon" : "Kuehneotherium stanislavi "
+      },
+      "resource" : "https://d3i71xaburhd42.cloudfront.net/b1b770b989677a3134807c98dc87d4fa8047aeed/6-Figure1-1.png",
+      "type" : "image"
+    },
     "47_salvatormerianaeossifiedepiphyses" : {
       "a" : "#47_salvatormerianaeossifiedepiphyses",
       "metadata" : {
@@ -6120,6 +6391,136 @@
       "resource" : "https://sketchfab.com/3d-models/47-salvator-ossified-epiphyses-1918b259d03442bb99418294dd6d8dd5",
       "type" : "sketchfab"
     },
+    "480_australosphenidamolar" : {
+      "a" : "#480_australosphenidamolar",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Flynn et al. "
+        },
+        "description" : "molar",
+        "taxon" : "Australosphenida"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Australosphenidan_molar_labeled.png",
+      "type" : "image"
+    },
+    "481_ambondroteeth" : {
+      "a" : "#481_ambondroteeth",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "A.R. Wyss"
+        },
+        "description" : "teeth",
+        "taxon" : "Ambondro"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/8/82/Ambondro_lingual.jpg",
+      "type" : "image"
+    },
+    "482_ornithorhynchusnest" : {
+      "a" : "#482_ornithorhynchusnest",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Matteo De Stefano/MUSE"
+        },
+        "description" : "nest",
+        "taxon" : "Ornithorhynchus"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ornithorhynchus_anatinus_-_nest_with_eggs_-_MUSE.JPG",
+      "type" : "image"
+    },
+    "483_gobiconodonostromiwhole" : {
+      "a" : "#483_gobiconodonostromiwhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "American Museum of Natural History (AMNH)",
+          "people" : "Ghedoghedo"
+        },
+        "description" : "whole",
+        "taxon" : "Gobiconodon ostromi"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/8/87/Gobiconodon_ostromi.JPG",
+      "type" : "image"
+    },
+    "484_jeholodensjenkinsiwhole" : {
+      "a" : "#484_jeholodensjenkinsiwhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Ji et al."
+        },
+        "description" : "whole",
+        "taxon" : "Jeholodens jenkinsi"
+      },
+      "resource" : "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F18665/MediaObjects/41586_1999_Article_BF18665_Fig1_HTML.gif",
+      "type" : "image"
+    },
+    "485_repenomamusrobustuswhole" : {
+      "a" : "#485_repenomamusrobustuswhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "Paleozoological Museum of China",
+          "people" : "Jonathan Chen"
+        },
+        "description" : "whole",
+        "taxon" : "Repenomamus robustus"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/6/67/Repenomamus_robustus-Paleozoological_Museum_of_China.jpg",
+      "type" : "image"
+    },
+    "486_multituberculataskulls" : {
+      "a" : "#486_multituberculataskulls",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Kielan-Jaworowska and Nessov"
+        },
+        "description" : "skulls",
+        "taxon" : "Multituberculata"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/5/5e/Multituberculata_skulls.jpg",
+      "type" : "image"
+    },
+    "487_spalacotheriumtricuspidensjaw" : {
+      "a" : "#487_spalacotheriumtricuspidensjaw",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Richard Owen"
+        },
+        "description" : "jaw",
+        "taxon" : "Spalacotherium tricuspidens"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/7/72/EB1911_Marsupialia_-_Spalacotherium_tricuspidens%2C_Purbeck_beds.jpg",
+      "type" : "image"
+    },
+    "488_dryolestespriscusjaw" : {
+      "a" : "#488_dryolestespriscusjaw",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "O.C. Marsh"
+        },
+        "description" : "jaw",
+        "taxon" : "Dryolestes priscus"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/5/58/Dryolestes_priscus_lower_jaw.jpg",
+      "type" : "image"
+    },
+    "489_vincelestesneuquenianusskull" : {
+      "a" : "#489_vincelestesneuquenianusskull",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Timothy Rowe"
+        },
+        "description" : "skull",
+        "taxon" : "Vincelestes neuquenianus"
+      },
+      "resource" : "http://digimorph.org/specimens/Vincelestes_neuquenianus/hzspinw.mp4",
+      "type" : "video-digimorph"
+    },
     "48_plateosauruscervical" : {
       "a" : "#48_plateosauruscervical",
       "metadata" : {
@@ -6131,6 +6532,136 @@
         "taxon" : "Plateosaurus"
       },
       "resource" : "https://sketchfab.com/3d-models/48-plateosaurus-aeb8f27a041640d4a141f1814fa5e31a",
+      "type" : "sketchfab"
+    },
+    "490_palaeoxonodonjaw" : {
+      "a" : "#490_palaeoxonodonjaw",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "R. A. Close et al."
+        },
+        "description" : "jaw",
+        "taxon" : "Palaeoxonodon"
+      },
+      "resource" : "https://onlinelibrary.wiley.com/cms/asset/37ec4b76-58d7-442a-80d9-8fa28a8a6fe6/pala12218-fig-0003-m.jpg",
+      "type" : "image"
+    },
+    "491_didelphodustribosphenic" : {
+      "a" : "#491_didelphodustribosphenic",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "Museum of Comparative Zoology (MCZ)",
+          "people" : "PF-L"
+        },
+        "description" : "tribosphenic",
+        "taxon" : "Didelphodus"
+      },
+      "resource" : "https://sketchfab.com/3d-models/94-tribosphenica-ee6134dbbabd4dcfbc2d6ce1ee0a6b04",
+      "type" : "sketchfab"
+    },
+    "492_kielantheriumtooth" : {
+      "a" : "#492_kielantheriumtooth",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Alexey V. Lopatin and Alexander O. Averianov"
+        },
+        "description" : "tooth",
+        "taxon" : "Kielantherium"
+      },
+      "resource" : "https://science.sciencemag.org/content/sci/313/5790/1092/F1.large.jpg",
+      "type" : "image"
+    },
+    "493_sinodelphyswhole" : {
+      "a" : "#493_sinodelphyswhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Ghedoghedo"
+        },
+        "description" : "whole",
+        "taxon" : "Sinodelphys"
+      },
+      "resource" : "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sinodelphys_szalayi_7.JPG",
+      "type" : "image"
+    },
+    "494_thylacosmilusatroxskull" : {
+      "a" : "#494_thylacosmilusatroxskull",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Virtual Curation Lab"
+        },
+        "description" : "skull",
+        "taxon" : "Thylacosmilus atrox "
+      },
+      "resource" : "https://sketchfab.com/3d-models/marsupial-saber-tooth-skull-cast-vcu-3d-4340-f065e85fb6bb4b9e8b1c85ae4595a88b",
+      "type" : "sketchfab"
+    },
+    "495_thylacoleocarnifexcranium" : {
+      "a" : "#495_thylacoleocarnifexcranium",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "",
+          "people" : "Virtual Curation Lab"
+        },
+        "description" : "cranium",
+        "taxon" : "Thylacoleo carnifex"
+      },
+      "resource" : "https://sketchfab.com/3d-models/marsupial-lion-skull-vcu-3d-4332-5238f5ff88154c39a53d1a0e4851eb52",
+      "type" : "sketchfab"
+    },
+    "496_vombatusursinuscranium" : {
+      "a" : "#496_vombatusursinuscranium",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "UNE",
+          "people" : "Michael Curry"
+        },
+        "description" : "cranium",
+        "taxon" : "Vombatus ursinus"
+      },
+      "resource" : "https://sketchfab.com/3d-models/vombatus-ursinus-9841c2db07af4735b0b8fb63ac4365fe",
+      "type" : "sketchfab"
+    },
+    "497_lagorchestescranium" : {
+      "a" : "#497_lagorchestescranium",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "University of Queensland",
+          "people" : "Adddy"
+        },
+        "description" : "cranium",
+        "taxon" : "Lagorchestes"
+      },
+      "resource" : "https://sketchfab.com/3d-models/hare-wallaby-skull-31b304b2dd9041298a3becc6e24d9952",
+      "type" : "sketchfab"
+    },
+    "498_thylacinecynocephaluscranium" : {
+      "a" : "#498_thylacinecynocephaluscranium",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "Centre for Digital Humanities Research",
+          "people" : ""
+        },
+        "description" : "cranium",
+        "taxon" : "Thylacine cynocephalus"
+      },
+      "resource" : "https://sketchfab.com/3d-models/thylacine-cynocephalus-skull-ce69bdef58a54fcea5aefa7ec266117a",
+      "type" : "sketchfab"
+    },
+    "499_tachyglossuswhole" : {
+      "a" : "#499_tachyglossuswhole",
+      "metadata" : {
+        "attribution" : {
+          "institution" : "Museum National d’Histoire Naturelle",
+          "people" : "Benoît Rogez"
+        },
+        "description" : "whole",
+        "taxon" : "Tachyglossus"
+      },
+      "resource" : "https://sketchfab.com/3d-models/echidna-point-cloud-36ba5650d2d241f0a545e73620835dbf",
       "type" : "sketchfab"
     },
     "49_deinonychushumerus" : {
@@ -6783,14 +7314,14 @@
       "resource" : "https://sketchfab.com/3d-models/93-board-of-skulls-bcdb8fe08ee54d13b4bfad34f137a05c",
       "type" : "sketchfab"
     },
-    "94_didelphodustribosphenica" : {
-      "a" : "#94_didelphodustribosphenica",
+    "94_didelphodustribospheniclower" : {
+      "a" : "#94_didelphodustribospheniclower",
       "metadata" : {
         "attribution" : {
           "institution" : "Museum of Comparative Zoology (MCZ)",
           "people" : "PF-L"
         },
-        "description" : "tribosphenicA",
+        "description" : "tribosphenic lower",
         "taxon" : "Didelphodus"
       },
       "resource" : "https://sketchfab.com/3d-models/94-tribosphenic-b-af6fb3714dfd41b4a4812b5cf624289f",

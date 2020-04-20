@@ -4,8 +4,7 @@ import { ModalProvider } from 'styled-react-modal'
 import {ReactComponent as Icon} from '../assets/tree-icon.svg'
 import PhyloCanvas from './PhyloCanvas';
 import { LabContext } from '../Viewer';
-import labList from '../data/labList';
-
+import data from '../data/allLists'
 
 
 
@@ -24,12 +23,12 @@ const TreeModal = Modal.styled`
 const Tree = (props) => {
   const lab = useContext(LabContext);
   const [show, setShow] = useState(false);
-  const [tree, setTree] = useState(labList.labs.find(item => item.id==lab).tree);
+  const [tree, setTree] = useState(data.labs[lab].tree);
   function toggleShow(){
     setShow(!show)
   };
   useEffect (() => {
-    setTree(labList.labs.find(item => item.id==lab).tree)
+    setTree(data.labs[lab].tree)
   },[lab])
   return (
       <ModalProvider>

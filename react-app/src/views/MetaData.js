@@ -13,12 +13,15 @@ const SourceLink = props =>
     }}
   />
 
-
 const TaxonHeading = props =>
   <Heading
     {...props}
     sx={{
+      fontFamily: 'Poppins',
+      fontWeight: 600,
       fontStyle: 'italic',
+      fontSize:['16px', '20px'],
+      letterSpacing:'0.5px',
       color: 'white'
     }}
   />
@@ -28,9 +31,9 @@ const AttributionInstitution = props =>
     {...props}
     sx={{
       textTransform: 'uppercase',
-      letterSpacing: '0.14em',
+      letterSpacing: '2.5px',
       color: 'amber',
-      marginTop: '1em',
+      marginTop: '3px',
       fontSize:['10px', '12px']
     }}
   />
@@ -40,15 +43,16 @@ const AttributionPeople = props =>
     {...props}
     sx={{
       textTransform: 'uppercase',
-      letterSpacing: '0.125em',
+      letterSpacing: '2.5px',
       color: 'ochre',
-      marginTop: '0.25em',
+      marginTop: '3px',
       fontSize:['10px', '12px']
     }}
   />
 
 const MetaData = (props) => {
-  const {taxon, attribution} = props.data
+  const {metadata, resource} = props.data
+  const {taxon, attribution} = metadata
   if (attribution.institution == "Museum of Comparative Zoology (MCZ)"){
       return(
         <>
@@ -67,7 +71,7 @@ const MetaData = (props) => {
           </TaxonHeading>
         <AttributionInstitution>{attribution.institution}</AttributionInstitution>
         <AttributionPeople>{attribution.people}</AttributionPeople>
-        <SourceLink href={attribution.origin} target="_blank">
+        <SourceLink href={resource} target="_blank">
           [link]
         </SourceLink>
         </>

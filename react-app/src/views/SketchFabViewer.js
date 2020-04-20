@@ -1,11 +1,18 @@
 import React, {useEffect, useRef} from 'react';
 import styled from 'styled-components';
+import { Box } from 'rebass/styled-components'
 
-const ViewerBox = styled.div`
-  position: relative;
-  overflow: hidden;
-  padding-top: 56.25%;
-`
+
+const ViewerBox = props =>
+  <Box
+    {...props}
+    sx={{
+      position: 'relative',
+      overflow: 'hidden',
+      paddingTop: '56.25%'
+    }}
+  />
+
 
 const ViewerFrame = styled.iframe`
   position: absolute;

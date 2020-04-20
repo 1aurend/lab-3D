@@ -21,11 +21,19 @@ const iconSize = '56px'
 
 const Universe = styled(Box)`
   height: 100%;
+  background-color: black;
+  font-family: 'Cabin', sans-serif;
 `
 
-const Galaxy = styled(Flex)`
-  height: 100vh;
-`
+const Galaxy = props =>
+  <Flex
+    {...props}
+    sx={{
+      flexFlow:['column-reverse nowrap', 'row nowrap'],
+      height: '100vh',
+    }}
+  />
+
 const TreeBox = styled(Box)`
   z-index: 10;
   position: fixed;
@@ -36,8 +44,11 @@ const TreeBox = styled(Box)`
 
 export default function App() {
   // const [lab, setLab] = useState(labList.labs[0].id)
-  const [lab, setLab] = useState("lab 8")
+  const [lab, setLab] = useState("lab 9")
+  console.log("WORLD"+lab);
+
   const [node, setNode] = useState(Object.keys(data.labs[lab].nodes)[0])
+  console.log("HI"+node);
   const [id, setId] = useState(data.nodes[node].default)
   const [hover, setHover] = useState(id)
   console.log("lab is "+lab);
@@ -67,7 +78,7 @@ export default function App() {
                     <TreeBox>
                       <Tree iconSize={iconSize}/>
                     </TreeBox>
-                    <Galaxy sx={{flexFlow:['column nowrap', 'row nowrap']}}>
+                    <Galaxy>
                       <HoverContext.Provider value={hover}>
                         <SetHoverContext.Provider value={setHover}>
                           <InfoPane />
