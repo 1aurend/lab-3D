@@ -2,7 +2,7 @@ import React, {lazy, Suspense, useContext, useEffect, useState, useMemo} from 'r
 import styled from 'styled-components';
 import { Button, Link, Box, Flex, Image } from 'rebass/styled-components'
 import { SetIdContext, IdContext, NodeContext, SetHoverContext } from '../Viewer'
-import { throttle, debounce } from "lodash";
+import { debounce } from "lodash";
 import Markdown from 'markdown-to-jsx'
 import data from '../data/allLists'
 

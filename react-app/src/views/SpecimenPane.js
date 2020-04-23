@@ -25,7 +25,7 @@ const Lightbox = styled(Image)`
   max-height: 75vh;
   width: auto;
   object-fit: contain;
-  background-color:white;
+  background-color:black;
 `
 
 const PaneWrapper = ({children}) => {

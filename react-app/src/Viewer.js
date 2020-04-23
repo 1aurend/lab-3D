@@ -44,11 +44,8 @@ const TreeBox = styled(Box)`
 
 export default function App() {
   // const [lab, setLab] = useState(labList.labs[0].id)
-  const [lab, setLab] = useState("lab 9")
-  console.log("WORLD"+lab);
-
+  const [lab, setLab] = useState("lab 10")
   const [node, setNode] = useState(Object.keys(data.labs[lab].nodes)[0])
-  console.log("HI"+node);
   const [id, setId] = useState(data.nodes[node].default)
   const [hover, setHover] = useState(id)
   console.log("lab is "+lab);

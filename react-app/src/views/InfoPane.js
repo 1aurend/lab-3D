@@ -1,12 +1,28 @@
 import React, {useContext, useEffect, useRef, useState} from 'react';
 import styled from 'styled-components';
-import {Box, Flex, System} from 'rebass/styled-components';
+import {Box, Flex, Text} from 'rebass/styled-components';
 import {Label, Select} from '@rebass/forms'
 import { LabContext, SetLabContext, NodeContext, SetNodeContext } from '../Viewer'
 import Info from './Info';
 import data from '../data/allLists'
+import courseInfo from '../data/courseInfo'
 import Thumb from './Thumb'
+import Credits from './Credits'
 
+const Title = props =>
+  <Text
+    {...props}
+    sx={{
+      fontFamily: 'Poppins',
+      fontSize: '16px',
+      fontWeight: '500',
+      color: 'black',
+      '> strong':{
+        fontWeight: '900',
+        letterSpacing: '1.5px',
+      }
+    }}
+  />
 
 const Pane = props =>
   <Box
@@ -54,7 +70,7 @@ const InfoPane = () => {
   const [show, setShow] = useState(false)
   return(
     <Pane>
-
+      <Title><strong>{courseInfo.courseID}:{'\u00A0'}</strong>{courseInfo.courseTitle}</Title>
       <DropDown as='form'>
         <Label htmlFor='labChoice'>LAB</Label>
         <Select
@@ -77,7 +93,7 @@ const InfoPane = () => {
           value={node}
           onChange={e=>{setNode(e.target.value)}}>
           {Object.entries(data.labs[lab].nodes)
-            .sort((a, b) => parseInt(a[0].slice(2,4).trim().replace('-',''))-parseInt(b[0].slice(2,4).trim().replace('-','')))
+            .sort((a, b) => parseInt(a[0].slice(2,5).trim().replace('-',''))-parseInt(b[0].slice(2,5).trim().replace('-','')))
             .map(item=>(
             <option value={item[0]}>
               {item[1].title}
@@ -89,6 +105,7 @@ const InfoPane = () => {
           <Info show={show} handler={setShow}/>
           <Thumb show={show}/>
       </InfoBox>
+      <Credits data={courseInfo.people}/>
     </Pane>
   )
 }
